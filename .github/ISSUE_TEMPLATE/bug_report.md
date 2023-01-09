@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: bug, Needs Review
-assignees: spyroskaravanis, PolysP
+assignees: atsta, spyroskaravanis, clioli0s, PolysP
 
 ---
 

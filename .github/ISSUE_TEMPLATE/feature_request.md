@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an idea for this project
 title: ''
 labels: enhancement, Needs Review
-assignees: PolysP, spyroskaravanis
+assignees: atsta, clioli0s, PolysP, spyroskaravanis
 
 ---
 
