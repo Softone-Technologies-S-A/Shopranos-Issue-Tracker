@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: enhancement, Needs Review
+labels: enhancement, open
 assignees: atsta, clioli0s, PolysP, spyroskaravanis
 
 ---

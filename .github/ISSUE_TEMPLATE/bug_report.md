@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: bug, Needs Review
-assignees: atsta, spyroskaravanis, clioli0s, PolysP
+labels: bug, open
+assignees: atsta, clioli0s, PolysP, spyroskaravanis
 
 ---
 
