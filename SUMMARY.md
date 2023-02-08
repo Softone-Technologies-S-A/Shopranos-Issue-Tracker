@@ -84,7 +84,10 @@
   * [Components](prosarmogi/components/README.md)
     * [Βασικά Components](prosarmogi/components/basika-components.md)
     * [Επαναχρησιμοποιούμενα Components](prosarmogi/components/epanaxrisimopoioymena-components.md)
-  * [Πρότυπο](prosarmogi/protypo.md)
+  * [Πρότυπο](prosarmogi/protypo/README.md)
+    * [Πρότυπα Email](prosarmogi/protypo/protypa-email.md)
+    * [Πρότυπα Pdf](prosarmogi/protypo/protypa-pdf.md)
+  * [Proxies](prosarmogi/proxies.md)
 
 ## 📈 Wiki
 
