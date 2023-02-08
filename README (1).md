@@ -10,12 +10,12 @@ description: B2B E-Commerce Platform
 
 ## Quick links
 
-{% content-ref url="wiki/statistika/episkopisi.md" %}
-[episkopisi.md](wiki/statistika/episkopisi.md)
+{% content-ref url="statistika/episkopisi.md" %}
+[episkopisi.md](statistika/episkopisi.md)
 {% endcontent-ref %}
 
-{% content-ref url="wiki/statistika/poliseis.md" %}
-[poliseis.md](wiki/statistika/poliseis.md)
+{% content-ref url="statistika/poliseis.md" %}
+[poliseis.md](statistika/poliseis.md)
 {% endcontent-ref %}
 
 ## Get Started
