@@ -1,4 +1,4 @@
-# 📪 Making a post
+# Παραγγελίες
 
 ## Step 1 - Start journalling
 

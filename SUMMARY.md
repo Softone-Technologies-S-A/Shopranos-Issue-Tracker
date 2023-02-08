@@ -11,10 +11,10 @@
 * [Προϊόντα](statistika/proionta.md)
 * [Πελάτες](statistika/pelates.md)
 
-## Product Guides
+## 🛒 ΠΩΛΗΣΕΙΣ
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [Παραγγελίες](poliseis/paraggelies.md)
+* [📎 Understanding Projects](poliseis/understanding-projects.md)
 
 ## Fundamentals
 
@@ -26,3 +26,7 @@
 
 * [🎨 For Designers](use-cases/for-designers.md)
 * [🖥 For Developers](use-cases/for-developers.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
