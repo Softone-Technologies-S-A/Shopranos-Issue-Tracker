@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Shopranos](README.md)
-* [👋 Get Started](<README (1).md>)
+* [Shopranos](<README (1).md>)
+* [👋 Get Started](README.md)
 * [Login διαδικασία](shopranos/get-started/login-diadikasia.md)
 * [Στατιστικά](statistika/README.md)
   * [Επισκόπηση](overview/what-we-do.md)
@@ -72,6 +72,10 @@
   * [Αλλαγή Κωδικού](selides-logariasmoy/allagi-kodikoy.md)
   * [Πρόσκληση χρήστη](selides-logariasmoy/prosklisi-xristi.md)
   * [Προφίλ](selides-logariasmoy/profil.md)
+* [Άλλες Σελίδες](alles-selides/README.md)
+  * [Επικοινωνία](alles-selides/epikoinonia.md)
+  * [Η σελίδα δεν βρέθηκε](alles-selides/i-selida-den-vrethike.md)
+  * [Συντήρηση](alles-selides/syntirisi.md)
 
 ## 📈 Wiki
 
