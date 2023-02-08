@@ -81,7 +81,10 @@
 * [Προσαρμογή](prosarmogi/README.md)
   * [Διάταξη](prosarmogi/diataksi.md)
   * [Assets](prosarmogi/assets.md)
-  * [Components](prosarmogi/components.md)
+  * [Components](prosarmogi/components/README.md)
+    * [Βασικά Components](prosarmogi/components/basika-components.md)
+    * [Επαναχρησιμοποιούμενα Components](prosarmogi/components/epanaxrisimopoioymena-components.md)
+  * [Page 1](prosarmogi/page-1.md)
 
 ## 📈 Wiki
 
