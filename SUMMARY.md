@@ -78,7 +78,8 @@
     * [Συντήρηση](layout-design/alles-selides/syntirisi.md)
   * [Διαμορφωτής θεμάτων](layout-design/diamorfotis-thematon.md)
   * [Γκαλερί θεμάτων](layout-design/gkaleri-thematon.md)
-* [Προσαρμογή](prosarmogi.md)
+* [Προσαρμογή](prosarmogi/README.md)
+  * [Διάταξη](prosarmogi/diataksi.md)
 
 ## 📈 Wiki
 
