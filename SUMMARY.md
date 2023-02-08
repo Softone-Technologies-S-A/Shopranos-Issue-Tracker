@@ -29,6 +29,7 @@
     * [Μενού Υποσέλιδου](periexomeno/menoy/menoy-yposelidoy.md)
   * [Γκαλερί Πολυμέσων](periexomeno/gkaleri-polymeson.md)
   * [Προσαρμοσμένα Πεδία](periexomeno/prosarmosmena-pedia.md)
+* [Κατάστημα](katastima.md)
 
 ## 📈 Wiki
 
