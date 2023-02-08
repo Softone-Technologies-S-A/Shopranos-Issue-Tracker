@@ -1,6 +1,7 @@
 # Table of contents
 
-* [👋 Get Started](README.md)
+* [Shopranos](README.md)
+* [👋 Get Started](<README (1).md>)
 * [Login διαδικασία](shopranos/get-started/login-diadikasia.md)
 * [Στατιστικά](statistika/README.md)
   * [Επισκόπηση](overview/what-we-do.md)
@@ -10,7 +11,6 @@
 * [Πωλήσεις](poliseis/README.md)
   * [Παραγγελίες](product-guides/making-a-post.md)
   * [Εγκαταλελειμμένα καλάθια](product-guides/understanding-projects.md)
-* [Shopranos](<README (1).md>)
 * [Κατάλογος](katalogos/README.md)
   * [Προϊόντα](fundamentals/getting-set-up/README.md)
   * [Κατηγορίες](katalogos/katigories.md)
