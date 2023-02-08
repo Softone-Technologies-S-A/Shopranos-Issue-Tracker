@@ -9,6 +9,7 @@
 * [Επισκόπηση](overview/what-we-do.md)
 * [Πωλήσεις](overview/our-features.md)
 * [Προϊόντα](statistika/proionta.md)
+* [Πελάτες](statistika/pelates.md)
 
 ## Product Guides
 
