@@ -18,7 +18,10 @@
 * [Πελάτες](pelates/README.md)
   * [Πελάτες](pelates/pelates.md)
   * [Κατηγορίες](pelates/katigories.md)
-* [Εμπορική πολιτική](emporiki-politiki.md)
+* [Εμπορική πολιτική](emporiki-politiki/README.md)
+  * [Κατάλογος](emporiki-politiki/katalogos.md)
+  * [Καλάθι](emporiki-politiki/kalathi.md)
+  * [Ειδικές Συμφωνίες](emporiki-politiki/eidikes-symfonies.md)
 
 ## 📈 Wiki
 
