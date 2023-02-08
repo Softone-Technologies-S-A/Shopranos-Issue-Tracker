@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Shopranos](<README (1).md>)
-* [👋 Get Started](README.md)
+* [Shopranos](README.md)
+* [👋 Get Started](<README (1).md>)
 * [Login διαδικασία](shopranos/get-started/login-diadikasia.md)
 * [Στατιστικά](statistika/README.md)
   * [Επισκόπηση](overview/what-we-do.md)
@@ -41,6 +41,7 @@
     * [Διαμόρφωση](katastima/metafores/diamorfosi.md)
 * [Αποθήκη](apothiki/README.md)
   * [Αποθέματα](apothiki/apothemata.md)
+* [Ρυθμίσεις προϊόντος](rythmiseis-proiontos.md)
 
 ## 📈 Wiki
 
