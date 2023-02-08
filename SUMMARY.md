@@ -84,7 +84,7 @@
   * [Components](prosarmogi/components/README.md)
     * [Βασικά Components](prosarmogi/components/basika-components.md)
     * [Επαναχρησιμοποιούμενα Components](prosarmogi/components/epanaxrisimopoioymena-components.md)
-  * [Page 1](prosarmogi/page-1.md)
+  * [Πρότυπο](prosarmogi/protypo.md)
 
 ## 📈 Wiki
 
