@@ -6,8 +6,9 @@
 
 ## 📈 ΣΤΑΤΙΣΤΙΚΑ
 
-* [Επισκόπηση](statistika/episkopisi.md)
-* [Πωλήσεις](statistika/poliseis.md)
+* [Επισκόπηση](overview/what-we-do.md)
+* [Πωλήσεις](overview/our-features.md)
+* [Προϊόντα](statistika/proionta.md)
 
 ## Product Guides
 
