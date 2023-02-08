@@ -24,7 +24,9 @@
   * [Ειδικές Συμφωνίες](emporiki-politiki/eidikes-symfonies.md)
 * [Περιεχόμενο](periexomeno/README.md)
   * [Σελίδες](periexomeno/selides.md)
-  * [Μενού](periexomeno/menoy.md)
+  * [Μενού](periexomeno/menoy/README.md)
+    * [Επικεφαλίδα](periexomeno/menoy/epikefalida.md)
+    * [Μενού Υποσέλιδου](periexomeno/menoy/menoy-yposelidoy.md)
 
 ## 📈 Wiki
 
