@@ -10,12 +10,12 @@ description: B2B E-Commerce Platform
 
 ## Quick links
 
-{% content-ref url="shopranos/statistika/episkopisi.md" %}
-[episkopisi.md](shopranos/statistika/episkopisi.md)
+{% content-ref url="wiki/statistika/episkopisi.md" %}
+[episkopisi.md](wiki/statistika/episkopisi.md)
 {% endcontent-ref %}
 
-{% content-ref url="shopranos/statistika/poliseis.md" %}
-[poliseis.md](shopranos/statistika/poliseis.md)
+{% content-ref url="wiki/statistika/poliseis.md" %}
+[poliseis.md](wiki/statistika/poliseis.md)
 {% endcontent-ref %}
 
 ## Get Started

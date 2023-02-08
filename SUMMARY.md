@@ -1,21 +1,22 @@
 # Table of contents
 
-## 📈 Shopranos
-
 * [👋 Get Started](README.md)
-* [Login διαδικασία](shopranos/login-diadikasia.md)
-* [Στατιστικά](shopranos/statistika/README.md)
-  * [Επισκόπηση](shopranos/statistika/episkopisi.md)
-  * [Πωλήσεις](shopranos/statistika/poliseis.md)
-  * [Προϊόντα](shopranos/statistika/proionta.md)
-  * [Πελάτες](shopranos/statistika/pelates.md)
+* [Login διαδικασία](login-diadikasia.md)
+
+## 📈 Wiki
+
+* [Στατιστικά](wiki/statistika/README.md)
+  * [Επισκόπηση](wiki/statistika/episkopisi.md)
+  * [Πωλήσεις](wiki/statistika/poliseis.md)
+  * [Προϊόντα](wiki/statistika/proionta.md)
+  * [Πελάτες](wiki/statistika/pelates.md)
 
 ***
 
 * [Πωλήσεις](poliseis/README.md)
   * [Παραγγελίες](product-guides/making-a-post.md)
   * [Εγκαταλελειμμένα καλάθια](product-guides/understanding-projects.md)
-* [Shopranos](shopranos-1.md)
+* [Shopranos](shopranos.md)
 * [Κατάλογος](katalogos/README.md)
   * [Προϊόντα](fundamentals/getting-set-up/README.md)
   * [Κατηγορίες](katalogos/katigories.md)
