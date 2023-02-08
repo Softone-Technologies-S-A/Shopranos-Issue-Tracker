@@ -3,18 +3,11 @@
 * [Shopranos](README.md)
   * [👋 Get Started](shopranos/get-started/README.md)
     * [Login διαδικασία](shopranos/get-started/login-diadikasia.md)
-  * [🛒 Πωλήσεις](shopranos/poliseis/README.md)
-    * [Παραγγελίες](shopranos/poliseis/paraggelies.md)
-    * [Εγκαταλελειμμένα καλάθια](shopranos/poliseis/egkataleleimmena-kalathia.md)
-  * [📋 Κατάλογος](shopranos/katalogos/README.md)
-    * [Προϊόντα](shopranos/katalogos/proionta.md)
-    * [Κατηγορίες](shopranos/katalogos/katigories.md)
-    * [Συλλογές](shopranos/katalogos/sylloges.md)
 
 ## 📈 ΣΤΑΤΙΣΤΙΚΑ
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [Επισκόπηση](statistika/episkopisi.md)
+* [Πωλήσεις](statistika/poliseis.md)
 
 ## Product Guides
 
