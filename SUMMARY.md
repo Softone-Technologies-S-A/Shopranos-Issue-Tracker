@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Shopranos](README.md)
-* [👋 Get Started](<README (1).md>)
+* [Shopranos](<README (1).md>)
+* [👋 Get Started](README.md)
 * [Login διαδικασία](shopranos/get-started/login-diadikasia.md)
 * [Στατιστικά](statistika/README.md)
   * [Επισκόπηση](overview/what-we-do.md)
@@ -49,6 +49,9 @@
     * [Χαρακτηριστικά & Τιμές](rythmiseis-proiontos/xaraktiristika/xaraktiristika-and-times.md)
     * [Πρότυπα χαρακτηριστικών](rythmiseis-proiontos/xaraktiristika/protypa-xaraktiristikon.md)
   * [Ετικέτες προϊόντων](rythmiseis-proiontos/etiketes-proionton.md)
+* [Τιμολογιακές Κατηγορίες](timologiakes-katigories/README.md)
+  * [Προϊόντα](timologiakes-katigories/proionta.md)
+  * [Πελάτης](timologiakes-katigories/pelatis.md)
 
 ## 📈 Wiki
 
