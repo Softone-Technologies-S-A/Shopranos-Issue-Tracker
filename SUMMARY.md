@@ -89,7 +89,15 @@
     * [Πρότυπα Pdf](prosarmogi/protypo/protypa-pdf.md)
   * [Proxies](prosarmogi/proxies.md)
 * [Ρυθμίσεις](rythmiseis/README.md)
-  * [Δικαιώματα Χρήστη](rythmiseis/dikaiomata-xristi.md)
+  * [Δικαιώματα Χρήστη](rythmiseis/dikaiomata-xristi/README.md)
+    * [Χρήστες](rythmiseis/dikaiomata-xristi/xristes.md)
+    * [Ρόλοι χρηστών](rythmiseis/dikaiomata-xristi/roloi-xriston.md)
+    * [Ρόλοι Πελατών](rythmiseis/dikaiomata-xristi/roloi-pelaton.md)
+    * [Customer API Keys](rythmiseis/dikaiomata-xristi/customer-api-keys.md)
+    * [User API Keys](rythmiseis/dikaiomata-xristi/user-api-keys.md)
+  * [Εισαγωγή - Εξαγωγή Δεδομένων](rythmiseis/eisagogi-eksagogi-dedomenon/README.md)
+    * [Connectors](rythmiseis/eisagogi-eksagogi-dedomenon/connectors.md)
+    * [Feeder](rythmiseis/eisagogi-eksagogi-dedomenon/feeder.md)
 
 ## 📈 Wiki
 
