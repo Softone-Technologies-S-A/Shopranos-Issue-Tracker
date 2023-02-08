@@ -36,5 +36,3 @@
 
 * [🎨 For Designers](use-cases/for-designers.md)
 * [🖥 For Developers](use-cases/for-developers.md)
-* [Page 1](use-cases/page-1/README.md)
-  * [Doc 2](use-cases/page-1/doc-2.md)
