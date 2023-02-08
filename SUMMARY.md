@@ -13,8 +13,8 @@
 
 ## 🛒 ΠΩΛΗΣΕΙΣ
 
-* [Παραγγελίες](poliseis/paraggelies.md)
-* [📎 Understanding Projects](poliseis/understanding-projects.md)
+* [Παραγγελίες](product-guides/making-a-post.md)
+* [Εγκαταλελειμμένα καλάθια](poliseis/egkataleleimmena-kalathia.md)
 
 ## Fundamentals
 

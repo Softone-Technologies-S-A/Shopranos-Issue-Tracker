@@ -1,4 +1,4 @@
-# 📎 Understanding Projects
+# Εγκαταλελειμμένα καλάθια
 
 ## How Projects work
 
