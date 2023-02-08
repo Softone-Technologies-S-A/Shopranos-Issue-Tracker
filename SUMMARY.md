@@ -28,6 +28,7 @@
     * [Επικεφαλίδα](periexomeno/menoy/epikefalida.md)
     * [Μενού Υποσέλιδου](periexomeno/menoy/menoy-yposelidoy.md)
   * [Γκαλερί Πολυμέσων](periexomeno/gkaleri-polymeson.md)
+  * [Προσαρμοσμένα Πεδία](periexomeno/prosarmosmena-pedia.md)
 
 ## 📈 Wiki
 
