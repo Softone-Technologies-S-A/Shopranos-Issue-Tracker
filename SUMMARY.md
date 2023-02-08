@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Shopranos](<README (1).md>)
-* [👋 Get Started](README.md)
+* [Shopranos](README.md)
+* [👋 Get Started](<README (1).md>)
 * [Login διαδικασία](shopranos/get-started/login-diadikasia.md)
 * [Στατιστικά](statistika/README.md)
   * [Επισκόπηση](overview/what-we-do.md)
@@ -35,6 +35,10 @@
     * [Τρόποι Πληρωμής](katastima/plirofories-katastimatos/tropoi-pliromis/README.md)
       * [Επιλογές](katastima/plirofories-katastimatos/tropoi-pliromis/epiloges.md)
       * [Διαμόρφωση](katastima/plirofories-katastimatos/tropoi-pliromis/diamorfosi.md)
+  * [Μεταφορές](katastima/metafores/README.md)
+    * [Μεταφορικές](katastima/metafores/metaforikes.md)
+    * [Ζώνες](katastima/metafores/zones.md)
+    * [Διαμόρφωση](katastima/metafores/diamorfosi.md)
 
 ## 📈 Wiki
 
