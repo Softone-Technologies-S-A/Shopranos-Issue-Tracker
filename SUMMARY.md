@@ -81,6 +81,7 @@
 * [Προσαρμογή](prosarmogi/README.md)
   * [Διάταξη](prosarmogi/diataksi.md)
   * [Assets](prosarmogi/assets.md)
+  * [Components](prosarmogi/components.md)
 
 ## 📈 Wiki
 
