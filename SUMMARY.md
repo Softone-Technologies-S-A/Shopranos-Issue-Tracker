@@ -103,5 +103,3 @@
   * [Μεταφορές](rythmiseis/metafores.md)
 
 ## 📈 Wiki
-
-## Group 2
