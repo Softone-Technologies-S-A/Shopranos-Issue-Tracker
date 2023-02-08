@@ -20,12 +20,17 @@
 
 * [Προϊόντα](fundamentals/getting-set-up/README.md)
 * [Κατηγορίες](katalogos/katigories.md)
+* [Συλλογές](katalogos/sylloges.md)
 
-## Use Cases
+## 🛍 ΠΕΛΑΤΕΣ
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [Πελάτες](pelates/pelates.md)
+* [Κατηγορίες](pelates/katigories.md)
 
 ## Group 1
 
 * [Page 1](group-1/page-1.md)
+
+## Group 2
+
+* [Page 2](group-2/page-2.md)
