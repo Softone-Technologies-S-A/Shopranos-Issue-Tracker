@@ -70,7 +70,8 @@
   * [Σύνδεση χρήστη](selides-logariasmoy/syndesi-xristi.md)
   * [Υπενθύμιση κωδικού](selides-logariasmoy/ypenthymisi-kodikoy.md)
   * [Αλλαγή Κωδικού](selides-logariasmoy/allagi-kodikoy.md)
-  * [Page 1](selides-logariasmoy/page-1.md)
+  * [Πρόσκληση χρήστη](selides-logariasmoy/prosklisi-xristi.md)
+  * [Προφίλ](selides-logariasmoy/profil.md)
 
 ## 📈 Wiki
 
