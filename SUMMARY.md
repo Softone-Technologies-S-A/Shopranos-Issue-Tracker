@@ -99,6 +99,8 @@
     * [Connectors](rythmiseis/eisagogi-eksagogi-dedomenon/connectors.md)
     * [Feeder](rythmiseis/eisagogi-eksagogi-dedomenon/feeder.md)
   * [Web App](rythmiseis/web-app.md)
+  * [Γενικές Ρυθμίσεις](rythmiseis/genikes-rythmiseis.md)
+  * [Μεταφορές](rythmiseis/metafores.md)
 
 ## 📈 Wiki
 
