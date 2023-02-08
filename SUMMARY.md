@@ -95,7 +95,11 @@
     * [Ρόλοι Πελατών](rythmiseis/dikaiomata-xristi/roloi-pelaton.md)
     * [Customer API Keys](rythmiseis/dikaiomata-xristi/customer-api-keys.md)
     * [User API Keys](rythmiseis/dikaiomata-xristi/user-api-keys.md)
+  * [Εισαγωγή - Εξαγωγή Δεδομένων](rythmiseis/eisagogi-eksagogi-dedomenon/README.md)
+    * [Connectors](rythmiseis/eisagogi-eksagogi-dedomenon/connectors.md)
+    * [Feeder](rythmiseis/eisagogi-eksagogi-dedomenon/feeder.md)
+  * [Web App](rythmiseis/web-app.md)
+  * [Γενικές Ρυθμίσεις](rythmiseis/genikes-rythmiseis.md)
+  * [Μεταφορές](rythmiseis/metafores.md)
 
 ## 📈 Wiki
-
-## Group 2
