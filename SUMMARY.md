@@ -88,6 +88,8 @@
     * [Πρότυπα Email](prosarmogi/protypo/protypa-email.md)
     * [Πρότυπα Pdf](prosarmogi/protypo/protypa-pdf.md)
   * [Proxies](prosarmogi/proxies.md)
+* [Ρυθμίσεις](rythmiseis/README.md)
+  * [Δικαιώματα Χρήστη](rythmiseis/dikaiomata-xristi.md)
 
 ## 📈 Wiki
 
