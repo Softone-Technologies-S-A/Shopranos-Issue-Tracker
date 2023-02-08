@@ -14,13 +14,12 @@
 ## 🛒 ΠΩΛΗΣΕΙΣ
 
 * [Παραγγελίες](product-guides/making-a-post.md)
-* [Εγκαταλελειμμένα καλάθια](poliseis/egkataleleimmena-kalathia.md)
+* [Εγκαταλελειμμένα καλάθια](product-guides/understanding-projects.md)
 
-## Fundamentals
+## 📋 ΚΑΤΑΛΟΓΟΣ
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [Προϊόντα](katalogos/proionta.md)
+* [Κατηγορίες](katalogos/katigories.md)
 
 ## Use Cases
 

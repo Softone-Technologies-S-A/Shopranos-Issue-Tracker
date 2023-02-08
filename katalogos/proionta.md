@@ -1,4 +1,4 @@
-# 🛠 Getting set up
+# Προϊόντα
 
 <details>
 
