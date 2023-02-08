@@ -41,7 +41,14 @@
     * [Διαμόρφωση](katastima/metafores/diamorfosi.md)
 * [Αποθήκη](apothiki/README.md)
   * [Αποθέματα](apothiki/apothemata.md)
-* [Ρυθμίσεις προϊόντος](rythmiseis-proiontos.md)
+* [Ρυθμίσεις προϊόντος](rythmiseis-proiontos/README.md)
+  * [Μονάδες μέτρησης](rythmiseis-proiontos/monades-metrisis.md)
+  * [Κατασκευαστές](rythmiseis-proiontos/kataskeyastes.md)
+  * [Μοντέλα διαθεσιμότητας](rythmiseis-proiontos/montela-diathesimotitas.md)
+  * [Χαρακτηριστικά](rythmiseis-proiontos/xaraktiristika/README.md)
+    * [Χαρακτηριστικά & Τιμές](rythmiseis-proiontos/xaraktiristika/xaraktiristika-and-times.md)
+    * [Πρότυπα χαρακτηριστικών](rythmiseis-proiontos/xaraktiristika/protypa-xaraktiristikon.md)
+  * [Ετικέτες προϊόντων](rythmiseis-proiontos/etiketes-proionton.md)
 
 ## 📈 Wiki
 
