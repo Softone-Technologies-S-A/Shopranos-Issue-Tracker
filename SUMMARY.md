@@ -76,6 +76,7 @@
     * [Επικοινωνία](layout-design/alles-selides/epikoinonia.md)
     * [Η σελίδα δεν βρέθηκε](layout-design/alles-selides/i-selida-den-vrethike.md)
     * [Συντήρηση](layout-design/alles-selides/syntirisi.md)
+  * [Διαμορφωτής θεμάτων](layout-design/diamorfotis-thematon.md)
 
 ## 📈 Wiki
 
