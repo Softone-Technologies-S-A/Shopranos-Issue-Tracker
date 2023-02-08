@@ -77,6 +77,7 @@
     * [Η σελίδα δεν βρέθηκε](layout-design/alles-selides/i-selida-den-vrethike.md)
     * [Συντήρηση](layout-design/alles-selides/syntirisi.md)
   * [Διαμορφωτής θεμάτων](layout-design/diamorfotis-thematon.md)
+  * [Page 1](layout-design/page-1.md)
 
 ## 📈 Wiki
 
