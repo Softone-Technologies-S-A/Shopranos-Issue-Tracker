@@ -98,6 +98,7 @@
   * [Εισαγωγή - Εξαγωγή Δεδομένων](rythmiseis/eisagogi-eksagogi-dedomenon/README.md)
     * [Connectors](rythmiseis/eisagogi-eksagogi-dedomenon/connectors.md)
     * [Feeder](rythmiseis/eisagogi-eksagogi-dedomenon/feeder.md)
+  * [Web App](rythmiseis/web-app.md)
 
 ## 📈 Wiki
 
