@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Shopranos](<README (1).md>)
-* [👋 Get Started](README.md)
+* [Shopranos](README.md)
+* [👋 Get Started](<README (1).md>)
 * [Login διαδικασία](shopranos/get-started/login-diadikasia.md)
 * [Στατιστικά](statistika/README.md)
   * [Επισκόπηση](overview/what-we-do.md)
@@ -52,6 +52,10 @@
 * [Τιμολογιακές Κατηγορίες](timologiakes-katigories/README.md)
   * [Προϊόντα](timologiakes-katigories/proionta.md)
   * [Πελάτης](timologiakes-katigories/pelatis.md)
+* [Δραστηριότητα](drastiriotita/README.md)
+  * [Μηνύματα](drastiriotita/minymata.md)
+  * [Ειδοποιήσεις](drastiriotita/eidopoiiseis.md)
+  * [Ενέργειες Χρηστών](drastiriotita/energeies-xriston.md)
 
 ## 📈 Wiki
 
