@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Shopranos](<README (1).md>)
-* [👋 Get Started](README.md)
+* [Shopranos](README.md)
+* [👋 Get Started](<README (1).md>)
 * [Login διαδικασία](shopranos/get-started/login-diadikasia.md)
 * [Στατιστικά](statistika/README.md)
   * [Επισκόπηση](overview/what-we-do.md)
@@ -66,6 +66,11 @@
     * [Κατασκευαστής](layout-design/selides-katastimaton/kataskeyastis.md)
     * [Καλάθι](layout-design/selides-katastimaton/kalathi.md)
     * [Ολοκλήρωση αγοράς](layout-design/selides-katastimaton/oloklirosi-agoras.md)
+* [Σελίδες λογαριασμού](selides-logariasmoy/README.md)
+  * [Σύνδεση χρήστη](selides-logariasmoy/syndesi-xristi.md)
+  * [Υπενθύμιση κωδικού](selides-logariasmoy/ypenthymisi-kodikoy.md)
+  * [Αλλαγή Κωδικού](selides-logariasmoy/allagi-kodikoy.md)
+  * [Page 1](selides-logariasmoy/page-1.md)
 
 ## 📈 Wiki
 
