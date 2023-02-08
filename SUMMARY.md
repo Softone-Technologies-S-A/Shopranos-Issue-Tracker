@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Shopranos](<README (1).md>)
-* [👋 Get Started](README.md)
+* [Shopranos](README.md)
+* [👋 Get Started](<README (1).md>)
 * [Login διαδικασία](shopranos/get-started/login-diadikasia.md)
 * [Στατιστικά](statistika/README.md)
   * [Επισκόπηση](overview/what-we-do.md)
@@ -66,16 +66,16 @@
     * [Κατασκευαστής](layout-design/selides-katastimaton/kataskeyastis.md)
     * [Καλάθι](layout-design/selides-katastimaton/kalathi.md)
     * [Ολοκλήρωση αγοράς](layout-design/selides-katastimaton/oloklirosi-agoras.md)
-* [Σελίδες λογαριασμού](selides-logariasmoy/README.md)
-  * [Σύνδεση χρήστη](selides-logariasmoy/syndesi-xristi.md)
-  * [Υπενθύμιση κωδικού](selides-logariasmoy/ypenthymisi-kodikoy.md)
-  * [Αλλαγή Κωδικού](selides-logariasmoy/allagi-kodikoy.md)
-  * [Πρόσκληση χρήστη](selides-logariasmoy/prosklisi-xristi.md)
-  * [Προφίλ](selides-logariasmoy/profil.md)
-* [Άλλες Σελίδες](alles-selides/README.md)
-  * [Επικοινωνία](alles-selides/epikoinonia.md)
-  * [Η σελίδα δεν βρέθηκε](alles-selides/i-selida-den-vrethike.md)
-  * [Συντήρηση](alles-selides/syntirisi.md)
+  * [Σελίδες λογαριασμού](layout-design/selides-logariasmoy/README.md)
+    * [Σύνδεση χρήστη](layout-design/selides-logariasmoy/syndesi-xristi.md)
+    * [Υπενθύμιση κωδικού](layout-design/selides-logariasmoy/ypenthymisi-kodikoy.md)
+    * [Αλλαγή Κωδικού](layout-design/selides-logariasmoy/allagi-kodikoy.md)
+    * [Πρόσκληση χρήστη](layout-design/selides-logariasmoy/prosklisi-xristi.md)
+    * [Προφίλ](layout-design/selides-logariasmoy/profil.md)
+  * [Άλλες Σελίδες](layout-design/alles-selides/README.md)
+    * [Επικοινωνία](layout-design/alles-selides/epikoinonia.md)
+    * [Η σελίδα δεν βρέθηκε](layout-design/alles-selides/i-selida-den-vrethike.md)
+    * [Συντήρηση](layout-design/alles-selides/syntirisi.md)
 
 ## 📈 Wiki
 
