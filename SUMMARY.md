@@ -80,6 +80,7 @@
   * [Γκαλερί θεμάτων](layout-design/gkaleri-thematon.md)
 * [Προσαρμογή](prosarmogi/README.md)
   * [Διάταξη](prosarmogi/diataksi.md)
+  * [Assets](prosarmogi/assets.md)
 
 ## 📈 Wiki
 
