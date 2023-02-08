@@ -18,7 +18,7 @@
 
 ## 📋 ΚΑΤΑΛΟΓΟΣ
 
-* [Προϊόντα](katalogos/proionta.md)
+* [Προϊόντα](fundamentals/getting-set-up/README.md)
 * [Κατηγορίες](katalogos/katigories.md)
 
 ## Use Cases
