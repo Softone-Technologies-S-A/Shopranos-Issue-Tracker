@@ -27,6 +27,7 @@
   * [Μενού](periexomeno/menoy/README.md)
     * [Επικεφαλίδα](periexomeno/menoy/epikefalida.md)
     * [Μενού Υποσέλιδου](periexomeno/menoy/menoy-yposelidoy.md)
+  * [Γκαλερί Πολυμέσων](periexomeno/gkaleri-polymeson.md)
 
 ## 📈 Wiki
 
