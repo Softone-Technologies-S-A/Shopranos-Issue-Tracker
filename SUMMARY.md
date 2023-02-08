@@ -24,12 +24,12 @@
 
 ## 🛍 ΠΕΛΑΤΕΣ
 
-* [Πελάτες](pelates/pelates.md)
-* [Κατηγορίες](pelates/katigories.md)
+* [Πελάτες](use-cases/for-designers.md)
+* [Κατηγορίες](use-cases/for-developers.md)
 
-## Group 1
+## ❗ ΕΜΠΟΡΙΚΗ ΠΟΛΙΤΙΚΗ
 
-* [Page 1](group-1/page-1.md)
+* [Page 1](emporiki-politiki/page-1.md)
 
 ## Group 2
 
