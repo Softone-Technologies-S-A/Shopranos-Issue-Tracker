@@ -50,3 +50,7 @@
 <figure><img src="../.gitbook/assets/ScreenHunter 54.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+{% hint style="info" %}
+Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να τις διαγράψετε, πατώντας <mark style="color:red;"><Διαγραφή></mark> αριστερά.
+{% endhint %}
