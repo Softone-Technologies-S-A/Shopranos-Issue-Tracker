@@ -20,3 +20,22 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 121.png" alt=""><figcaption></figcaption></figure>
 
+Στη συνέχεια, θα μεταφερθείτε στη _φόρμα μαζικής ενημέρωσης_, όπου:
+
+· επιλέγετε <Ενημέρωση> και στη συνέχεια την Κατηγορία προϊόντων που επιθυμείτε από τη λίστα επιλογής.
+
+· επιλέγετε <Ενημέρωση> και στη συνέχεια <Προσθήκη> ή <Αφαίρεση> Πρόσθετης κατηγορίας που θα διαλέξετε από την αντίστοιχη λίστα επιλογής.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 122 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 123.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 124 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
