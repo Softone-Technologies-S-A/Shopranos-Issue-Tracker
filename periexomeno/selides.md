@@ -8,7 +8,7 @@
 
 <figure><img src="../.gitbook/assets/ScreenHunter 55 (1).png" alt=""><figcaption></figcaption></figure>
 
-Πατήστε <Προσθήκη σελίδας> για να προσθέσετε νέα σελίδα στον ιστότοπό σας. Συμπληρώστε τον Τίτλο, την Κατάσταση και το URL Alias. Πατήστε <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark>.
+Πατήστε <mark style="color:blue;"><Προσθήκη σελίδας></mark> για να προσθέσετε νέα σελίδα στον ιστότοπό σας. Συμπληρώστε τον Τίτλο, την Κατάσταση και το URL Alias. Πατήστε <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark>.
 
 <figure><img src="../.gitbook/assets/ScreenHunter 56.png" alt=""><figcaption></figcaption></figure>
 
@@ -27,6 +27,8 @@
 Στην τρίτη καρτέλα, μπορείτε να δείτε το **<Ιστορικό>** και την προεπισκόπηση στη δεξιά πλευρά της οθόνης σας.
 
 {% hint style="info" %}
-Μετά τις αλλαγές, μπορείτε να πατήσετε πάνω δεξιά το κουμπί <mark style="color:blue;"><Δημοσίευση σελίδας></mark>.
+<mark style="color:blue;">1)</mark> Μετά τις αλλαγές, μπορείτε να πατήσετε πάνω δεξιά το κουμπί <mark style="color:blue;"><Δημοσίευση σελίδας></mark>.
+
+<mark style="color:blue;">2)</mark> Για αλλαγή γλώσσας, πατήστε το εικονίδιο της υδρογείου, στα πεδία που είναι διαθέσιμο.&#x20;
 {% endhint %}
 
