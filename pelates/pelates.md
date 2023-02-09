@@ -14,15 +14,36 @@
 
 <figure><img src="../.gitbook/assets/ScreenHunter 61.png" alt=""><figcaption></figcaption></figure>
 
-Επιλέγοντας Ενέργειες > Εμφάνιση για κάποιον πελάτη ή κλικάροντας επάνω στο όνομά του, μπορείτε να δείτε το όνομα του πελάτη, η Κατάσταση και το Υπόλοιπο. Δεξιά, θα δείτε τις _καρτέλες με_ όλα τα δεδομένα που αντιστοιχούν στον πελάτη.&#x20;
+Επιλέγοντας Ενέργειες > Εμφάνιση για κάποιον πελάτη ή κλικάροντας επάνω στο όνομά του, μπορείτε να δείτε το όνομα του πελάτη, η Κατάσταση και το Υπόλοιπο. Δεξιά, θα δείτε τις _καρτέλες με_ όλα τα δεδομένα που αφορούν τον πελάτη.&#x20;
 
-*
-* Στην καρτέλα \<Dashboard> εμφανίζονται οι παραγγελίες του πελάτη.
-*
-*
-*
+* Στην καρτέλα **\<Dashboard>** εμφανίζονται τα στατιστικά που αντιστοιχούν στον πελάτη.
+* Στην καρτέλα **<Στοιχεία>** εμφανίζονται όλα τα στοιχεία του πελάτη που μπορούν να εισαχθούν ή να τροποποιηθούν: Γενικά, Διεύθυνση έδρας, Υποκαταστήματα και Χρήστες πελάτη.
+* Στην καρτέλα **<Διεύθυνση>** προσθέτετε <+ Νέα διεύθυνση> και μεταφέρεστε σε ένα παράθυρο, όπου μπορείτε να συμπληρώσετε Όνομα, Διεύθυνση 1 & 2, Πόλη, Περιφερειακή Ενότητα, Χώρα και Ταχυδρομικό Κώδικα. Πατάτε <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark>.
+* Στην καρτέλα
 * Πατώντας δεξιά <Μενού> και <Δημιουργία παραγγελίας>, εισαγάγετε νέα παραγγελία για τον ήδη υπάρχοντα πελάτη.&#x20;
 
+<div>
 
+<figure><img src="../.gitbook/assets/ScreenHunter 50 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 62.png" alt=""><figcaption></figcaption></figure>
+ 
+
+<figure><img src="../.gitbook/assets/ScreenHunter 51 (2).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/ScreenHunter 52 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/ScreenHunter 53.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/ScreenHunter 54.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/ScreenHunter 62 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
