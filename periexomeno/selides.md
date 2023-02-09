@@ -10,7 +10,11 @@
 
 <figure><img src="../.gitbook/assets/ScreenHunter 55 (1).png" alt=""><figcaption></figcaption></figure>
 
-Στην καρτέλα **<Ρυθμίσεις>**,&#x20;
+Στην καρτέλα **<Ρυθμίσεις>**, μπορείτε να τροποποιήσετε τον Τίτλο, την Κατάσταση (Σε Προσχέδιο, Ενεργό, Αρχειοθετημένο), το URL Alias, το SEO Title (στη σελίδα προϊόντος, κατηγορίας, συλλογης και κατασκευαστή γράψτε \{{Title\}} για να απεικονίσετε τον τίτλο τους) και τα Meta keywords.&#x20;
+
+{% hint style="info" %}
+Πατήστε <Επαναφορά> για να εισαγάγετε εκ νέου τα πεδία ή <mark style="color:blue;"><Αποθήκευση></mark> για να αποθηκεύσετε τις αλλαγές.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/ScreenHunter 58.png" alt=""><figcaption></figcaption></figure>
 
