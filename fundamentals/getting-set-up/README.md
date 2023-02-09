@@ -52,3 +52,25 @@
 
 Αποθηκεύστε τις αλλαγές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> για να τις ακυρώσετε.
 
+Για να προσθέσετε ένα προϊόν στην πλατφόρμα, μεταβείτε: Κατάλογος > Προϊόντα και πατήστε δεξιά το κουμπί <mark style="color:blue;"><Νέο></mark>.
+
+Έχοντας μεταφερθεί στην καρτέλα <Γενικά>, μπορείτε να ορίσετε την κατάσταση του προϊόντος (Ενεργό, Σε προσχέδιο ή Αρχειοθετημένο). &#x20;
+
+Συμπληρώστε τα πεδία εισαγωγής:
+
+
+
+<div>
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 12.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 13.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 14.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
