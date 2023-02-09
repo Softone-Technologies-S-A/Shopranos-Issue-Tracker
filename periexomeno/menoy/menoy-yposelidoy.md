@@ -4,8 +4,25 @@
 Επεξεργαστείτε το Μενού Υποσέλιδου, μεταβαίνοντας: **Περιεχόμενο > Μενού > Μενού Υποσέλιδου.**&#x20;
 {% endhint %}
 
+Στην αριστερή πλευρά της οθόνης, εμφανίζονται όλες οι Σελίδες, οι Κατηγορίες, οι Κατασκευαστές, οι Συλλογές και το Custom Link.&#x20;
 
+<figure><img src="../../.gitbook/assets/ScreenHunter 65.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 65 (1).png" alt=""><figcaption></figcaption></figure>
+* Μπορείτε να αναζητήσετε και να προσθέσετε Σελίδες, Κατηγορίες, Κατασκευαστές και Συλλογές, τσεκάροντας τα επιθυμητά. Στις Κατηγορίες και τους Κατασκευαστές, έχετε τη δυνατότητα να επιλέξετε <Εμφάνιση στο μενού>.
+* Στη δεξιά πλευρά της οθόνης, βλέπετε τα στοιχεία του Μενού Υποσέλιδου τα οποία μπορείτε να επεξεργαστείτε, κλικάροντας πάνω δεξιά το κουμπί <mark style="color:blue;"><Επεξεργασία στοιχείου μενού></mark> (βλ. εικόνα 1). Στην περίπτωση αυτή, θα μεταφερθείτε στο παράθυρο <Ιδιότητες> (βλ. εικόνα 2), όπου τροποποιείτε τον Τίτλο πλοήγησης (αλλαγή γλώσσας: δεξιά του πεδίου) και το Url, ενώ μπορείτε να ενεργοποιήσετε το μενού Mega ή και να διαγράψετε το Στοιχείο Μενού (<mark style="color:red;">\<x Διαγραφή Στοιχείου Μενού></mark>).&#x20;
+* Εισαγάγετε και προσθέστε Custom Link, συμπληρώνοντας στα πεδία Τίτλο και Url (βλ. εικόνα 3).
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 66.png" alt=""><figcaption></figcaption></figure>
+<div>
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 66 (2).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 67 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 68 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
