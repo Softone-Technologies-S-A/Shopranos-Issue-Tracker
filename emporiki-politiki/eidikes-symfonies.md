@@ -8,7 +8,7 @@
 
 Για να προσθέσετε _Τιμολογιακές πολιτικές είδους_, πατήστε πάνω δεξιά το κουμπί <mark style="color:blue;"><Νέο></mark>.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 68.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 68 (1).png" alt=""><figcaption></figcaption></figure>
 
 Ορίστε την _Κατάσταση_ της πολιτικής (Ενεργό, Σε Προσχέδιο, Αρχειοθετημένο) και τις Λεπτομέρειες (Ημερομηνία: Από-Έως).
 
