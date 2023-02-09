@@ -14,3 +14,10 @@
 
 <figure><img src="../.gitbook/assets/ScreenHunter 61.png" alt=""><figcaption></figcaption></figure>
 
+Επιλέγοντας Ενέργειες > Εμφάνιση για κάποιον πελάτη ή κλικάροντας επάνω στο όνομά του, μπορείτε να δείτε στις καρτέλες όλα τα δεδομένα που του αντιστοιχούν.&#x20;
+
+Πατώντας δεξιά <Μενού> και <Δημιουργία παραγγελίας>, εισαγάγετε νέα παραγγελία για τον ήδη υπάρχοντα πελάτη.&#x20;
+
+
+
+<figure><img src="../.gitbook/assets/ScreenHunter 62.png" alt=""><figcaption></figcaption></figure>
