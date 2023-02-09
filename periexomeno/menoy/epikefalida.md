@@ -6,9 +6,9 @@
 
 Στην αριστερή πλευρά της οθόνης, εμφανίζονται όλες οι Σελίδες, οι Κατηγορίες, οι Κατασκευαστές, οι Συλλογές και το Custom Link.&#x20;
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 59 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 59.png" alt=""><figcaption></figcaption></figure>
 
-Μπορείτε να αναζητήσετε και να προσθέσετε Σελίδες, Κατηγορίες, Κατασκευαστές και Συλλογές, τσεκάροντας τα επιθυμητά (βλ. εικόνα 1)
+Μπορείτε να αναζητήσετε και να προσθέσετε Σελίδες, Κατηγορίες, Κατασκευαστές και Συλλογές, τσεκάροντας τα επιθυμητά (βλ. εικόνα 1). Στις Κατηγορίες και τους Κατασκευαστές, έχετε τη δυνατότητα να επιλέξετε <Εμφάνιση στο μενού>.&#x20;
 
 <div>
 
@@ -24,7 +24,7 @@
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 64.png" alt=""><figcaption><p>Εικόνα 4</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 64 (1).png" alt=""><figcaption><p>Εικόνα 4</p></figcaption></figure>
 
 </div>
 
