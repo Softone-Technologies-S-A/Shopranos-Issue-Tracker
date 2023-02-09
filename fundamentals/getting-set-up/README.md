@@ -42,10 +42,13 @@
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 123.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 123 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 124.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 124 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+Αποθηκεύστε τις αλλαγές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> για να τις ακυρώσετε.
+
