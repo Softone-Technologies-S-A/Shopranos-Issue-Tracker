@@ -23,3 +23,7 @@
 Σ΄αυτήν την περίπτωση, έχετε τη δυνατότητα να προσθέσετε τιμή καταλόγου, πατώντας <mark style="color:blue;"><Προσθήκη τιμής καταλόγου></mark>.
 
 <figure><img src="../.gitbook/assets/ScreenHunter 64.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να τις διαγράψετε, πατώντας <mark style="color:red;"><Διαγραφή></mark> αριστερά.
+{% endhint %}
