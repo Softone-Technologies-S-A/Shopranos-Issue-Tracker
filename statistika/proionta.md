@@ -4,7 +4,7 @@
 Για να δείτε την Επισκόπηση των προϊόντων, μεταβείτε: **Στατιστικά > Προϊόντα.** __&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/ScreenHunter 52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 52 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Αριστερά:** Θα δείτε το Σύνολο των προϊόντων σε απόθεμα, την ποσότητα των προϊόντων που βρίσκονται εκτός αποθέματος και τα ελάχιστα επίπεδα αποθέματος.&#x20;
 

@@ -39,7 +39,7 @@
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 52 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 52.png" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -48,6 +48,10 @@
  
 
 <figure><img src="../.gitbook/assets/ScreenHunter 54.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/ScreenHunter 55.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
