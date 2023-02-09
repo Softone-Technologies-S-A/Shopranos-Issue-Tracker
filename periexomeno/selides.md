@@ -22,7 +22,7 @@
 
 <figure><img src="../.gitbook/assets/ScreenHunter 58.png" alt=""><figcaption></figcaption></figure>
 
-
+Στην τρίτη καρτέλα, μπορείτε να δείτε το **<Ιστορικό>** και την προεπισκόπηση στη δεξιά πλευρά της οθόνης σας.
 
 {% hint style="info" %}
 Μετά τις αλλαγές, μπορείτε να πατήσετε πάνω δεξιά το κουμπί <mark style="color:blue;"><Δημοσίευση σελίδας></mark>.
