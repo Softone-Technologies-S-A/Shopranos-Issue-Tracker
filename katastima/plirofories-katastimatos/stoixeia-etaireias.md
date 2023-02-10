@@ -19,5 +19,11 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 72.png" alt=""><figcaption></figcaption></figure>
 
+Στην καρτέλα **<Όμιλος Εταιρειών>**, αφού πατήσετε +, εισαγάγετε company (εταιρεία) και path, ενώ μπορείτε, πατώντας Χ (αφαίρεση) δεξιά, να διαγράψετε τη γραμμή εισαγωγής.&#x20;
 
+
+
+{% hint style="info" %}
+Κλικάρετε <Επαναφορά> ή <mark style="color:blue;"><Αποθήκευση αλλαγών></mark> σε κάθε περίπτωση.
+{% endhint %}
 
