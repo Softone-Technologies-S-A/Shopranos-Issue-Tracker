@@ -6,13 +6,17 @@
 
 Εμφανίζεται η Λίστα (Αλφαβητικά Α-Ω ή Αλφαβητικά Ω-Α) με τα API Keys Πελάτη. Συγκεκριμένα: τα _Customer API Keys_, η _Ημερομηνία Λήξης_ (Expire Date) και οι _Ενέργειες_ (Εμφάνιση ή Διαγραφή).
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 85.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 85 (1).png" alt=""><figcaption></figcaption></figure>
 
 Για να επεξεργαστείτε ένα ήδη υπάρχον Customer Api Key, πατήστε πάνω στο όνομά του. Στο διακεκομμένο πλαίσιο, θα δείτε το API Key, το οποίο μπορείτε να αλλάξετε πατώντας αριστερά το εικονίδιο ανανέωσης και συμπληρώνοντας εκ νέου το πεδίο. Ακόμη, μπορείτε να το αντιγράψετε πατώντας δεξιά το εικονίδιο αντιγραφής.&#x20;
 
 Ακριβώς από κάτω, έχετε τη δυνατότητα να ορίσετε εκ νέου: Όνομα, Πελάτη, Ημερομηνία έως και Άδειες.&#x20;
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 87.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να τις διαγράψετε, πατώντας <mark style="color:red;"><Διαγραφή></mark> αριστερά.
+{% endhint %}
 
 Για να προσθέσετε API Key Πελάτη, πατήστε πάνω δεξιά το κουμπί <mark style="color:blue;"><Νέο></mark>.
 
