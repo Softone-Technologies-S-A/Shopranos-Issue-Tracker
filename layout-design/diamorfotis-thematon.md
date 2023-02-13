@@ -21,26 +21,25 @@
 *   Για το **Μενού Υποσέλιδου**, πατήστε Skin > Μενού Υποσέλιδου και διαλέξτε Χρώμα κειμένου και Χρώμα Φόντου του υποσέλιδου.
 
     &#x20;
-*
 
-    <div>
+<div>
 
-    <figure><img src="../.gitbook/assets/ScreenHunter 104.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 104.png" alt=""><figcaption></figcaption></figure>
 
-     
+ 
 
-    <figure><img src="../.gitbook/assets/ScreenHunter 105.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 105.png" alt=""><figcaption></figcaption></figure>
 
-     
+ 
 
-    <figure><img src="../.gitbook/assets/ScreenHunter 106.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 106.png" alt=""><figcaption></figcaption></figure>
 
-     
+ 
 
-    <figure><img src="../.gitbook/assets/ScreenHunter 107.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 107.png" alt=""><figcaption></figcaption></figure>
 
-     
+ 
 
-    <figure><img src="../.gitbook/assets/ScreenHunter 108.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 108.png" alt=""><figcaption></figcaption></figure>
 
-    </div>
+</div>
