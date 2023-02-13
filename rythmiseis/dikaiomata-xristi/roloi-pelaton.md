@@ -6,7 +6,7 @@
 
 Εμφανίζεται η Λίστα Ρόλων Πελάτη: **Διαχειριστής**, **Αγοραστής** και **Διευθυντής**.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 85.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 85 (1).png" alt=""><figcaption></figcaption></figure>
 
 Επεξεργαστείτε κάθε ρόλο πελάτη, πατώντας <Επεξεργασία ρόλου>.
 
