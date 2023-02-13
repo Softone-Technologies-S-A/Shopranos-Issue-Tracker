@@ -16,6 +16,10 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 42.png" alt=""><figcaption></figcaption></figure>
 
-Προσθέστε Τιμές πατώντας <mark style="color:blue;"><+></mark>, (στην επιθυμητή γλώσσα) ή διαλέγοντας από την αποθηκευμένη λίστα. Αφαιρέστε ανά πάσα στιγμή Τιμές, πατώντας Χ δεξιά.
+Προσθέστε Τιμές πατώντας <mark style="color:blue;"><+></mark>, (για αλλαγή γλώσσας, πατήστε το εικονίδιο της υδρογείου) ή διαλέγοντας από την αποθηκευμένη λίστα. Αφαιρέστε ανά πάσα στιγμή Τιμές, πατώντας Χ δεξιά.
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 77.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Ακυρώστε ή Αποθηκεύστε τις αλλαγές, πατώντας <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark> αντίστοιχα.
+{% endhint %}
