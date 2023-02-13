@@ -18,7 +18,7 @@
 
 Ακόμη, για να ακυρώσετε μεμονωμένα ή και μαζικά παραγγελίες, επιλέξτε τις επιθυμητές από το κουτάκι στα αριστερά του αριθμού τους και έπειτα πατήστε το κόκκινο κουμπί <mark style="color:red;"><Ακύρωση Παραγγελίας></mark>.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 37 (1).png" alt=""><figcaption></figcaption></figure>
 
 Για να εισαγάγετε νέα παραγγελία, κλικάρετε πάνω δεξιά <mark style="color:blue;"><Δημιουργία παραγγελίας></mark>.
 
