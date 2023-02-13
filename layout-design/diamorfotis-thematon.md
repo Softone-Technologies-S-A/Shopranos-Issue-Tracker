@@ -43,3 +43,11 @@
 <figure><img src="../.gitbook/assets/ScreenHunter 108.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+Στην καρτέλα **<Ρυθμίσεις>**, μπορείτε να εισαγάγετε: την εικόνα του λογοτύπου σας (Λογότυπο), το Favicon (δηλαδή το εικονίδιο ιστοσελίδας) και το Λογότυπο τιμολογίου, πατώντας επάνω στο εικονίδιο επεξεργασίας. Ακόμη, συμπληρώνετε ακριβώς από κάτω, τον κώδικα Google Analytics και κλικάρετε δεξιά εάν είναι ενεργοποιημένη η web εφαρμογή για κινητά.
+
+<figure><img src="../.gitbook/assets/ScreenHunter 100.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Πατήστε <Επαναφορά> για να εισαγάγετε εκ νέου δεδομένα, ή <mark style="color:blue;"><Αποθήκευση></mark> για να αποθηκεύσετε τις αλλαγές σας.
+{% endhint %}
