@@ -30,7 +30,7 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 49.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 49 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
