@@ -8,17 +8,17 @@
 
 Για να προσθέσετε χαρακτηριστικό, πατήστε <mark style="color:blue;"><Νέο></mark> πάνω δεξιά στην οθόνη σας.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ScreenHunter 41.png" alt=""><figcaption></figcaption></figure>
 
 Εισαγάγετε υποχρεωτικά το _Όνομα_ του χαρακτηριστικού και έναν _Κωδικό_. Ρυθμίστε το Slug και επιλέξτε στο πεδίο <Τύπος> ανάμεσα σε: Τιμή κειμένου και Πολλαπλών τιμών. Συμπληρώστε _Θέση_ και _Περιγραφή_ (επιλέγετε την επιθυμητή γλώσσα).
 
 Για καλύτερη ορατότητα, μπορείτε να κλικάρετε <mark style="color:blue;"><Ναι></mark> αναφορικά με: τη χρήση του χαρακτηριστικού ως φίλτρο προϊόντος (Χρήση ως φίλτρο;), την εμφάνιση του χαρακτηριστικού στο _προϊόν_ (Εμφάνιση στο προϊόν), στη _λίστα_ (Εμφάνιση στη λίστα) και στη _λίστα σύγκρισης_ ειδικότερα (Εμφάνιση στη σύγκριση).
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ScreenHunter 42.png" alt=""><figcaption></figcaption></figure>
 
 Προσθέστε Τιμές πατώντας <mark style="color:blue;"><+></mark>, (για αλλαγή γλώσσας, πατήστε το εικονίδιο της υδρογείου) ή διαλέγοντας από την αποθηκευμένη λίστα. Αφαιρέστε ανά πάσα στιγμή Τιμές, πατώντας Χ δεξιά.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 77.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ScreenHunter 77.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Ακυρώστε ή Αποθηκεύστε τις αλλαγές, πατώντας <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark> αντίστοιχα.

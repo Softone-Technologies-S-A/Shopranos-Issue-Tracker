@@ -6,11 +6,11 @@
 
 Θα δείτε τη _Λίστα Κατασκευαστών_ (Αλφαβητικά Α-Ω, Αλφαβητικά Ω-Α) με το Όνομα του Κατασκευαστή, την Τελευταία Αλλαγή (πριν από πόσο καιρό πραγματοποιήθηκε) και τις Ενέργειες (επιλέγετε Εμφάνιση ή Διαγραφή).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 33 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 33 (1).png" alt=""><figcaption></figcaption></figure>
 
 Για να διαγράψετε από τη λίστα κατασκευαστές, επιλέγετε το κουτάκι στα αριστερά του κάθε κατασκευαστή και έπειτα το κόκκινο κουμπί <mark style="color:red;"><Διαγραφή Επιλεγμένων></mark>. Για να προσθέσετε νέο κατασκευαστή, κλικάρετε <mark style="color:blue;"><Νέο></mark>.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 34.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -18,10 +18,10 @@
 
 Στην καρτέλα **<Γενικά>**, εισαγάγετε υποχρεωτικά το _Όνομα_ του κατασκευαστή (επιλέξτε την επιθυμητή γλώσσα δεξιά), τον _Κωδικό_ και το _Url alias_. Ακόμη, προσθέστε κάποια _Περιγραφή_ για καλύτερη ορατότητα (στη γλώσσα που θα επιλέξετε). Ακυρώστε ή Αποθηκεύστε τις αλλαγές, πατώντας <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark> αντίστοιχα
 
-<figure><img src="../.gitbook/assets/ScreenHunter 35 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 35 (2).png" alt=""><figcaption></figcaption></figure>
 
 Στην καρτέλα **<Περιεχόμενο>**, μπορείτε να προσθέσετε περιεχόμενο και στην καρτέλα **\<SEO>** να συμπληρώσετε: Meta τίτλο, Περιγραφή Meta, καθώς και Meta keywords (λίστα λέξεων-κλειδιών που σχετίζονται με την επωνυμία).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 38 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 38 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 39 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 39 (1).png" alt=""><figcaption></figcaption></figure>

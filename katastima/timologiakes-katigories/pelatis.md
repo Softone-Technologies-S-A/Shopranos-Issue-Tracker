@@ -6,17 +6,17 @@
 
 Θα δείτε το _Όνομα της κάθε κατηγορίας, την Τελευταία Αλλαγή,_ καθώς και τις _Ενέργειες_ (Εμφάνιση ή Διαγραφή).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 78.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 78.png" alt=""><figcaption></figcaption></figure>
 
 Για να διαγράψετε από τη λίστα κατηγορίες, κλικάρετε το κουτάκι στα αριστερά του κάθε ονόματος και έπειτα το κόκκινο κουμπί <mark style="color:blue;"><Διαγραφή Επιλεγμένων></mark>.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 79.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 79.png" alt=""><figcaption></figcaption></figure>
 
 Έχετε τη δυνατότητα να προσθέσετε νέα τιμολογιακή κατηγορία πελάτη, πατώντας <mark style="color:blue;"><Νέο></mark> πάνω δεξιά.
 
 Σ’ αυτήν την περίπτωση, ορίστε υποχρεωτικά _Όνομα_ και _Κωδικό_, ενώ μπορείτε προαιρετικά να συμπληρώσετε και μια Π_εριγραφή_ της κατηγορίας.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 80.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 80.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Ακυρώστε ή Αποθηκεύστε τις αλλαγές που πραγματοποιήσατε, πατώντας αντίστοιχα τα κουμπιά <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark> που εμφανίζονται κάτω δεξιά στην οθόνη σας.
@@ -24,7 +24,7 @@
 
 Για να **επεξεργαστείτε** τα παραπάνω δεδομένα (Όνομα, Κωδικός και Περιγραφή) σε ήδη υπάρχουσα τιμολογιακή κατηγορία πελάτη, πατήστε πάνω στο όνομα της κατηγορίας ή επιλέξτε Ενέργειες > Εμφάνιση.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 78 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 78 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Μπορείτε να αποθηκεύσετε ή να ακυρώσετε κάθε ενέργειά σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να διαγράψετε την Τιμολογιακή Κατηγορία Πελάτη, πατώντας <mark style="color:red;"><Διαγραφή></mark> αριστερά.

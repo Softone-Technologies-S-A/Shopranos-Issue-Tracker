@@ -8,11 +8,11 @@
 
 Για να προσθέσετε μονάδα, πατήστε <mark style="color:blue;"><Νέο></mark> στην πάνω δεξιά πλευρά της οθόνης σας.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 31.png" alt=""><figcaption></figcaption></figure>
 
-Εισαγάγετε υποχρεωτικά το Όνομα της Μονάδας (επιλέγοντας την επιθυμητή γλώσσα δεξιά), καθώς και έναν Κωδικό.
+Εισαγάγετε υποχρεωτικά το Όνομα της Μονάδας (για αλλαγή γλώσσας, επιλέγετε το εικονίδιο της υδρογείου δεξιά), καθώς και έναν Κωδικό.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 32.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Ακυρώστε ή Αποθηκεύστε τις αλλαγές, πατώντας <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark> αντίστοιχα.
