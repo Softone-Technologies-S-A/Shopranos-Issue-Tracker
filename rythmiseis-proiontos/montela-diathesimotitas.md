@@ -9,3 +9,11 @@
 Για να προσθέσετε νέο μοντέλο διαθεσιμότητας, πατήστε <mark style="color:blue;"><Νέο></mark> πάνω δεξιά.
 
 <figure><img src="../.gitbook/assets/ScreenHunter 47.png" alt=""><figcaption></figcaption></figure>
+
+Συμπληρώστε τα υποχρεωτικά πεδία: _Όνομα_ (στη γλώσσα που επιθυμείτε) και _Κωδικός_.
+
+<figure><img src="../.gitbook/assets/ScreenHunter 48 (1).png" alt=""><figcaption></figcaption></figure>
+
+Για να εισαγάγετε νέο μοντέλο διαθεσιμότητας, κάντε κλικ <mark style="color:blue;"><+ Νέο μοντέλο></mark>. Μπορείτε να προσθέσετε εικόνα (πατώντας επάνω στο εικονίδιο μολυβιού), να συμπληρώσετε τον _Τίτλο_ (στη γλώσσα που επιθυμείτε), καθώς και την _Ποσότητα_. Στη συνέχεια, πατήστε <mark style="color:blue;"><ΟΚ></mark> ή <Ακύρωση>.
+
+<figure><img src="../.gitbook/assets/ScreenHunter 49 (1).png" alt=""><figcaption></figcaption></figure>
