@@ -31,7 +31,7 @@
 
 Μεταβείτε στην καρτέλα \<SEO>, πληκτρολογείτε ένα **τίτλο SEO, περιγραφή SEO** και **Meta Tag λέξεις-κλειδιά.**
 
-<figure><img src="../.gitbook/assets/ScreenHunter 47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 47 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">1)</mark> Αν θέλετε το κατάστημά σας να είναι **δίγλωσσο** (π.χ. ελληνικά και αγγλικά) ή και πολύγλωσσο, τότε θα πρέπει να πληκτρολογήσετε τους _Τίτλους_ και τις _Περιγραφές_ σε όλες τις γλώσσες, επιλέγοντας πρώτα την επιθυμητή, από δεξιά (κλικ στο εικονίδιο της υδρογείου) και από κάτω, αντίστοιχα.
