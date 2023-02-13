@@ -10,8 +10,17 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 88.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να τις διαγράψετε, πατώντας <mark style="color:red;"><Διαγραφή></mark> αριστερά.
+{% endhint %}
+
 Για να προσθέσετε API Key Χρήστη, πατήστε πάνω δεξιά το κουμπί <mark style="color:blue;"><Νέο></mark>.
 
 Θα πρέπει ορίσετε υποχρεωτικά τα πεδία: _Όνομα API Key_, _Ημερομηνία_ _έως_ και προαιρετικά το πεδίο _Άδειες_.&#x20;
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 89.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Ακυρώστε ή Αποθηκεύστε το API Key Πελάτη, πατώντας κάτω δεξιά στην οθόνη σας <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark> αντίστοιχα.
+{% endhint %}
+
