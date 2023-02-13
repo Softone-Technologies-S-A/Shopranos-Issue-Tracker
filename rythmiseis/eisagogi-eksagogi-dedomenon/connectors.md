@@ -14,6 +14,6 @@
 * Πατήστε <mark style="color:blue;"><Συνέχεια></mark> και συμπληρώστε τα πεδία: _Σειριακός αριθμός, Αναγνωριστικό εφαρμογής, Όνομα χρήστη_ και _Κωδικός._
 * Πατήστε <mark style="color:blue;"><Υποβολή></mark> για να ολοκληρώσετε την ενέργειά σας και να ελέγξετε το νέο Connector που δημιουργήσατε.
 
-&#x20;
+<figure><img src="../../.gitbook/assets/ScreenHunter 91.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 93.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 90.png" alt=""><figcaption></figcaption></figure>
