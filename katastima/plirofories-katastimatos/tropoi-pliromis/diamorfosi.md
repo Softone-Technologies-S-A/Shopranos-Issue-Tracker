@@ -26,7 +26,7 @@
 
 Επιλέγοντας **\<ESPS>**, συμπληρώνετε τα πεδία: Όνομα, Αναγνωριστικό Εμπόρου, Κοινόχρηστο κλειδί, Κλειδί πιστοποιητικού και διαλέγετε Περιβάλλον ((Sandbox, Live). Για να ανεβάσετε Πιστοποιητικο, πατήστε το κουμπί <mark style="color:blue;"><Ανέβασμα πιστοποιητικού></mark>.&#x20;
 
-<figure><img src="../../../.gitbook/assets/ScreenHunter 76 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ScreenHunter 76.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας σε κάθε περίπτωση, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να τις διαγράψετε, πατώντας <mark style="color:red;"><Διαγραφή></mark> αριστερά.

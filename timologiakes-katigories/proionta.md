@@ -6,7 +6,7 @@
 
 Στη _λίστα_ θα δείτε το _Όνομα_ της κατηγορίας, την _Τελευταία Αλλαγή_ και τις _Ενέργειες_ (επιλέγετε Εμφάνιση ή Διαγραφή).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 76.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 76 (1).png" alt=""><figcaption></figcaption></figure>
 
 Πατώντας επάνω στο κουμπί <mark style="color:blue;"><Νέο></mark>, θα μεταφερθείτε στην Προσθήκη Τιμολογιακής Κατηγορίας Καταλόγου. Εκεί θα πρέπει να συμπληρώσετε το _Όνομα_ της νέας κατηγορίας, τον _Κωδικό_ και προαιρετικά μια _Περιγραφή_.&#x20;
 
