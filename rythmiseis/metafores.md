@@ -8,4 +8,8 @@
 
 Κλικάρετε το κόκκινο κουμπί αφαίρεσης <mark style="color:red;">**< - >**</mark> αν θέλετε να αφαιρέσετε την αλλαγή και <+> αν επιθυμείτε να προχωρήσετε σε νέα ανακατεύθυνση.
 
+<figure><img src="../.gitbook/assets/ScreenHunter 116.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
 Αποθηκεύστε τις αλλαγές, πατώντας κάτω δεξιά <mark style="color:blue;"><Αποθήκευση></mark>.
+{% endhint %}
