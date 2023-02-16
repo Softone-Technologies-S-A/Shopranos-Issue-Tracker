@@ -12,7 +12,7 @@
 * <mark style="color:orange;">**Προσοχή**</mark> (δηλαδή το χρώμα του Warning Skin)
 * <mark style="color:orange;">**Success**</mark> (δηλαδή το χρώμα του Success Skin).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 98.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 98 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Ακόμη, για το **Topbar**, κλικάρετε: Skin > Topbar και επιλέγετε δεξιά το Χρώμα κειμένου, αλλά και το Χρώμα φόντου του.
 * Για την **επικεφαλίδα**, κάνετε κλικ: Skin > Επικεφαλίδα και διαλέγετε δεξιά το Χρώμα κειμένου και το Χρώμα φόντου της.
