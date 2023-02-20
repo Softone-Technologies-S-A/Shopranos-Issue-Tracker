@@ -15,10 +15,10 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 166.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 166.png" alt=""><figcaption><p>Εικόνα 3α</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 167.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 167.png" alt=""><figcaption><p>Εικόνα 3β</p></figcaption></figure>
 
 </div>
