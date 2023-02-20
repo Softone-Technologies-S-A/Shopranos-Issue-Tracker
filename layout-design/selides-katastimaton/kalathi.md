@@ -41,11 +41,11 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 135 (1).png" alt=""><figcaption><p>Εικόνα 3: &#x3C;Ρυθμίσεις></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 135.png" alt=""><figcaption><p>Εικόνα 4: &#x3C;Ρυθμίσεις></p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 136.png" alt=""><figcaption><p>Εικόνα 4: &#x3C;Ιστορικό></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 136.png" alt=""><figcaption><p>Εικόνα 5: &#x3C;Ιστορικό></p></figcaption></figure>
 
 </div>
 
