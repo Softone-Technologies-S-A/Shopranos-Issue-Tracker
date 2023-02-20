@@ -8,13 +8,17 @@
 
 Στη δεξιά πλευρά της οθόνης, βλέπετε την **Προεπισκόπηση** της αρχικής σελίδας.&#x20;
 
+{% hint style="info" %}
+Πατήστε <Επαναφορά> για να ορίσετε εκ νέου Components ή <mark style="color:blue;"><Αποθήκευση σειράς></mark> για να τα αποθηκεύσετε.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/ScreenHunter 105.png" alt=""><figcaption><p>Εικόνα 1: &#x3C;Πρότυπο></p></figcaption></figure>
 
 Μπορείτε να διαγράψετε οριστικά τη σελίδα, επιλέγοντας το κουτάκι <Επιβεβαιώστε τη διαγραφή> και στη συνέχεια πατώντας <mark style="color:red;"><Διαγραφή σελίδας></mark>.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 107 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 107 (1).png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
-Στην καρτέλα **<Ρυθμίσεις> (βλ. Εικόνα 2)**, **** ορίζετε**:**
+Στην καρτέλα **<Ρυθμίσεις> (βλ. Εικόνα 3)**, **** ορίζετε**:**
 
 * τον **Τίτλο** της σελίδας (για αλλαγή γλώσσας, πατήστε το εικονίδιο της υδρογείου)
 * την **Κατάσταση** της σελίδας
@@ -26,15 +30,15 @@
 Πατήστε <Επαναφορά> για να συμπληρώσετε εκ νέου τα πεδία και **<Αποθήκευση>** για να αποθηκεύσετε τις αλλαγές.&#x20;
 {% endhint %}
 
-Στην καρτέλα **<Ιστορικό> (βλ. Εικόνα 3)**, μπορείτε αριστερά να δείτε όλες τις αλλαγές που αποθηκεύτηκαν (ξεκινώντας από την πιο πρόσφατη). Στη δεξιά πλευρά της οθόνης, διατίθεται Προεπισκόπηση της σελίδας.
+Στην καρτέλα **<Ιστορικό> (βλ. Εικόνα 4)**, μπορείτε αριστερά να δείτε όλες τις αλλαγές που αποθηκεύτηκαν (ξεκινώντας από την πιο πρόσφατη). Στη δεξιά πλευρά της οθόνης, διατίθεται Προεπισκόπηση της σελίδας.
 
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 108.png" alt=""><figcaption><p>Εικόνα 2: &#x3C;Ρυθμίσεις></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 108.png" alt=""><figcaption><p>Εικόνα 3: &#x3C;Ρυθμίσεις></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 110.png" alt=""><figcaption><p>Εικόνα 3: &#x3C;Ιστορικό></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 110.png" alt=""><figcaption><p>Εικόνα 4: &#x3C;Ιστορικό></p></figcaption></figure>
 
 </div>
 
