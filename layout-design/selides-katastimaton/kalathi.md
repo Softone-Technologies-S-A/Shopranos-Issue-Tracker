@@ -48,3 +48,9 @@
 <figure><img src="../../.gitbook/assets/ScreenHunter 136.png" alt=""><figcaption><p>Εικόνα 4: &#x3C;Ιστορικό></p></figcaption></figure>
 
 </div>
+
+{% hint style="info" %}
+Μόλις ολοκληρώσετε τις αλλαγές σας, πατήστε <mark style="color:blue;"><Δημοσίευση σελίδας></mark> πάνω δεξιά στην οθόνη σας.&#x20;
+
+Αριστερά από το κουμπί, εμφανίζεται το Url της συγκεκριμένης σελίδας.
+{% endhint %}
