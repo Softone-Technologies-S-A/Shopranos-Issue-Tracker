@@ -36,7 +36,7 @@
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 107 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 107 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
