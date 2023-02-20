@@ -56,6 +56,8 @@
 
 </div>
 
+
+
 Για να προσθέσετε ένα προϊόν στην πλατφόρμα, πατήστε δεξιά το κουμπί <mark style="color:blue;"><Νέο></mark>.
 
 Έχοντας μεταφερθεί στην καρτέλα **<Γενικά>**, μπορείτε να ορίσετε την κατάσταση του προϊόντος (Ενεργό, Σε προσχέδιο ή Αρχειοθετημένο). &#x20;
@@ -121,7 +123,7 @@
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 110.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 110 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
