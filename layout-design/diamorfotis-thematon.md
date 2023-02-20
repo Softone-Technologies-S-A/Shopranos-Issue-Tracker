@@ -24,7 +24,7 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 104.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 104 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
