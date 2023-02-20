@@ -8,7 +8,7 @@
 
 Στη δεξιά πλευρά της οθόνης, βλέπετε την **Προεπισκόπηση** της αρχικής σελίδας.&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 105.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 105.png" alt=""><figcaption><p>&#x3C;Πρότυπο></p></figcaption></figure>
 
 Μπορείτε να διαγράψετε οριστικά τη σελίδα, επιλέγοντας το κουτάκι <Επιβεβαιώστε τη διαγραφή> και στη συνέχεια πατώντας <mark style="color:red;"><Διαγραφή σελίδας></mark>.
 
@@ -26,12 +26,18 @@
 Πατήστε <Επαναφορά> για να συμπληρώσετε εκ νέου τα πεδία και **<Αποθήκευση>** για να αποθηκεύσετε τις αλλαγές.&#x20;
 {% endhint %}
 
+Στην καρτέλα **<Ιστορικό>**, μπορείτε αριστερά να δείτε όλες τις αλλαγές που αποθηκεύτηκαν (ξεκινώντας από την πιο πρόσφατη). Στη δεξιά πλευρά της οθόνης, διατίθεται Προεπισκόπηση της σελίδας.
+
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 108.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 108.png" alt=""><figcaption><p>&#x3C;Ρυθμίσεις></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 110.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 110.png" alt=""><figcaption><p>&#x3C;Ιστορικό></p></figcaption></figure>
 
 </div>
+
+{% hint style="info" %}
+Μόλις ολοκληρώσετε τις αλλαγές σας, πατήστε <mark style="color:blue;"><Δημοσίευση σελίδας></mark> πάνω δεξιά στην οθόνη σας.&#x20;
+{% endhint %}
