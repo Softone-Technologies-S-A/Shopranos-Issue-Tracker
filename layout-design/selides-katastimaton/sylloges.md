@@ -45,11 +45,11 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 122 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 122 (2).png" alt=""><figcaption><p>Εικόνα 4: &#x3C;Ρυθμίσεις></p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 123 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 123 (2).png" alt=""><figcaption><p>Εικόνα 5: &#x3C;Ιστορικό></p></figcaption></figure>
 
 </div>
 
