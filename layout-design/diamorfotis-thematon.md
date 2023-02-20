@@ -28,7 +28,7 @@
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 105.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 105 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -36,7 +36,7 @@
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 107.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 107 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
