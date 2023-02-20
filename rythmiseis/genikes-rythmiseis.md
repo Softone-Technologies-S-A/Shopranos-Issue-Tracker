@@ -18,7 +18,7 @@
 
 Αν θέλετε να προχωρήσετε σε οριστική διαγραφή δεδομένων, πατήστε τη ρύθμιση **<Διαγραφή Δεδομένων>** και το κουμπί <mark style="color:red;"><Διαγραφή></mark> δίπλα από κάθε επιλογή.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 120.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 120 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Αποθηκεύστε, σε κάθε περίπτωση, τις αλλαγές που πραγματοποιήσατε, πατώντας <mark style="color:blue;"><Αποθήκευση αλλαγών></mark>.
