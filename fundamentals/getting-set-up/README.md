@@ -38,21 +38,23 @@
 
 · επιλέγετε <Αλλαγή> και στη συνέχεια <Προσθήκη> ή <Αφαίρεση> **Ετικέτας**, είτε υπάρχουσας, που θα διαλέξετε από τη λίστα επιλογής, είτε νέας που θα πληκτρολογήσετε στην ίδια μπάρα.
 
+{% hint style="info" %}
+Αποθηκεύστε τις αλλαγές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> για να τις ακυρώσετε.
+{% endhint %}
+
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 122.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 101.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 123 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 102 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 124 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 103 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
-
-Αποθηκεύστε τις αλλαγές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> για να τις ακυρώσετε.
 
 Για να προσθέσετε ένα προϊόν στην πλατφόρμα, πατήστε δεξιά το κουμπί <mark style="color:blue;"><Νέο></mark>.
 

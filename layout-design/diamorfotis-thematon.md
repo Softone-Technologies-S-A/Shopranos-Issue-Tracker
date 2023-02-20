@@ -58,7 +58,7 @@
 
 Αν θέλετε να προσθέσετε Στοιχεία, μπορείτε να επιλέξετε: TopBar, Γραμμή πλοήγησης, Μενού Υποσέλιδου, καθώς και Δομικά Στοιχεία (π.χ. Φόρμα Επικοινωνίας και Products Carousel).&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 101.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 101 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Πατήστε <Επαναφορά> για να εισαγάγετε εκ νέου δεδομένα ή <mark style="color:blue;"><Αποθήκευση σειράς></mark> για να αποθηκεύσετε τα Στοιχεία στη σειρά που ορίσατε.
