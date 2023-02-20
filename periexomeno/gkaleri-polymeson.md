@@ -10,7 +10,7 @@
 
 Κλικάρετε <mark style="color:blue;"><+ Νέος φάκελος></mark>, στην περίπτωση που επιθυμείτε να προσθέσετε νέο φάκελο πολυμέσων. Εισαγάγετε ένα όνομα φακέλου στο πεδίο και πατήστε **<✓>** ή **\<x>** για οριστικοποίηση ή για αφαίρεση του ονόματος, αντίστοιχα.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 113 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 113.png" alt=""><figcaption></figcaption></figure>
 
 Αν θέλετε να μεταφορτώσετε αρχεία, επιλέξτε <mark style="color:blue;"><Ανεβάστε αρχεία></mark>. Σημειώνουμε πως μαζική μεταφόρτωση αρχείων (άνω των 10) μπορείτε να πραγματοποιήσετε μόνο σε συμπιεσμένο φάκελο (μορφή zip).
 
@@ -20,7 +20,7 @@
 
 Στην καρτέλα **<Ρυθμίσεις>**, μπορείτε να ορίσετε τη μορφή του ονόματος αρχείου, ενώ στην περίπτωση που υπάρχει ήδη, έχετε τη δυνατότητα να επιλέξετε <Παράλειψη> ή <Αντικατάσταση>.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 114 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 114.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Πατήστε <mark style="color:blue;"><Αποθήκευση></mark> για να αποθηκεύσετε τις αλλαγές.
