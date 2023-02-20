@@ -13,6 +13,10 @@
 
 Στη δεξιά πλευρά της οθόνης, βλέπετε την **Προεπισκόπηση** της σελίδας.&#x20;
 
+{% hint style="info" %}
+Πατήστε <Επαναφορά> για να ορίσετε εκ νέου Components ή <mark style="color:blue;"><Αποθήκευση σειράς></mark> για να τα αποθηκεύσετε.
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/ScreenHunter 111.png" alt=""><figcaption><p>Εικόνα 1: &#x3C;Πρότυπο></p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 112.png" alt=""><figcaption><p>Εικόνα 2: Λίστα φίλτρων</p></figcaption></figure>
