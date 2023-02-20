@@ -30,7 +30,7 @@ _Δεξιά_, θα δείτε βασικά στοιχεία του Προφίλ 
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 126.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 128 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 128.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 1\) Πατήστε **<Αποθήκευση>** για να αποθηκεύσετε την αλλαγή ή <Ακύρωση> για να την ακυρώσετε.
