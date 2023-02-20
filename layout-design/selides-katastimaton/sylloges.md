@@ -1,6 +1,6 @@
 # Συλλογές
 
-{% hint style="info" %}
+{% hint style="success" %}
 Μεταβείτε: **Layout Design > Σελίδες Καταστημάτων > Συλλογές**.&#x20;
 {% endhint %}
 
@@ -17,7 +17,7 @@
 Πατήστε <Επαναφορά> για να ορίσετε εκ νέου Components ή <mark style="color:blue;"><Αποθήκευση σειράς></mark> για να τα αποθηκεύσετε.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 120.png" alt=""><figcaption><p>Εικόνα 1: &#x3C;Πρότυπο></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 120 (1).png" alt=""><figcaption><p>Εικόνα 1: &#x3C;Πρότυπο></p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 121.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
@@ -27,4 +27,34 @@
 
 Μπορείτε να διαγράψετε οριστικά τη σελίδα, επιλέγοντας το κουτάκι <Επιβεβαιώστε τη διαγραφή> και στη συνέχεια πατώντας <mark style="color:red;"><Διαγραφή σελίδας></mark>.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 116.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 116.png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
+
+Στην καρτέλα **<Ρυθμίσεις> (βλ. Εικόνα 4)**, ορίζετε:
+
+* τον **Τίτλο** της σελίδας (για αλλαγή γλώσσας, πατήστε το εικονίδιο της υδρογείου)
+* την **Κατάσταση** της σελίδας
+* ένα **URL Alias**&#x20;
+* έναν **τίτλο SEO** (για αλλαγή γλώσσας, πατήστε το εικονίδιο της υδρογείου). **** Στην σελίδα προϊόντος, κατηγορίας, συλλογης και κατασκευαστή γράψτε \{{Title\}} για να απεικονίσετε τον τίτλο τους
+* **Meta keywords** (ετικέτες)
+
+{% hint style="info" %}
+Πατήστε <Επαναφορά> για να συμπληρώσετε εκ νέου τα πεδία και **<Αποθήκευση>** για να αποθηκεύσετε τις αλλαγές.&#x20;
+{% endhint %}
+
+Στην καρτέλα **<Ιστορικό> (βλ. Εικόνα 5)**, μπορείτε αριστερά να δείτε όλες τις αλλαγές που αποθηκεύτηκαν (ξεκινώντας από την πιο πρόσφατη). Στη δεξιά πλευρά της οθόνης, διατίθεται Προεπισκόπηση της σελίδας.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 122.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 123.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+{% hint style="info" %}
+Μόλις ολοκληρώσετε τις αλλαγές σας, πατήστε <mark style="color:blue;"><Δημοσίευση σελίδας></mark> πάνω δεξιά στην οθόνη σας.&#x20;
+
+Αριστερά από το κουμπί, εμφανίζεται το Url της συγκεκριμένης σελίδας.
+{% endhint %}
