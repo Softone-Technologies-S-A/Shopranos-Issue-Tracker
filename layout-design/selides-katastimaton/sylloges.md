@@ -4,7 +4,7 @@
 Μεταβείτε: **Layout Design > Σελίδες Καταστημάτων > Συλλογές**.&#x20;
 {% endhint %}
 
-Στην καρτέλα **<Πρότυπο> (βλ. Εικόνα 1)**, μπορείτε να προσθέσετε, επιλέγοντας στα αριστερά: &#x20;
+Στην καρτέλα **<Πρότυπο> (βλ. Εικόνα 1)**, μπορείτε να επιλέξετε στα αριστερά: &#x20;
 
 * **Προσθήκη > Βασικά Components** ή
 * **Προσθήκη > Λίστα φίλτρων (βλ. Εικόνα 2).**  Στην περίπτωση αυτή, καλείστε να επιλέξετε  <Εμφάνιση> (Προκαθορισμένο) και να ορίσετε <Όνομα δομικού στοιχείου>. &#x20;
@@ -19,7 +19,7 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 120 (1).png" alt=""><figcaption><p>Εικόνα 1: &#x3C;Πρότυπο></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 121.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 121 (1).png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 {% hint style="info" %}
 Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να τροποποιήσετε εκ νέου τη Λίστα φίλτρων, πατώντας <Επαναφορά>.&#x20;
@@ -45,11 +45,11 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 122.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 122 (2).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 123.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 123 (2).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
