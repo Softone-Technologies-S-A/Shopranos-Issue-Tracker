@@ -39,7 +39,7 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 125 (1).png" alt=""><figcaption><p>Εικόνα 3: &#x3C;Ρυθμίσεις></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 125.png" alt=""><figcaption><p>Εικόνα 3: &#x3C;Ρυθμίσεις></p></figcaption></figure>
 
  
 
