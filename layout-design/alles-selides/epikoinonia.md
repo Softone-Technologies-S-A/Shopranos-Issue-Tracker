@@ -41,7 +41,7 @@
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 167.png" alt=""><figcaption><p>Εικόνα 3β</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 167 (1).png" alt=""><figcaption><p>Εικόνα 3β</p></figcaption></figure>
 
 </div>
 
