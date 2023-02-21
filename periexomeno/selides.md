@@ -16,7 +16,7 @@
 
 Στη δεξιά πλευρά της οθόνης είναι διαθέσιμη η **Προεπισκόπηση**.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 57.png" alt=""><figcaption><p>&#x3C;Πρότυπο></p></figcaption></figure>
 
 Στην καρτέλα **<Ρυθμίσεις>**, μπορείτε να τροποποιήσετε τον Τίτλο, την Κατάσταση (Σε Προσχέδιο, Ενεργό, Αρχειοθετημένο), το URL Alias, το SEO Title (στη σελίδα προϊόντος, κατηγορίας, συλλογης και κατασκευαστή γράψτε \{{Title\}} για να απεικονίσετε τον τίτλο τους) και τα Meta keywords.&#x20;
 
@@ -24,9 +24,11 @@
 Πατήστε <Επαναφορά> για να εισαγάγετε εκ νέου τα πεδία ή <mark style="color:blue;"><Αποθήκευση></mark> για να αποθηκεύσετε τις αλλαγές.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/ScreenHunter 58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 58.png" alt=""><figcaption><p>&#x3C;Ρυθμίσεις></p></figcaption></figure>
 
 Στην τρίτη καρτέλα, μπορείτε να δείτε το **<Ιστορικό>** και την προεπισκόπηση στη δεξιά πλευρά της οθόνης σας.
+
+<figure><img src="../.gitbook/assets/ScreenHunter 187.png" alt=""><figcaption><p>&#x3C;Ιστορικό></p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">1)</mark> Μετά τις αλλαγές, μπορείτε να πατήσετε πάνω δεξιά το κουμπί <mark style="color:blue;"><Δημοσίευση σελίδας></mark>.
