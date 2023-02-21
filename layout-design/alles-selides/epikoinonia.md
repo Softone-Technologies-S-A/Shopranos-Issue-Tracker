@@ -29,6 +29,8 @@
 
 {% hint style="info" %}
 <mark style="color:blue;">1)</mark> Πατήστε <Ακύρωση> για να ακυρώσετε τις αλλαγές, <Επαναφορά> για να συμπληρώσετε εκ νέου τα πεδία και **<Αποθήκευση>** για να αποθηκεύσετε τα στοιχεία που συμπληρώσατε.
+
+<mark style="color:blue;">2)</mark> Πατήστε <Επαναφορά> για να ορίσετε εκ νέου Components ή <mark style="color:blue;"><Αποθήκευση σειράς></mark> για να τα αποθηκεύσετε.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 163.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
