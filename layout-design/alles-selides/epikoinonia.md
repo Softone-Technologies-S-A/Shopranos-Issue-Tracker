@@ -9,7 +9,7 @@
 * **Προσθήκη > Βασικά Components** ή
 * **Προσθήκη > Φόρμα Επικοινωνίας (βλ. Εικόνα 2).**&#x20;
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 162.png" alt=""><figcaption><p>Εικόνα 1: &#x3C;Πρότυπο></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 184.png" alt=""><figcaption><p>Εικόνα 1: &#x3C;Πρότυπο></p></figcaption></figure>
 
 Στη **Φόρμα Επικοινωνίας**, καλείστε να ορίσετε:
 
