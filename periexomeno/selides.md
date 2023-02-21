@@ -6,29 +6,29 @@
 
 Αναζητήστε σελίδες στη _λίστα,_ επιλέγοντας ανάμεσα σε: Σε Προσχέδιο, Αρχειοθετημένο και Ενεργό. Στα _αποτελέσματα αναζήτησης_ θα δείτε: τις Σελίδες, την Κατάσταση και την Ημερομηνία Ενημέρωσής τους, ενώ για να επεξεργαστείτε μια σελίδα μπορείτε να πατήσετε πάνω στο όνομά της ή Ενέργειες > Εμφάνιση. Μπορείτε να διαγράψετε τη σελίδα, πατώντας Ενέργειες > Διαγραφή.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 55 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 55 (1).png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
 Πατήστε <mark style="color:blue;"><Προσθήκη σελίδας></mark> για να προσθέσετε νέα σελίδα στον ιστότοπό σας. Συμπληρώστε τον Τίτλο, την Κατάσταση και το URL Alias. Πατήστε <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark>.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 56.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 56.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
-Επιλέγοντας μια ήδη υπάρχουσα σελίδα, θα μεταφερθείτε στην καρτέλα **<Πρότυπο>**, όπου μπορείτε να προσθέσετε Βασικά Components (π.χ. Κείμενο με εικόνα, Products Block, Εγγραφή σε Newsletter).&#x20;
+Επιλέγοντας μια ήδη υπάρχουσα σελίδα, θα μεταφερθείτε στην καρτέλα **<Πρότυπο> (βλ. Εικόνα 3)**, όπου μπορείτε να προσθέσετε Βασικά Components (π.χ. Κείμενο με εικόνα, Products Block, Εγγραφή σε Newsletter).&#x20;
 
 Στη δεξιά πλευρά της οθόνης είναι διαθέσιμη η **Προεπισκόπηση**.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 57.png" alt=""><figcaption><p>&#x3C;Πρότυπο></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 57.png" alt=""><figcaption><p>Εικόνα 3: &#x3C;Πρότυπο></p></figcaption></figure>
 
-Στην καρτέλα **<Ρυθμίσεις>**, μπορείτε να τροποποιήσετε τον Τίτλο, την Κατάσταση (Σε Προσχέδιο, Ενεργό, Αρχειοθετημένο), το URL Alias, το SEO Title (στη σελίδα προϊόντος, κατηγορίας, συλλογης και κατασκευαστή γράψτε \{{Title\}} για να απεικονίσετε τον τίτλο τους) και τα Meta keywords.&#x20;
+Στην καρτέλα **<Ρυθμίσεις> (βλ. Εικόνα 4)**, μπορείτε να τροποποιήσετε τον Τίτλο, την Κατάσταση (Σε Προσχέδιο, Ενεργό, Αρχειοθετημένο), το URL Alias, το SEO Title (στη σελίδα προϊόντος, κατηγορίας, συλλογης και κατασκευαστή γράψτε \{{Title\}} για να απεικονίσετε τον τίτλο τους) και τα Meta keywords.&#x20;
 
 {% hint style="info" %}
 Πατήστε <Επαναφορά> για να εισαγάγετε εκ νέου τα πεδία ή <mark style="color:blue;"><Αποθήκευση></mark> για να αποθηκεύσετε τις αλλαγές.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/ScreenHunter 58.png" alt=""><figcaption><p>&#x3C;Ρυθμίσεις></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 58.png" alt=""><figcaption><p>Εικόνα 4: &#x3C;Ρυθμίσεις></p></figcaption></figure>
 
-Στην τρίτη καρτέλα, μπορείτε να δείτε το **<Ιστορικό>** και την προεπισκόπηση στη δεξιά πλευρά της οθόνης σας.
+Στην τρίτη καρτέλα, μπορείτε να δείτε το **<Ιστορικό> (βλ. Εικόνα 5)** και την προεπισκόπηση στη δεξιά πλευρά της οθόνης σας.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 187.png" alt=""><figcaption><p>&#x3C;Ιστορικό></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 187.png" alt=""><figcaption><p>Εικόνα 5: &#x3C;Ιστορικό></p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">1)</mark> Μετά τις αλλαγές, μπορείτε να πατήσετε πάνω δεξιά το κουμπί <mark style="color:blue;"><Δημοσίευση σελίδας></mark>.
