@@ -102,6 +102,7 @@
       * [Transformations](rythmiseis/eisagogi-eksagogi-dedomenon/feeder/transformations.md)
     * [Newsletter](rythmiseis/eisagogi-eksagogi-dedomenon/newsletter/README.md)
       * [Εξαγωγή emails σε excel](rythmiseis/eisagogi-eksagogi-dedomenon/newsletter/eksagogi-emails-se-excel.md)
+      * [Καθαρισμός](rythmiseis/eisagogi-eksagogi-dedomenon/newsletter/katharismos.md)
   * [Web App](rythmiseis/web-app.md)
   * [Γενικές Ρυθμίσεις](rythmiseis/genikes-rythmiseis.md)
   * [Μεταφορές](rythmiseis/metafores.md)
