@@ -1,5 +1,5 @@
 # Επαναχρησιμοποιούμενα Components
 
-{% hint style="info" %}
+{% hint style="success" %}
 Μεταβείτε: **Προσαρμογή > Components > Επαναχρησιμοποιούμενα Components.**
 {% endhint %}

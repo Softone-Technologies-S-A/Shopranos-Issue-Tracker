@@ -1,6 +1,6 @@
 # Βασικά Components
 
-{% hint style="info" %}
+{% hint style="success" %}
 Μεταβείτε: **Προσαρμογή > Components > Βασικά Components.**
 {% endhint %}
 
