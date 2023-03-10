@@ -3,6 +3,7 @@
 * [Shopranos](README.md)
 * [👋 Get Started](<README (1).md>)
 * [Login διαδικασία](shopranos/get-started/login-diadikasia.md)
+* [Προσωπικό Μενού Χρήστη](prosopiko-menoy-xristi.md)
 * [Στατιστικά](statistika/README.md)
   * [Επισκόπηση](overview/what-we-do.md)
   * [Πωλήσεις](overview/our-features.md)
