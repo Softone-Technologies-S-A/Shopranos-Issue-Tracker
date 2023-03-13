@@ -75,11 +75,10 @@
 
 <div>
 
-<figure><img src=".gitbook/assets/ScreenHunter 226.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/ScreenHunter 226 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
 <figure><img src=".gitbook/assets/ScreenHunter 227.png" alt=""><figcaption></figcaption></figure>
 
 </div>
-
