@@ -27,11 +27,11 @@
 
 Για να διαγράψετε προϊόντα, πατήστε πάνω στο κουτάκι που βρίσκεται αριστερά από κάθε αντικείμενο ή το πρώτο κουτάκι που βρίσκεται αριστερά από το την μπάρα κατηγοριών για επιλογή όλων των προϊόντων και έπειτα το κόκκινο κουμπί <mark style="color:red;"><Διαγραφή Επιλεγμένων></mark>.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 97.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 199.png" alt=""><figcaption></figcaption></figure>
 
 Ακόμη, για να εφαρμόσετε **μαζικές μεταβολές** σε προϊόντα, πατήστε πάνω στο κουτάκι που βρίσκεται αριστερά από κάθε αντικείμενο ή το πρώτο κουτάκι που βρίσκεται αριστερά από την μπάρα κατηγοριών για επιλογή όλων των αντικειμένων και ύστερα το κουμπί **<Επεξεργασία των επιλεγμένων>.**
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 121.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 200.png" alt=""><figcaption></figcaption></figure>
 
 Στη συνέχεια, θα μεταφερθείτε στη _φόρμα μαζικής ενημέρωσης_, όπου:
 
@@ -67,9 +67,7 @@
 
 </div>
 
-{% hint style="info" %}
-Για να εξαγάγετε σε αρχείο pdf τον κατάλογο προϊόντων σας, πατήστε πάνω δεξιά \<Export>.&#x20;
-{% endhint %}
+Για να εξαγάγετε σε αρχείο pdf τον κατάλογο προϊόντων σας, πατήστε πάνω δεξιά **\<Export>**.&#x20;
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 198.png" alt=""><figcaption></figcaption></figure>
 
