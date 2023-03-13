@@ -71,7 +71,7 @@
 
 
 
-* [x] Για να εξαγάγετε σε αρχείο pdf τον κατάλογο προϊόντων σας, πατήστε πάνω δεξιά **\<Export>**.&#x20;
+* [x] Για να εξαγάγετε σε αρχείο pdf τον κατάλογο προϊόντων σας, πατήστε πάνω δεξιά **\<Export>**. Επιλέγετε \<Excel> και στη συνέχεια \<Export>. &#x20;
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 198.png" alt=""><figcaption></figcaption></figure>
 
