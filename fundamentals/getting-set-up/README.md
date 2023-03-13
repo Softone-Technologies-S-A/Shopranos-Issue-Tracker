@@ -155,9 +155,7 @@
 
 Στην καρτέλα **<Περιεχόμενο>** μπορείτε να προσθέσετε περιεχόμενο, καθώς και συσχετιζόμενα είδη του καταστήματός σας, κάνοντας κλικ δεξιά <mark style="color:blue;"><+ Προσθήκη γραμμής></mark> και <mark style="color:blue;"><+ Προσθέστε προϊόν></mark> αντίστοιχα.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 16.png" alt=""><figcaption><p>Καρτέλα &#x3C;Περιεχόμενο></p></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/ScreenHunter 214.png" alt=""><figcaption><p>Καρτέλα &#x3C;Περιεχόμενο></p></figcaption></figure>
 
 Στην καρτέλα **<Διαστάσεις>** μπορείτε να συμπληρώσετε τις διαστάσεις του προϊόντος.
 
