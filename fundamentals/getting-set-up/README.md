@@ -27,9 +27,13 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 96.png" alt=""><figcaption></figcaption></figure>
 
+
+
 Για να διαγράψετε προϊόντα, πατήστε πάνω στο κουτάκι που βρίσκεται αριστερά από κάθε αντικείμενο ή το πρώτο κουτάκι που βρίσκεται αριστερά από το την μπάρα κατηγοριών για επιλογή όλων των προϊόντων και έπειτα το κόκκινο κουμπί <mark style="color:red;"><Διαγραφή Επιλεγμένων></mark>.
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 199.png" alt=""><figcaption></figcaption></figure>
+
+
 
 * [x] Ακόμη, για να εφαρμόσετε **μαζικές μεταβολές** σε προϊόντα, πατήστε πάνω στο κουτάκι που βρίσκεται αριστερά από κάθε αντικείμενο ή το πρώτο κουτάκι που βρίσκεται αριστερά από την μπάρα κατηγοριών για επιλογή όλων των αντικειμένων και ύστερα το κουμπί **<Επεξεργασία των επιλεγμένων>.**
 
@@ -129,9 +133,21 @@
 
 
 
-Στην καρτέλα **\<Media Gallery>** μπορείτε να προσθέσετε _βίντεο_, πατώντας <Προσθέστε βίντεο> και _αρχεία_, κλικάροντας <mark style="color:blue;"><Επιλέξτε Αρχεία></mark>.
+Στην καρτέλα **\<Media Gallery>** μπορείτε να επιλέξετε αρχεία <mark style="color:blue;"><Επιλέξτε Αρχεία></mark>.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 207.png" alt=""><figcaption><p>Καρτέλα &#x3C;Media Gallery></p></figcaption></figure>
+<div>
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 211.png" alt=""><figcaption><p>Καρτέλα &#x3C;Media Gallery></p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 212.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 213.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Στην καρτέλα **<Περιεχόμενο>** μπορείτε να προσθέσετε περιεχόμενο, καθώς και συσχετιζόμενα είδη του καταστήματός σας, κάνοντας κλικ δεξιά <mark style="color:blue;"><+ Προσθήκη γραμμής></mark> και <mark style="color:blue;"><+ Προσθέστε προϊόν></mark> αντίστοιχα.
 
