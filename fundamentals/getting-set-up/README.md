@@ -102,19 +102,17 @@
 
 Στην **Αποστολή**, συμπληρώστε το Βάρος, το Μήκος, το Πλάτος και το Ύψος του προϊόντος.
 
-
-
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 202.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 205.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 206.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
