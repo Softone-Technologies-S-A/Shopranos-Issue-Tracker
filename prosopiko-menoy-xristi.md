@@ -71,3 +71,15 @@
 
 <figure><img src=".gitbook/assets/ScreenHunter 225.png" alt=""><figcaption></figcaption></figure>
 
+Κλικάροντας πάνω στην μπάρα αναζήτησης, εμφανίζονται οι αναζητήσεις που πραγματοποιήσατε, ανά κατηγορία: Όλα, Παραγγελίες, Πελάτες και Προϊόντα (ενδεικτικά). Επιλέγοντας δεξιά το κουμπί <...>, θα μπορείτε να ενεργοποιήσετε τις κατηγορίες που προτιμάτε στις αναζητήσεις σας. Για να αποθηκεύσετε τις αλλαγές, πατήστε <Αποθήκευση αλλαγών> και <Ακύρωση> για να τις ακυρώσετε.
+
+<div>
+
+<figure><img src=".gitbook/assets/ScreenHunter 226.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/ScreenHunter 227.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
