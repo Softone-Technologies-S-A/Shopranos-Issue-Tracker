@@ -115,7 +115,7 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 202.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 202.png" alt=""><figcaption><p>Καρτέλα &#x3C;Γενικά></p></figcaption></figure>
 
  
 
@@ -131,13 +131,13 @@
 
 Στην καρτέλα **\<Media Gallery>** μπορείτε να προσθέσετε _βίντεο_, πατώντας <Προσθέστε βίντεο> και _αρχεία_, κλικάροντας <mark style="color:blue;"><Επιλέξτε Αρχεία></mark>.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 15.png" alt=""><figcaption><p>Καρτέλα &#x3C;Media Gallery></p></figcaption></figure>
 
 
 
 Στην καρτέλα **<Περιεχόμενο>** μπορείτε να προσθέσετε περιεχόμενο, καθώς και συσχετιζόμενα είδη του καταστήματός σας, κάνοντας κλικ δεξιά <mark style="color:blue;"><+ Προσθήκη γραμμής></mark> και <mark style="color:blue;"><+ Προσθέστε προϊόν></mark> αντίστοιχα.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 16.png" alt=""><figcaption><p>Καρτέλα &#x3C;Περιεχόμενο></p></figcaption></figure>
 
 
 
@@ -149,7 +149,7 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 17.png" alt=""><figcaption><p>Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
 
  
 
@@ -161,13 +161,13 @@
 
 Στην καρτέλα **<Χαρακτηριστικά>**, μπορείτε να επιλέξετε ένα πρότυπο χαρακτηριστικών αναφορικά με το προϊόν.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 18.png" alt=""><figcaption><p>Καρτέλα &#x3C;Χαρακτηριστικά></p></figcaption></figure>
 
 
 
 Στην καρτέλα **<Απόθεμα>**, συμπληρώνετε τον αριθμό της Ποσότητας υπολοίπου και το Ελάχιστο όριο αποθέματος. Μπορείτε να επιλέξετε να πουλήσετε προϊόντα εκτός αποθέματος ή να διακόψετε τη λήψη παραγγελίας (<Πουλήστε προϊόντα εκτός αποθέματος> και <Διακοπή λήψης παραγγελίας>, αντίστοιχα).
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 19.png" alt=""><figcaption><p>Καρτέλα &#x3C;Απόθεμα></p></figcaption></figure>
 
 
 
@@ -180,7 +180,7 @@
 * **Περιγραφή Meta**
 * **Meta keywords**
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 20.png" alt=""><figcaption><p>Καρτέλα &#x3C;SEO></p></figcaption></figure>
 
 Για να επεξεργαστείτε τα παραπάνω δεδομένα σε ήδη υπάρχον προϊόν, πατήστε πάνω στο όνομά του ή στην επιλογή <Εμφάνιση> (Ενέργειες > Εμφάνιση) που αντιστοιχεί σε αυτό.
 
