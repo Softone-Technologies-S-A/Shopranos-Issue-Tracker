@@ -133,7 +133,11 @@
 
 
 
-Στην καρτέλα **\<Media Gallery>** μπορείτε να ανεβάσετε αρχεία, πατώντας δεξιά <mark style="color:blue;"><Επιλέξτε Αρχεία></mark> ή εισαγάγοντας τον αντίστοιχο σύνδεσμο (<mark style="color:blue;"><Προσθέστε σύνδεσμο></mark>). Στη δεύτερη περίπτωση, καλείστε να ορίσετε Τίτλο, Media Type (δηλαδή αν πρόκειται να ανεβάσετε Εικόνα, Βίντεο ή Αρχείο) και το File URL.
+Στην καρτέλα **\<Media Gallery>** μπορείτε να ανεβάσετε αρχεία, πατώντας δεξιά <mark style="color:blue;"><Επιλέξτε Αρχεία></mark> ή εισαγάγοντας τον αντίστοιχο σύνδεσμο (<mark style="color:blue;"><Προσθέστε σύνδεσμο></mark>).&#x20;
+
+Στην πρώτη περίπτωση, καλείστε να αναζητήσετε από την μπάρα αναζήτησης πάνω αριστερά, αρχεία που έχετε ανεβάσει, να εισαγάγετε νέο φάκελο, πατώντας <mark style="color:blue;"><+Νέος φάκελος></mark> <mark style="color:blue;"></mark><mark style="color:blue;">****</mark> ή να ανεβάσετε επιπλέον αρχεία, πατώντας <mark style="color:blue;"><Ανεβάστε αρχεία></mark>. Αν επιθυμείτε να μεταφορτώσετε μεγάλο όγκο αρχείων, μπορείτε αυτό να το κάνετε τμηματικά ή να ανεβάσετε ένα Zip.&#x20;
+
+Στη δεύτερη περίπτωση, καλείστε να ορίσετε Τίτλο, Media Type (δηλαδή αν πρόκειται να ανεβάσετε Εικόνα, Βίντεο ή Αρχείο) και το File URL.
 
 <div>
 
@@ -141,11 +145,11 @@
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 212.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 212.png" alt=""><figcaption><p>&#x3C;Επιλέξτε Αρχεία></p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 213.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 213.png" alt=""><figcaption><p>&#x3C;Προσθέστε σύνδεσμο></p></figcaption></figure>
 
 </div>
 
