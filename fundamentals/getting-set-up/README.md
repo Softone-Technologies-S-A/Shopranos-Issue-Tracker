@@ -131,9 +131,7 @@
 
 Στην καρτέλα **\<Media Gallery>** μπορείτε να προσθέσετε _βίντεο_, πατώντας <Προσθέστε βίντεο> και _αρχεία_, κλικάροντας <mark style="color:blue;"><Επιλέξτε Αρχεία></mark>.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 15.png" alt=""><figcaption><p>Καρτέλα &#x3C;Media Gallery></p></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/ScreenHunter 207.png" alt=""><figcaption><p>Καρτέλα &#x3C;Media Gallery></p></figcaption></figure>
 
 Στην καρτέλα **<Περιεχόμενο>** μπορείτε να προσθέσετε περιεχόμενο, καθώς και συσχετιζόμενα είδη του καταστήματός σας, κάνοντας κλικ δεξιά <mark style="color:blue;"><+ Προσθήκη γραμμής></mark> και <mark style="color:blue;"><+ Προσθέστε προϊόν></mark> αντίστοιχα.
 
