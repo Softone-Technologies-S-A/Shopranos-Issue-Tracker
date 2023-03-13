@@ -149,16 +149,23 @@
 
 </div>
 
-Στην καρτέλα **<Περιεχόμενο>** μπορείτε να προσθέσετε:
+Στην καρτέλα **<Περιεχόμενο>** (1), μπορείτε να προσθέσετε:
 
 * **Πρόσθετες Ετικέτες Αναζήτησης**
-* **Πρόσθετο περιεχόμενο**, πατώντας <mark style="color:blue;"><+Προσθήκη γραμμής></mark>. Εισαγάγετε Τίτλο και Περιγραφή (επιλέγοντας την επιθυμητή γλώσσα)
+* **Πρόσθετο περιεχόμενο**, πατώντας <mark style="color:blue;"><+Προσθήκη γραμμής></mark> (2). Εισαγάγετε Τίτλο και Περιγραφή (επιλέγοντας την επιθυμητή γλώσσα).
+* **Συσχετιζόμενα προϊόντα**, δηλαδή άλλα προϊόντα του καταστήματος που σχετίζονται με το προστεθέν προϊόν (3).
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 217.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter.png" alt=""><figcaption><p>Καρτέλα &#x3C;Περιεχόμενο> - Παράδειγμα (1)</p></figcaption></figure>
 
-* **Συσχετιζόμενα προϊόντα**, δηλαδή άλλα προϊόντα του καταστήματος που σχετίζονται με το προστεθέν προϊόν.
+<div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 216.png" alt=""><figcaption><p>Καρτέλα &#x3C;Περιεχόμενο> (Παράδειγμα)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 217 (1).png" alt=""><figcaption><p>(2)</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 218.png" alt=""><figcaption><p>(3)</p></figcaption></figure>
+
+</div>
 
 Στην καρτέλα **<Διαστάσεις>** μπορείτε να συμπληρώσετε τις διαστάσεις του προϊόντος.
 
