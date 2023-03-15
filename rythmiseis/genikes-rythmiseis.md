@@ -12,23 +12,31 @@
 
 \-επιλέξτε _Πάροχο_
 
-\-εισαγάγετε _Email Προφίλ_ (Εικόνες 1-3) __&#x20;
+<figure><img src="../.gitbook/assets/ScreenHunter 239.png" alt=""><figcaption><p>Εικόνα 2α: &#x3C;Παραμετροποίηση Email>: Πάροχοι</p></figcaption></figure>
 
-_-_ορίστε _Ρυθμίσεις Email_ (για κάθε μία επιλέγετε ανάμεσα σε: Invitation, New Order, test invitation)                                   &#x20;
+\-εισαγάγετε _Email Προφίλ_&#x20;
+
+<figure><img src="../.gitbook/assets/ScreenHunter 238.png" alt=""><figcaption><p>Εικόνα 2β: Email Προφίλ</p></figcaption></figure>
 
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 231.png" alt=""><figcaption><p>Εικόνα 2α: Παραμετροποίηση Email (Email Προφίλ)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 231.png" alt=""><figcaption><p>Εικόνα 2γ </p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 232.png" alt=""><figcaption><p>Εικόνα 2β</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 232.png" alt=""><figcaption><p>Εικόνα 2δ</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 233.png" alt=""><figcaption><p>Εικόνα 2γ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 233.png" alt=""><figcaption><p>Εικόνα 2ε</p></figcaption></figure>
 
 </div>
+
+_-_ορίστε _Ρυθμίσεις Email_ (για κάθε μία επιλέγετε ανάμεσα σε: Invitation, New Order, test invitation)                                   &#x20;
+
+<figure><img src="../.gitbook/assets/ScreenHunter 237.png" alt=""><figcaption><p>Εικόνα 2στ: Ρυθμίσεις Email</p></figcaption></figure>
+
+
 
 <figure><img src="../.gitbook/assets/ScreenHunter 234.png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
