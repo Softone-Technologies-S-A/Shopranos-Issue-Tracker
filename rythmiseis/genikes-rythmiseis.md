@@ -14,7 +14,7 @@
 
 <figure><img src="../.gitbook/assets/ScreenHunter 239.png" alt=""><figcaption><p>Εικόνα 2α: &#x3C;Παραμετροποίηση Email>: Πάροχοι</p></figcaption></figure>
 
-\-εισαγάγετε _Email Προφίλ_&#x20;
+\-εισαγάγετε _Email Προφίλ_, πατώντας <mark style="color:blue;"><+Νέο></mark>. Προχωρήστε σε επεξεργασία, πατώντας το εικονίδιο του μολυβιού και σε διαγραφή, πατώντας το εικονίδιο του κάδου.
 
 <figure><img src="../.gitbook/assets/ScreenHunter 238.png" alt=""><figcaption><p>Εικόνα 2β: Email Προφίλ</p></figcaption></figure>
 
