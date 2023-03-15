@@ -8,6 +8,8 @@
 
 <figure><img src="../.gitbook/assets/ScreenHunter 235.png" alt=""><figcaption><p>Εικόνα 1: &#x3C;Πελάτης></p></figcaption></figure>
 
+
+
 * **\<Email>**, μπορείτε να προχωρήσετε σε παραμετροποίηση:&#x20;
 
 \-επιλέξτε _Πάροχο_
@@ -32,11 +34,13 @@
 
 </div>
 
-_-_ορίστε _Ρυθμίσεις Email_ (για κάθε μία επιλέγετε ανάμεσα σε: Invitation, New Order, test invitation)                                   &#x20;
+_-_ορίστε _Ρυθμίσεις Email_ (για κάθε μία επιλέγετε ανάμεσα σε: Invitation, New Order, test invitation). Μπορείτε να ενεργοποιήσετε την επιλογή <Επισύναψη pdf στην παραγγελία>.                                   &#x20;
 
 <figure><img src="../.gitbook/assets/ScreenHunter 237.png" alt=""><figcaption><p>Εικόνα 2στ: Ρυθμίσεις Email</p></figcaption></figure>
 
 
+
+* **<Ρυθμίσεις Φίλτρων>**, ενεργοποιείτε φίλτρα και ορίζετε τη θέση τοποθέτησης των χαρακτηριστικών.&#x20;
 
 <figure><img src="../.gitbook/assets/ScreenHunter 234.png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
