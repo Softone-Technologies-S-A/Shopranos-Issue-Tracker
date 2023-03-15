@@ -5,21 +5,21 @@
 Από τη _λίστα_ ρυθμίσεων στα αριστερά, επιλέγοντας:
 
 * **<Πελάτης>**, έχετε τη δυνατότητα να ενεργοποιήσετε δεξιά την <Αυτόματη πρόσκληση πελατών κατά τη δημιουργία τους>. Για να προσκαλέσετε μη εγγεγραμμένους χρήστες, πατήστε το κουμπί <mark style="color:green;"><Προσκαλέστε χρήστες></mark>.&#x20;
-* **\<Email>**, μπορείτε να προχωρήσετε σε παραμετροποίηση: επιλέξτε _Πάροχο_,&#x20;
+* **\<Email>**, μπορείτε να προχωρήσετε σε παραμετροποίηση: επιλέξτε _Πάροχο_, εισαγάγετε _Email Προφίλ_ (Εικόνες 1-3) __ -υπάρχει η δυνατότητα επεξεργασίας και διαγραφής-.&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 228.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 228.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 231.png" alt=""><figcaption><p>Παραμετροποίηση Email (Email Προφίλ)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 231.png" alt=""><figcaption><p>Εικόνα 2α: Παραμετροποίηση Email (Email Προφίλ)</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 232.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 232.png" alt=""><figcaption><p>Εικόνα 2β</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 233.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 233.png" alt=""><figcaption><p>Εικόνα 2γ</p></figcaption></figure>
 
 </div>
 
