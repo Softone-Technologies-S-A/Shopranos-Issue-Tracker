@@ -48,7 +48,7 @@ _-_ορίστε _Ρυθμίσεις Email_ (για κάθε μία επιλέγ�
 
 <figure><img src="../.gitbook/assets/ScreenHunter 117 (1).png" alt=""><figcaption><p>Εικόνα 4</p></figcaption></figure>
 
-* Αν θέλετε να προχωρήσετε σε οριστική διαγραφή δεδομένων, πατήστε τη ρύθμιση **<Διαγραφή Δεδομένων>** και το κουμπί <mark style="color:red;"><Διαγραφή></mark> δίπλα από κάθε επιλογή.
+* **<Διαγραφή Δεδομένων>** και το κουμπί <mark style="color:red;"><Διαγραφή></mark> δίπλα από κάθε επιλογή, αν θέλετε να προχωρήσετε σε οριστική διαγραφή δεδομένων.
 
 <figure><img src="../.gitbook/assets/ScreenHunter 120.png" alt=""><figcaption><p>Εικόνα 5</p></figcaption></figure>
 
