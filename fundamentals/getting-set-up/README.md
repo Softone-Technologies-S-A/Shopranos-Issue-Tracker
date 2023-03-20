@@ -209,7 +209,7 @@
 <figure><img src="../../.gitbook/assets/ScreenHunter 241.png" alt=""><figcaption><p>Παράδειγμα χρήσης AI (SEO Title)</p></figcaption></figure>
 
 {% hint style="info" %}
-Για αυτόματη βελτιστοποίηση περιεχομένου, επιλέξτε επιθυμητή γλώσσα και αριστερά το αντίστοιχο εικονίδιο:
+Για αυτόματη μετάφραση περιεχομένου, επιλέγετε επιθυμητή γλώσσα και αριστερά το αντίστοιχο εικονίδιο:
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 247.png" alt=""><figcaption></figcaption></figure>
