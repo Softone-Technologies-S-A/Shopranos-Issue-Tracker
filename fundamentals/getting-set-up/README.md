@@ -169,11 +169,9 @@
 
 Στην καρτέλα **<Διαστάσεις>** μπορείτε να συμπληρώσετε τις διαστάσεις του προϊόντος.
 
-Πατώντας <+Ελεύθερη διάσταση
+Πατώντας <mark style="color:blue;"><+Ελεύθερη διάσταση></mark>,&#x20;
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 242.png" alt=""><figcaption><p>Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 245.png" alt=""><figcaption></figcaption></figure>
 
 Στην καρτέλα **<Χαρακτηριστικά>**, μπορείτε να επιλέξετε ένα πρότυπο χαρακτηριστικών αναφορικά με το προϊόν.
 
@@ -209,6 +207,12 @@
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 241.png" alt=""><figcaption><p>Παράδειγμα χρήσης AI (SEO Title)</p></figcaption></figure>
+
+{% hint style="info" %}
+Για αυτόματη βελτιστοποίηση περιεχομένου, επιλέξτε επιθυμητή γλώσσα και αριστερά το αντίστοιχο εικονίδιο:
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 247.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Σε κάθε περίπτωση, μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να τις διαγράψετε, πατώντας <mark style="color:red;"><Διαγραφή></mark> αριστερά.
