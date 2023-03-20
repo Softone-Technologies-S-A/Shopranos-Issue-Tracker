@@ -200,15 +200,18 @@
 Στην καρτέλα **\<SEO>**, συμπληρώνετε:
 
 * **Url alias**, δηλαδή την κατάληξη του συνδέσμου που παραπέμπει στη σελίδα του προϊόντος
-* **SEO Title**
+* **SEO Title**, στη γλώσσα που θέλετε (επιλέγετε από το εικονίδιο της υδρογείου δεξιά). Μπορείτε να&#x20;
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 241.png" alt=""><figcaption></figcaption></figure>
+
 * **Περιγραφή SEO**
 * **Meta Title**
 * **Περιγραφή Meta**
 * **Meta keywords**
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 20.png" alt=""><figcaption><p>Καρτέλα &#x3C;SEO></p></figcaption></figure>
-
 Για να επεξεργαστείτε τα παραπάνω δεδομένα σε ήδη υπάρχον προϊόν, πατήστε πάνω στο όνομά του ή στην επιλογή <Εμφάνιση> (Ενέργειες > Εμφάνιση) που αντιστοιχεί σε αυτό.
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 240.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Σε κάθε περίπτωση, μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να τις διαγράψετε, πατώντας <mark style="color:red;"><Διαγραφή></mark> αριστερά.
