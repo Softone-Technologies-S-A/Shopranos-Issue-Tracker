@@ -173,6 +173,10 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 242.png" alt=""><figcaption><p>Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/ScreenHunter 246.png" alt=""><figcaption><p>Ελεύθερη διάσταση</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 248.png" alt=""><figcaption><p>Χαρακτηριστικά</p></figcaption></figure>
+
 Στην καρτέλα **<Χαρακτηριστικά>**, μπορείτε να επιλέξετε ένα πρότυπο χαρακτηριστικών αναφορικά με το προϊόν.
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 18.png" alt=""><figcaption><p>Καρτέλα &#x3C;Χαρακτηριστικά></p></figcaption></figure>
