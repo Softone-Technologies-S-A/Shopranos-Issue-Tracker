@@ -6,11 +6,11 @@
 
 1. Στην καρτέλα **\<Skin>** , μπορείτε να επιλέξετε **Παλέτες Χρωμάτων**. Συγκεκριμένα, έχετε τη δυνατότητα, κλικάροντας πάνω στο αντίστοιχο κουτάκι, να ορίσετε:&#x20;
 
-* <mark style="color:orange;">**Χρώμα θέματος**</mark> (δηλαδή το χρώμα που θα έχουν οι σύνδεσμοι, οι επικεφαλίδες, τα ενεργά μενού, καθώς και τα κουμπιά)
-* <mark style="color:orange;">**Χρώμα κειμένου θέματος**</mark>** ** (δηλαδή εκείνο που θα έχουν οι υποκεφαλίδες, τα δευτερεύοντα μενού και τα κείμενα των κουμπιών)
-* <mark style="color:orange;">**Danger**</mark> (δηλαδή το χρώμα του Danger Skin)
-* <mark style="color:orange;">**Προσοχή**</mark> (δηλαδή το χρώμα του Warning Skin)
-* <mark style="color:orange;">**Success**</mark> (δηλαδή το χρώμα του Success Skin).
+* <mark style="color:orange;">**Χρώμα θέματος**</mark> (το χρώμα που θα έχουν οι σύνδεσμοι, οι επικεφαλίδες, τα ενεργά μενού και τα κουμπιά)
+* <mark style="color:orange;">**Χρώμα κειμένου θέματος**</mark>** ** (το χρώμα που θα έχουν οι υποκεφαλίδες, τα δευτερεύοντα μενού και τα κείμενα των κουμπιών)
+* <mark style="color:orange;">**Danger**</mark> (το χρώμα του Danger Skin)
+* <mark style="color:orange;">**Προσοχή**</mark> (το χρώμα του Warning Skin)
+* <mark style="color:orange;">**Success**</mark> (το χρώμα του Success Skin).
 
 <figure><img src="../.gitbook/assets/ScreenHunter 98 (1).png" alt=""><figcaption></figcaption></figure>
 
