@@ -21,23 +21,23 @@
 
 Κάτω δεξιά, έχετε τη δυνατότητα να επιλέξετε ανά πάσα στιγμή: <mark style="color:blue;"><Καθαρισμός Φίλτρων></mark> και να συμπληρώσετε εκ νέου τα πεδία.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 197.png" alt=""><figcaption><p>Σύνθετη Αναζήτηση</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 197.png" alt=""><figcaption><p>Εικόνα 1: Σύνθετη Αναζήτηση</p></figcaption></figure>
 
 Στα _αποτελέσματα αναζήτησης_ θα δείτε το Όνομα κάθε προϊόντος, τον αριθμό SKU, την Κατάσταση, την Ημερομηνία Εισαγωγής και τις Ενέργειες (Εμφάνιση ή Διαγραφή).&#x20;
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 96.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 96.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 
 
 Για να διαγράψετε προϊόντα, πατήστε πάνω στο κουτάκι που βρίσκεται αριστερά από κάθε αντικείμενο ή το πρώτο κουτάκι που βρίσκεται αριστερά από το την μπάρα κατηγοριών για επιλογή όλων των προϊόντων και έπειτα το κόκκινο κουμπί <mark style="color:red;"><Διαγραφή Επιλεγμένων></mark>.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 199.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 199.png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
 
 
 * [x] Ακόμη, για να εφαρμόσετε **μαζικές μεταβολές** σε προϊόντα, πατήστε πάνω στο κουτάκι που βρίσκεται αριστερά από κάθε αντικείμενο ή το πρώτο κουτάκι που βρίσκεται αριστερά από την μπάρα κατηγοριών για επιλογή όλων των αντικειμένων και ύστερα το κουμπί **<Επεξεργασία των επιλεγμένων>.**
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 200.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 200.png" alt=""><figcaption><p>Εικόνα 4</p></figcaption></figure>
 
 Στη συνέχεια, θα μεταφερθείτε στη _φόρμα μαζικής ενημέρωσης_, όπου:
 
@@ -57,15 +57,15 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 101.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 101.png" alt=""><figcaption><p>Εικόνα 5</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 102 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 102 (1).png" alt=""><figcaption><p>Εικόνα 6</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 103 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 103 (1).png" alt=""><figcaption><p>Εικόνα 7</p></figcaption></figure>
 
 </div>
 
@@ -73,7 +73,7 @@
 
 * [x] Για να εξαγάγετε σε αρχείο pdf τον κατάλογο προϊόντων σας, πατήστε πάνω δεξιά **\<Export>**. Επιλέγετε \<Excel> και στη συνέχεια \<Export> για να ολοκληρώσετε την ενέργειά σας. &#x20;
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 198.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 198.png" alt=""><figcaption><p>Εικόνα 8</p></figcaption></figure>
 
 
 
@@ -117,15 +117,15 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 202.png" alt=""><figcaption><p>Καρτέλα &#x3C;Γενικά></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 202.png" alt=""><figcaption><p>Εικόνα 9: Καρτέλα &#x3C;Γενικά></p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 205.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 205.png" alt=""><figcaption><p>Εικόνα 10</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 206.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 206.png" alt=""><figcaption><p>Εικόνα 11</p></figcaption></figure>
 
 </div>
 
@@ -139,15 +139,15 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 211.png" alt=""><figcaption><p>Καρτέλα &#x3C;Media Gallery></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 211.png" alt=""><figcaption><p>Εικόνα 12: Καρτέλα &#x3C;Media Gallery></p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 212.png" alt=""><figcaption><p>&#x3C;Επιλέξτε Αρχεία></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 212.png" alt=""><figcaption><p>Εικόνα 13: &#x3C;Επιλέξτε Αρχεία></p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 213.png" alt=""><figcaption><p>&#x3C;Προσθέστε σύνδεσμο></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 213.png" alt=""><figcaption><p>Εικόνα 14:&#x3C;Προσθέστε σύνδεσμο></p></figcaption></figure>
 
 </div>
 
@@ -157,35 +157,35 @@
 * **Πρόσθετο περιεχόμενο**, πατώντας <mark style="color:blue;"><+Προσθήκη γραμμής></mark> (2). Στο νέο παράθυρο, εισαγάγετε Τίτλο και Περιγραφή (επιλέγοντας την επιθυμητή γλώσσα).
 * **Συσχετιζόμενα προϊόντα**. Στο νέο παράθυρο, διαλέγετε προϊόντα του καταστήματος που σχετίζονται με το προστεθέν προϊόν (3).&#x20;
 
-<figure><img src="../../.gitbook/assets/ScreenHunter.png" alt=""><figcaption><p>Καρτέλα &#x3C;Περιεχόμενο> - Παράδειγμα (1)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter.png" alt=""><figcaption><p>Εικόνα 15: Καρτέλα &#x3C;Περιεχόμενο> - Παράδειγμα (1)</p></figcaption></figure>
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 217 (1).png" alt=""><figcaption><p>(2)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 217 (1).png" alt=""><figcaption><p>Εικόνα 16: (2)</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 218.png" alt=""><figcaption><p>(3)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 218.png" alt=""><figcaption><p>Εικόνα 17: (3)</p></figcaption></figure>
 
 </div>
 
 4. Στην καρτέλα **<Διαστάσεις>** πατώντας <mark style="color:blue;"><+Ελεύθερη διάσταση></mark> και/ή , επιλέγετε προϊόν (περιγραφή), προσθέτετε τιμές και πατάτε \<enter> στο πληκτρολόγιό σας. Ακριβώς από κάτω, θα εμφανιστούν αποτελέσματα (Συνδυασμοί Στοιχείων Παραλλαγής) με την Τιμή, την Ποσότητα και τις Ενέργειες (/<Αφαίρεση>) που αντιστοιχούν.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 242.png" alt=""><figcaption><p>Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 242.png" alt=""><figcaption><p>Εικόνα 18: Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 246.png" alt=""><figcaption><p>Ελεύθερη διάσταση</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 246.png" alt=""><figcaption><p>Εικόνα 19: Ελεύθερη διάσταση</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 248.png" alt=""><figcaption><p>Χαρακτηριστικά</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 248.png" alt=""><figcaption><p>Εικόνα 20: Χαρακτηριστικά</p></figcaption></figure>
 
 5. Στην καρτέλα **<Χαρακτηριστικά>**, μπορείτε να επιλέξετε ένα πρότυπο χαρακτηριστικών αναφορικά με το προϊόν.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 18.png" alt=""><figcaption><p>Καρτέλα &#x3C;Χαρακτηριστικά></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 18.png" alt=""><figcaption><p>Εικόνα 21: Καρτέλα &#x3C;Χαρακτηριστικά></p></figcaption></figure>
 
 
 
 6. Στην καρτέλα **<Απόθεμα>**, συμπληρώνετε τον αριθμό της Ποσότητας υπολοίπου και το Ελάχιστο όριο αποθέματος. Μπορείτε να επιλέξετε να πουλήσετε προϊόντα εκτός αποθέματος ή να διακόψετε τη λήψη παραγγελίας (<Πουλήστε προϊόντα εκτός αποθέματος> και <Διακοπή λήψης παραγγελίας>, αντίστοιχα).
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 19.png" alt=""><figcaption><p>Καρτέλα &#x3C;Απόθεμα></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 19.png" alt=""><figcaption><p>Εικόνα 22: Καρτέλα &#x3C;Απόθεμα></p></figcaption></figure>
 
 
 
@@ -200,7 +200,7 @@
 
 Για να επεξεργαστείτε τα παραπάνω δεδομένα σε ήδη υπάρχον προϊόν, πατήστε πάνω στο όνομά του ή στην επιλογή <Εμφάνιση> (Ενέργειες > Εμφάνιση) που αντιστοιχεί σε αυτό.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 240.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 240.png" alt=""><figcaption><p>Εικόνα 23: Καρτέλα &#x3C;SEO></p></figcaption></figure>
 
 {% hint style="info" %}
 Έχετε τη δυνατότητα να ορίσετε **τίτλο SEO, Περιγραφή SEO, Meta title, Περιγραφή Meta και Meta keywords** για κάθε προϊόν με τη βοήθεια του _Al Assistant_ (Τεχνητή Νοημοσύνη).&#x20;
@@ -210,7 +210,7 @@
 * [x] Επιλεγετε το κουμπί <Παραγωγή όλων> πάνω δεξιά, στην περίπτωση που επιθυμείτε να κάνετε χρήση του εργαλείου AI, μαζικά.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 241.png" alt=""><figcaption><p>Παράδειγμα χρήσης AI (SEO Title)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 241.png" alt=""><figcaption><p>Εικόνα 24: Παράδειγμα χρήσης AI (SEO Title)</p></figcaption></figure>
 
 {% hint style="info" %}
 Σε κάθε περίπτωση, για αυτόματη μετάφραση περιεχομένου, επιλέγετε επιθυμητή γλώσσα και αριστερά το αντίστοιχο εικονίδιο:
