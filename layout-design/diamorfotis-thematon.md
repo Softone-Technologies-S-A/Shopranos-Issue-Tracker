@@ -12,10 +12,10 @@
 * <mark style="color:orange;">**Προσοχή**</mark> (το χρώμα του Warning Skin)
 * <mark style="color:orange;">**Success**</mark> (το χρώμα του Success Skin).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 98 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 98 (1).png" alt=""><figcaption><p>Εικόνα 1: &#x3C;Skin></p></figcaption></figure>
 
-* Ακόμη, για το **Topbar**, κλικάρετε: Skin > Topbar και επιλέγετε δεξιά το Χρώμα κειμένου, αλλά και το Χρώμα φόντου του.
-* Για την **επικεφαλίδα**, κάνετε κλικ: Skin > Επικεφαλίδα και διαλέγετε δεξιά το Χρώμα κειμένου και το Χρώμα φόντου της.
+* Ακόμη, για το **Topbar**, κλικάρετε: Skin > Topbar και επιλέγετε δεξιά το Χρώμα κειμένου, καθώς και το Χρώμα φόντου του.
+* Για την **επικεφαλίδα**, κάνετε κλικ: Skin > Επικεφαλίδα, διαλέγοντας δεξιά το Χρώμα κειμένου και το Χρώμα φόντου της.
 * Όσον αφορά το **Breadcrumb** που βοηθά στην πλοήγηση, επιλέγετε: Skin > Breadcrumb και έπειτα το Χρώμα κειμένου και το Χρώμα φόντου του.
 * Για το **Body**, κάνετε κλικ Skin > Body και επιλέγετε: Πρωτεύον και Δευτερεύον χρώμα κειμένου του Body, Πρωτεύον και Δευτερεύον χρώμα φόντου του Body, καθώς και Χρώμα border.
 *   Για το **Μενού Υποσέλιδου**, πατήστε Skin > Μενού Υποσέλιδου και διαλέξτε Χρώμα κειμένου και Χρώμα Φόντου του υποσέλιδου.
@@ -24,23 +24,23 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 104 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 104 (1).png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 105 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 105 (1).png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 106.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 106.png" alt=""><figcaption><p>Εικόνα 4</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 107 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 107 (1) (1).png" alt=""><figcaption><p>Εικόνα 5</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 108 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 108 (1).png" alt=""><figcaption><p>Εικόνα 6</p></figcaption></figure>
 
 </div>
 
@@ -58,7 +58,7 @@
 * το **κλειδί API reCAPTCHA**
 * ενεργοποίηση της **web εφαρμογής** για κινητά.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 250.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 250.png" alt=""><figcaption><p>Εικόνα 7: &#x3C;Ρυθμίσεις></p></figcaption></figure>
 
 {% hint style="info" %}
 Πατήστε <Επαναφορά> για να εισαγάγετε εκ νέου δεδομένα, ή <mark style="color:blue;"><Αποθήκευση></mark> για να αποθηκεύσετε τις αλλαγές σας.
@@ -70,7 +70,7 @@
 
 Αν θέλετε να προσθέσετε Στοιχεία, μπορείτε να επιλέξετε: TopBar, Γραμμή πλοήγησης, Μενού Υποσέλιδου, καθώς και Δομικά Στοιχεία (π.χ. Φόρμα Επικοινωνίας και Products Carousel).&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 101 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 101 (1).png" alt=""><figcaption><p>Εικόνα 8: &#x3C;Επικεφαλίδα></p></figcaption></figure>
 
 {% hint style="info" %}
 Πατήστε <Επαναφορά> για να εισαγάγετε εκ νέου δεδομένα ή <mark style="color:blue;"><Αποθήκευση σειράς></mark> για να αποθηκεύσετε τα Στοιχεία στη σειρά που ορίσατε.
@@ -80,7 +80,7 @@
 
 Υποχρεωτικά, στην Εμφάνιση κλικάρετε _Προκαθορισμένο_, ενώ συμπληρώνετε Όνομα δομικού στοιχείου και το Κείμενο που θα εμφανίζεται (επιλέγετε τη γλώσσα που επιθυμείτε δεξιά από το εικονίδιο της υδρογείου).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 109.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 109.png" alt=""><figcaption><p>Εικόνα 9: TopBar</p></figcaption></figure>
 
 {% hint style="info" %}
 Πατήστε <mark style="color:red;"><Διαγραφή></mark> για να διαγράψετε το Στοιχείο, <Επαναφορά> για να εισαγάγετε εκ νέου δεδομένα και <mark style="color:blue;"><Αποθήκευση></mark> για να αποθηκεύσετε τις αλλαγές σας.
@@ -92,7 +92,7 @@
 
 Αν θέλετε να προσθέσετε Στοιχεία, μπορείτε να επιλέξετε: TopBar, Γραμμή πλοήγησης, Μενού Υποσέλιδου, καθώς και Δομικά Στοιχεία (π.χ. Φόρμα Επικοινωνίας και Products Carousel).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 102.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 102.png" alt=""><figcaption><p>Εικόνα 10: &#x3C;Υποσέλιδο></p></figcaption></figure>
 
 {% hint style="info" %}
 Πατήστε <Επαναφορά> για να εισαγάγετε εκ νέου δεδομένα ή <mark style="color:blue;"><Αποθήκευση σειράς></mark> για να αποθηκεύσετε τα Στοιχεία στη σειρά που ορίσατε.
@@ -100,7 +100,7 @@
 
 5. Στην καρτέλα **<Ιστορικό>**, αριστερά μπορείτε να δείτε το ιστορικό των αλλαγών σας, αλλά και να επαναφέρετε τα στοιχεία που επιθυμείτε στην αρχική τους θέση, επιλέγοντας <Επαναφορά>. Επίσης, μπορείτε να δείτε μια προεπισκόπηση των αλλαγών σας σε κινητό, τάμπλετ και επιτραπέζιο υπολογιστή, στη δεξιά πλευρά της οθόνης.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 103.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 103.png" alt=""><figcaption><p>Εικόνα 11: &#x3C;Ιστορικό></p></figcaption></figure>
 
 {% hint style="info" %}
 Για τη δημοσίευση όλων των αλλαγών που πραγματοποιήσατε, πατήστε πάνω δεξιά στην οθόνη σας το κουμπί <mark style="color:blue;"><Δημοσίευση></mark>.
