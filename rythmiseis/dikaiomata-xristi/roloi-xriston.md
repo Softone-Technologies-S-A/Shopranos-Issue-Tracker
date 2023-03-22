@@ -12,7 +12,7 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 81.png" alt=""><figcaption></figcaption></figure>
 
-Ωστόσο, αν θέλετε να προσθέσετε νέο ρόλο, κλικάρετε **<Προσθήκη νέου ρόλου>**. Ορίστε Όνομα ρόλου υποχρεωτικά, καθώς και Δικαιώματα ρόλου.
+Ωστόσο, αν θέλετε να προσθέσετε νέο ρόλο, κλικάρετε **<Προσθήκη νέου ρόλου>**. Ορίστε Όνομα (υποχρεωτικά), καθώς και Δικαιώματα ρόλου.
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 82 (1).png" alt=""><figcaption></figcaption></figure>
 
