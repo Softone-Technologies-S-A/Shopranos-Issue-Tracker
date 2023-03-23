@@ -6,42 +6,39 @@
 
 Στην μπάρα αναζήτησης μπορείτε να αναζητήσετε τους πελάτες, επιλέγοντας ανάμεσα σε: Ενεργό, Ανενεργός, Διακοπή Λήψης Παραγγελίας.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 23.png" alt=""><figcaption></figcaption></figure>
-
 Στα _αποτελέσματα αναζήτησης_ θα εμφανιστούν: το _Όνομα_ του κάθε πελάτη, η _Κατάσταση_, το _ΑΦΜ_, το _Τηλέφωνο_, η _Τελευταία Τροποποίηση_, ενώ μπορείτε να επιλέξετε την _Εμφάνιση Ενεργειών_ ή τη _Διαγραφή_ του πελάτη (Ενέργειες > Εμφάνιση ή Ενέργειες > Διαγραφή, αντίστοιχα).&#x20;
 
 Έχετε τη δυνατότητα να διαγράψετε από τη λίστα πελάτες, πατώντας μέσα στο κουτάκι αριστερά από το κάθε αντικείμενο ή το πρώτο κουτάκι που βρίσκεται αριστερά από το την μπάρα κατηγοριών για επιλογή όλων των προϊόντων και έπειτα το κόκκινο κουμπί <mark style="color:red;"><Διαγραφή Επιλεγμένων></mark>.&#x20;
 
 Προσκαλέστε πελάτες, κλικάροντας το πράσινο κουμπί (<mark style="color:green;"><Προσκαλέστε Πελάτες></mark>) που βρίσκεται πάνω δεξιά στην οθόνη σας.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 269.png" alt=""><figcaption></figcaption></figure>
-
 Επιλέγοντας **Ενέργειες > Εμφάνιση** πελάτη ή κλικάροντας επάνω στο όνομά του, μπορείτε να δείτε επιπλέον την Κατάσταση και το Υπόλοιπο. Για να προσθέσετε πελάτη, επιλέξτε το κουμπί <mark style="color:blue;"><Νέο></mark> πάνω δεξιά. Θα μεταφερθείτε στις _καρτέλες_ με όλα τα δεδομένα που σχετίζονται με τον πελάτη.&#x20;
+
+<figure><img src="../.gitbook/assets/ScreenHunter 269.png" alt=""><figcaption></figcaption></figure>
 
 1. Στην **Καρτέλα \<Dashboard>:** εμφανίζονται τα στατιστικά που αντιστοιχούν στον πελάτη.
 
 <figure><img src="../.gitbook/assets/ScreenHunter 268.png" alt=""><figcaption><p>Καρτέλα &#x3C;Dashboard></p></figcaption></figure>
 
 2. Στην **Καρτέλα <Στοιχεία>:** εμφανίζονται όλα τα στοιχεία του πελάτη που μπορούν να εισαχθούν ή να τροποποιηθούν: Γενικά, Διεύθυνση έδρας, Υποκαταστήματα και Χρήστες πελάτη.
-3.
 
-    <div>
+<div>
 
-    <figure><img src="../.gitbook/assets/ScreenHunter 270.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 270.png" alt=""><figcaption></figcaption></figure>
 
-     
+ 
 
-    <figure><img src="../.gitbook/assets/ScreenHunter 271.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 271.png" alt=""><figcaption></figcaption></figure>
 
-     
+ 
 
-    <figure><img src="../.gitbook/assets/ScreenHunter 272.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 272.png" alt=""><figcaption></figcaption></figure>
 
-     
+ 
 
-    <figure><img src="../.gitbook/assets/ScreenHunter 276.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 276.png" alt=""><figcaption></figcaption></figure>
 
-    </div>
+</div>
 
 \*Ειδικότερα, για να προσθέσετε _Υποκατάστημα_, πατήστε <mark style="color:blue;"><+ Νέο></mark> και συμπληρώστε τα εξής πεδία: _Όνομα, Επαφή, Τηλέφωνο Επαφής και Τηλέφωνο Υποκαταστήματος, Διεύθυνση 1, Διεύθυνση 2, Πόλη, Περιφερειακή Ενότητα, Χώρα και Ταχυδρομικός Κώδικας._
 
