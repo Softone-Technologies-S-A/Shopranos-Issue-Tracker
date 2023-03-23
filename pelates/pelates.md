@@ -22,9 +22,17 @@
 
 1. Στην **Καρτέλα \<Dashboard>:** εμφανίζονται τα στατιστικά που αντιστοιχούν στον πελάτη.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 268.png" alt=""><figcaption><p>Καρτέλα &#x3C;Dashboard></p></figcaption></figure>
+<div>
 
-2. Στην **Καρτέλα <Στοιχεία>:** εμφανίζονται όλα τα στοιχεία του πελάτη που μπορούν να εισαχθούν ή να τροποποιηθούν: Γενικά, Διεύθυνση έδρας, Υποκαταστήματα και Χρήστες πελάτη.
+<figure><img src="../.gitbook/assets/ScreenHunter 292.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/ScreenHunter 293.png" alt=""><figcaption><p>Παράδειγμα &#x3C;Dashboard> πελάτη</p></figcaption></figure>
+
+</div>
+
+1. Στην **Καρτέλα <Στοιχεία>:** εμφανίζονται όλα τα στοιχεία του πελάτη που μπορούν να εισαχθούν ή να τροποποιηθούν: Γενικά, Διεύθυνση έδρας, Υποκαταστήματα και Χρήστες πελάτη.
 
 <div>
 
@@ -80,7 +88,7 @@
 
 5. Στην **Καρτέλα <Καρτέλα>:** εμφανίζονται οι Συναλλαγές ανά ημερομηνία (κωδικός συναλλαγής, σημειώσεις, χρέωση, πίστωση, προοδευτικό υπόλοιπο).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 283.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 289.png" alt=""><figcaption></figcaption></figure>
 
 6. Στην **Καρτέλα** **<Μηνιαία Κίνηση>:** επιλέγοντας το οικονομικό έτος, μπορείτε να δείτε σε μορφή πίνακα τη χρέωση, την πίστωση και τον τζίρο ανά μήνα (περίοδο).
 
