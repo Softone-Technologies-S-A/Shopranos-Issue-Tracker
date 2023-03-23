@@ -62,6 +62,10 @@
 Για να αποσυνδεθείτε από τον λογαριασμό σας, πατήστε **<Αποσύνδεση>**.
 {% endhint %}
 
+<figure><img src=".gitbook/assets/ScreenHunter 261.png" alt=""><figcaption></figcaption></figure>
+
+
+
 {% hint style="info" %}
 Πάνω αριστερά, στην μπάρα αναζήτησης, μπορείτε να πληκτρολογήσετε την αναζήτησή σας (λέξεις-κλειδιά).&#x20;
 {% endhint %}
