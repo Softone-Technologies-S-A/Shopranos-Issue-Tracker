@@ -23,8 +23,41 @@
 <figure><img src="../.gitbook/assets/ScreenHunter 268.png" alt=""><figcaption><p>Καρτέλα &#x3C;Dashboard></p></figcaption></figure>
 
 2. Στην **Καρτέλα <Στοιχεία>:** εμφανίζονται όλα τα στοιχεία του πελάτη που μπορούν να εισαχθούν ή να τροποποιηθούν: Γενικά, Διεύθυνση έδρας, Υποκαταστήματα και Χρήστες πελάτη.
+3.
+
+    <div>
+
+    <figure><img src="../.gitbook/assets/ScreenHunter 270.png" alt=""><figcaption></figcaption></figure>
+
+     
+
+    <figure><img src="../.gitbook/assets/ScreenHunter 271.png" alt=""><figcaption></figcaption></figure>
+
+     
+
+    <figure><img src="../.gitbook/assets/ScreenHunter 272.png" alt=""><figcaption></figcaption></figure>
+
+     
+
+    <figure><img src="../.gitbook/assets/ScreenHunter 276.png" alt=""><figcaption></figcaption></figure>
+
+    </div>
 
 \*Ειδικότερα, για να προσθέσετε _Υποκατάστημα_, πατήστε <mark style="color:blue;"><+ Νέο></mark> και συμπληρώστε τα εξής πεδία: _Όνομα, Επαφή, Τηλέφωνο Επαφής και Τηλέφωνο Υποκαταστήματος, Διεύθυνση 1, Διεύθυνση 2, Πόλη, Περιφερειακή Ενότητα, Χώρα και Ταχυδρομικός Κώδικας._
+
+<div>
+
+<figure><img src="../.gitbook/assets/ScreenHunter 273.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/ScreenHunter 274.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/ScreenHunter 275.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 3. Στην **Καρτέλα <Διεύθυνση>:** προσθέτετε <+ Νέα διεύθυνση> και μεταφέρεστε σε ένα παράθυρο, όπου μπορείτε να συμπληρώσετε Όνομα, Διεύθυνση 1 & 2, Πόλη, Περιφερειακή Ενότητα, Χώρα και Ταχυδρομικό Κώδικα. Πατάτε <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark>.
 4. Στην **Καρτέλα <Παραγγελίες>:** θα δείτε ανά ημερομηνία εισαγωγής τις παραγγελίες του πελάτη (αριθμός παραγγελίας, κατάσταση, σύνολο).
