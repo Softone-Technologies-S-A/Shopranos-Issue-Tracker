@@ -96,8 +96,10 @@
 
 7. Στην τελευταία καρτέλα, **** εμφανίζονται τυχόν **<Πρόσθετα πεδία>** που αντιστοιχούν στον πελάτη.&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 285.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 295.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ScreenHunter 294.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να τις διαγράψετε, πατώντας <mark style="color:red;"><Διαγραφή></mark> αριστερά.
+Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να διαγράψετε τον πελάτη, πατώντας <mark style="color:red;"><Διαγραφή></mark> αριστερά.
 {% endhint %}
