@@ -16,7 +16,7 @@
 
 <figure><img src="../.gitbook/assets/ScreenHunter 61.png" alt=""><figcaption></figcaption></figure>
 
-Επιλέγοντας **Ενέργειες > Εμφάνιση** πελάτη ή κλικάροντας επάνω στο όνομά του, μπορείτε να δείτε επιπλέον την Κατάσταση και το Υπόλοιπο. Δεξιά, θα δείτε τις _καρτέλες_ (βλ. Καρτέλες 1-6) __ με όλα τα δεδομένα που σχετίζονται με τον πελάτη.&#x20;
+Επιλέγοντας **Ενέργειες > Εμφάνιση** πελάτη ή κλικάροντας επάνω στο όνομά του, μπορείτε να δείτε επιπλέον την Κατάσταση και το Υπόλοιπο. Για να προσθέσετε πελάτη, επιλέξτε το κουμπί <mark style="color:blue;"><Νέο></mark> πάνω δεξιά. Θα μεταφερθείτε στις _καρτέλες_ με όλα τα δεδομένα που σχετίζονται με τον πελάτη.&#x20;
 
 1. Στην **Καρτέλα \<Dashboard>:** εμφανίζονται τα στατιστικά που αντιστοιχούν στον πελάτη.
 2. Στην **Καρτέλα <Στοιχεία>:** εμφανίζονται όλα τα στοιχεία του πελάτη που μπορούν να εισαχθούν ή να τροποποιηθούν: Γενικά, Διεύθυνση έδρας, Υποκαταστήματα και Χρήστες πελάτη.
@@ -30,36 +30,6 @@
 7. Στην τελευταία καρτέλα, **** εμφανίζονται τυχόν **<Πρόσθετα πεδία>** που αντιστοιχούν στον πελάτη.&#x20;
 
 * Πατώντας δεξιά <Μενού> και <Δημιουργία παραγγελίας>, εισαγάγετε νέα παραγγελία για τον ήδη υπάρχοντα πελάτη.&#x20;
-
-<div>
-
-<figure><img src="../.gitbook/assets/ScreenHunter 49 (1).png" alt=""><figcaption><p>Καρτέλα 1</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/ScreenHunter 50.png" alt=""><figcaption><p>Καρτέλα 2</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/ScreenHunter 51.png" alt=""><figcaption><p>Καρτέλα 3</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/ScreenHunter 52.png" alt=""><figcaption><p>Καρτέλα 3β</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/ScreenHunter 53.png" alt=""><figcaption><p>Καρτέλα 4</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/ScreenHunter 54.png" alt=""><figcaption><p>Καρτέλα 5</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/ScreenHunter 55.png" alt=""><figcaption><p>Καρτέλα 6</p></figcaption></figure>
-
-</div>
 
 {% hint style="info" %}
 Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να τις διαγράψετε, πατώντας <mark style="color:red;"><Διαγραφή></mark> αριστερά.
