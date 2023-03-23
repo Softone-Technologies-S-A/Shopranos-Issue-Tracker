@@ -86,7 +86,7 @@
 
 <figure><img src="../.gitbook/assets/ScreenHunter 284.png" alt=""><figcaption></figcaption></figure>
 
-7. Στην περίπτωση που βρίσκεστε σε Στην τελευταία καρτέλα, **** εμφανίζονται τυχόν **<Πρόσθετα πεδία>** που αντιστοιχούν στον πελάτη.&#x20;
+7. Στην τελευταία καρτέλα, **** εμφανίζονται τυχόν **<Πρόσθετα πεδία>** που αντιστοιχούν στον πελάτη.&#x20;
 
 <figure><img src="../.gitbook/assets/ScreenHunter 285.png" alt=""><figcaption></figcaption></figure>
 
