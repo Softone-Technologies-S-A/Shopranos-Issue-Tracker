@@ -8,7 +8,7 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 36.png" alt=""><figcaption></figcaption></figure>
 
-Για να διαγράψετε ετικέτες προϊόντων από τη λίστα, επιλέγετε το κουτάκι στα αριστερά του κάθε Icotag και έπειτα πατάτε το κόκκινο κουμπί <mark style="color:red;"><Διαγραφή επιλεγμένων></mark>.
+Για να διαγράψετε ετικέτες προϊόντων από τη λίστα, επιλέγετε το κουτάκι στα αριστερά του κάθε Icotag ή το πρώτο κουτάκι της στήλης για επιλογή όλων και έπειτα πατάτε το κόκκινο κουμπί <mark style="color:red;"><Διαγραφή επιλεγμένων></mark>.
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 37.png" alt=""><figcaption></figcaption></figure>
 
