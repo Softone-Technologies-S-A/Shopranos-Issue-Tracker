@@ -4,7 +4,7 @@
 Μεταβείτε: **Ρυθμίσεις > Δικαιώματα Χρήστη > Customer API Keys.**
 {% endhint %}
 
-Εμφανίζεται η Λίστα (Αλφαβητικά Α-Ω ή Αλφαβητικά Ω-Α) με τα API Keys Πελάτη. Συγκεκριμένα: τα _Customer API Keys_, η _Ημερομηνία Λήξης_ (Expire Date) και οι _Ενέργειες_ (Εμφάνιση ή Διαγραφή).
+Εμφανίζεται η _Λίστα_ (Αλφαβητικά Α-Ω ή Αλφαβητικά Ω-Α) με τα API Keys Πελάτη. Συγκεκριμένα: τα _Customer API Keys_, η _Ημερομηνία Λήξης_ (Expire Date) και οι _Ενέργειες_ (Εμφάνιση ή Διαγραφή).
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 85.png" alt=""><figcaption></figcaption></figure>
 
