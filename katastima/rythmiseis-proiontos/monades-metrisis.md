@@ -10,7 +10,7 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 31.png" alt=""><figcaption></figcaption></figure>
 
-Εισαγάγετε υποχρεωτικά το Όνομα της Μονάδας (για αλλαγή γλώσσας, επιλέγετε το εικονίδιο της υδρογείου δεξιά), καθώς και έναν Κωδικό.
+Ορίστε υποχρεωτικά το Όνομα της Μονάδας (για αλλαγή γλώσσας, επιλέγετε το εικονίδιο της υδρογείου δεξιά), καθώς και έναν Κωδικό.
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 32.png" alt=""><figcaption></figcaption></figure>
 
