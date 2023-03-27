@@ -21,6 +21,6 @@
 <figure><img src="../../.gitbook/assets/ScreenHunter 89.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Ακυρώστε ή Αποθηκεύστε το API Key Πελάτη, πατώντας κάτω δεξιά στην οθόνη σας <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark> αντίστοιχα.
+Ακυρώστε ή Αποθηκεύστε το API Key Πελάτη, πατώντας κάτω δεξιά στην οθόνη σας <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark>, αντίστοιχα.
 {% endhint %}
 
