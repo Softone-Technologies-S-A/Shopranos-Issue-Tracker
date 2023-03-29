@@ -16,7 +16,7 @@
 
 <figure><img src="../.gitbook/assets/ScreenHunter 239 (2).png" alt=""><figcaption><p>Εικόνα 2α: &#x3C;Παραμετροποίηση Email>: Πάροχοι</p></figcaption></figure>
 
-\-Εισαγάγετε _Email Προφίλ_, πατώντας <mark style="color:blue;"><+Νέο></mark>. Προχωρήστε σε επεξεργασία, πατώντας το εικονίδιο του μολυβιού και σε διαγραφή, πατώντας το εικονίδιο του κάδου.
+\-εισαγάγετε _Email Προφίλ_, πατώντας <mark style="color:blue;"><+Νέο></mark>. Προχωρήστε σε επεξεργασία, πατώντας το εικονίδιο του μολυβιού και σε διαγραφή, πατώντας το εικονίδιο του κάδου.
 
 <figure><img src="../.gitbook/assets/ScreenHunter 238.png" alt=""><figcaption><p>Εικόνα 2β: Email Προφίλ</p></figcaption></figure>
 
@@ -34,7 +34,7 @@
 
 </div>
 
-_-_Ορίστε _Ρυθμίσεις Email_ (για κάθε μία επιλέγετε ανάμεσα σε: Invitation, New Order, test invitation). Μπορείτε να ενεργοποιήσετε την επιλογή <Επισύναψη pdf στην παραγγελία>.                                   &#x20;
+_-_ορίστε _Ρυθμίσεις Email_ (για κάθε μία επιλέγετε ανάμεσα σε: Invitation, New Order, test invitation). Μπορείτε να ενεργοποιήσετε την επιλογή <Επισύναψη pdf στην παραγγελία>.                                   &#x20;
 
 <figure><img src="../.gitbook/assets/ScreenHunter 237.png" alt=""><figcaption><p>Εικόνα 2στ: Ρυθμίσεις Email</p></figcaption></figure>
 
