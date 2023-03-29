@@ -1,7 +1,7 @@
 # Πελάτες
 
 {% hint style="success" %}
-Μεταβείτε: **Στατιστικά > Πελάτες.**
+Μεταβείτε: **Στατιστικά > Πελάτες**.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/ScreenHunter 53 (1).png" alt=""><figcaption></figcaption></figure>

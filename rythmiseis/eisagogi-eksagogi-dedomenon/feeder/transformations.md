@@ -1,7 +1,7 @@
 # Transformations
 
 {% hint style="success" %}
-Μεταβείτε: **Ρυθμίσεις > Εισαγωγή – Εξαγωγή Δεδομένων > Transformations.**
+Μεταβείτε: **Ρυθμίσεις > Εισαγωγή – Εξαγωγή Δεδομένων > Transformations**.
 {% endhint %}
 
 Πατήστε το κουμπί <mark style="color:blue;"><Νέο></mark> για να προσθέσετε transformation.&#x20;

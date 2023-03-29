@@ -1,7 +1,7 @@
 # Προϊόντα
 
 {% hint style="success" %}
-Για να δείτε την Επισκόπηση των προϊόντων, μεταβείτε: **Στατιστικά > Προϊόντα.** __&#x20;
+Για να δείτε την Επισκόπηση των προϊόντων, μεταβείτε: **Στατιστικά > Προϊόντα**. __&#x20;
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/ScreenHunter 52 (1).png" alt=""><figcaption></figcaption></figure>
