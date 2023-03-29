@@ -42,7 +42,7 @@
 
 Στο παράθυρο που θα μεταφερθείτε, εισαγάγετε υποχρεωτικά το πεδίο **<Προϊόντα>** και **<Ποσότητα>**, ενώ δίπλα θα αναγράφεται και η τιμή που αντιστοιχεί. Πατήστε <Ακύρωση> ή <mark style="color:blue;"><Προσθήκη></mark>.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 41 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 304.png" alt=""><figcaption></figcaption></figure>
 
 Στον πίνακα της παραγγελίας, θα δείτε τα Προστιθέμενα προϊόντα, την Τιμή, την Ποσότητα, την Έκπτωση, την Αξία της Έκπτωσης, τον Φ.Π.Α., την Αξία της Γραμμής και την Καθαρή Αξία της.
 
@@ -50,9 +50,17 @@
 
 Πατήστε <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark> αν θέλετε να ακυρώσετε ή να αποθηκεύσετε, αντίστοιχα, τα στοιχεία.&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 58 (1).png" alt=""><figcaption></figcaption></figure>
-
 Δεξιά από τη Διεύθυνση Χρέωσης, εμφανίζεται η **Διεύθυνση Αποστολής**, αλλά και η **Σύνοψη Παραγγελίας**, η οποία περιλαμβάνει το Συνολικό ποσό, τον Φ.Π.Α., την Αξία Έκπτωσης, την Έκπτωση και το Τελικό Σύνολο. Από κάτω, έχετε τη δυνατότητα να πληκτρολογήσετε τυχόν **Σημειώσεις**.
+
+<div>
+
+<figure><img src="../.gitbook/assets/ScreenHunter 305.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/ScreenHunter 306.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 Ακυρώστε, αποθηκεύστε τις αλλαγές σε ένα πρόχειρο ή ολοκληρώστε την παραγγελία, πατώντας <Ακύρωση>, <mark style="color:blue;"><Αποθήκευση Πρόχειρου></mark> ή <mark style="color:green;"><Ολοκλήρωση></mark>, αντίστοιχα. &#x20;
