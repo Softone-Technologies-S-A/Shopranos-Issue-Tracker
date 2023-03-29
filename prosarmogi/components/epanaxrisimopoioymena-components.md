@@ -4,6 +4,8 @@
 Μεταβείτε: **Προσαρμογή > Components > Επαναχρησιμοποιούμενα Components**.
 {% endhint %}
 
+Μπορείτε να διαγράψετε επαναχρησιμοποιούμενα στοιχεία, πατώντας δεξιά το εικονίδιο του κάδου.&#x20;
+
 
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 239 (1).png" alt=""><figcaption></figcaption></figure>
