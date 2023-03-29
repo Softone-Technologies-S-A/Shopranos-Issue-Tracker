@@ -4,7 +4,7 @@
 Μεταβείτε: **Πωλήσεις > Παραγγελίες** για να δείτε τη _Λίστα Παραγγελιών_.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/ScreenHunter 35 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 35 (1).png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
 Στην μπάρα αναζήτησης μπορείτε να αναζητήσετε τις παραγγελίες επιλέγοντας ανάμεσα στα: Σε Προσχέδιο, Placed, Ακυρώθηκε, Processing, ToBeShipped, Shipped, PartialDelivery, FailedToDeliver, Delivered, Rejected και Ολοκληρώθηκε.
 
@@ -24,7 +24,7 @@
 * **Επιπλέον πληροφορία**
 * **Σύνοψη** (Σύνολο, ΦΠΑ, Αξία Έκπτωσης, Έκπτωση (%) και Τελικό Σύνολο
 
-<figure><img src="../.gitbook/assets/ScreenHunter 104.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 104.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 {% hint style="info" %}
 Έχετε τη δυνατότητα να εκτυπώσετε τα στοιχεία παραγγελίας πατώντας κάτω δεξιά <mark style="color:blue;"><Εκτύπωση></mark> ή να ακυρώσετε την παραγγελία, κλικάροντας αριστερά <mark style="color:red;"><Ακύρωση></mark>.
@@ -32,17 +32,17 @@
 
 Ακόμη, για να ακυρώσετε μεμονωμένα ή μαζικά παραγγελίες, επιλέξτε εκείνη/ες που θέλετε από το κουτάκι αριστερά και έπειτα πατήστε το κόκκινο κουμπί <mark style="color:red;"><Ακύρωση Παραγγελίας></mark>.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 37 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 37 (1).png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
 Για να εισαγάγετε νέα παραγγελία, κλικάρετε πάνω δεξιά <mark style="color:blue;"><Δημιουργία παραγγελίας></mark>.
 
 Μπορείτε να προσθέσετε νέα γραμμή, διαλέγοντας Πελάτη (ή πληκτρολογώντας το όνομα/ΑΦΜ του) και πατώντας ύστερα **<+Προσθήκη νέας γραμμής>**.&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 39.png" alt=""><figcaption><p>Εικόνα 4</p></figcaption></figure>
 
 Στο παράθυρο που θα μεταφερθείτε, εισαγάγετε υποχρεωτικά το πεδίο **<Προϊόντα>** και **<Ποσότητα>**, ενώ δίπλα θα αναγράφεται και η τιμή που αντιστοιχεί. Πατήστε <Ακύρωση> ή <mark style="color:blue;"><Προσθήκη></mark>.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 304.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 304.png" alt=""><figcaption><p>Εικόνα 5</p></figcaption></figure>
 
 Στον πίνακα της παραγγελίας, θα δείτε τα Προστιθέμενα προϊόντα, την Τιμή, την Ποσότητα, την Έκπτωση, την Αξία της Έκπτωσης, τον Φ.Π.Α., την Αξία της Γραμμής και την Καθαρή Αξία της.
 
@@ -52,17 +52,17 @@
 
 Πατήστε <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark> αν θέλετε να ακυρώσετε ή να αποθηκεύσετε τα στοιχεία, αντίστοιχα.
 
-Δεξιά από τη Διεύθυνση Χρέωσης, εμφανίζεται η **Διεύθυνση Αποστολής**, αλλά και η **Σύνοψη Παραγγελίας**, η οποία περιλαμβάνει το Συνολικό ποσό, τον Φ.Π.Α., την Αξία Έκπτωσης, την Έκπτωση και το Τελικό Σύνολο. Από κάτω, έχετε τη δυνατότητα να πληκτρολογήσετε τυχόν **Σημειώσεις**.
-
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 305.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 305.png" alt=""><figcaption><p>Εικόνα 6α</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 306.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 306.png" alt=""><figcaption><p>Εικόνα 6β</p></figcaption></figure>
 
 </div>
+
+Δεξιά από τη Διεύθυνση Χρέωσης, εμφανίζεται η **Διεύθυνση Αποστολής**, αλλά και η **Σύνοψη Παραγγελίας**, η οποία περιλαμβάνει το Συνολικό ποσό, τον Φ.Π.Α., την Αξία Έκπτωσης, την Έκπτωση και το Τελικό Σύνολο. Από κάτω, έχετε τη δυνατότητα να πληκτρολογήσετε τυχόν **Σημειώσεις**.
 
 {% hint style="info" %}
 Ακυρώστε, αποθηκεύστε τις αλλαγές σε ένα πρόχειρο ή ολοκληρώστε την παραγγελία, πατώντας <Ακύρωση>, <mark style="color:blue;"><Αποθήκευση Πρόχειρου></mark> ή <mark style="color:green;"><Ολοκλήρωση></mark>, αντίστοιχα. &#x20;
