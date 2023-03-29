@@ -1,6 +1,8 @@
 # User API Keys
 
-Μεταβείτε: **Ρυθμίσεις > Δικαιώματα Χρήστη > User API Keys.**
+{% hint style="success" %}
+Μεταβείτε: **Ρυθμίσεις > Δικαιώματα Χρήστη > User API Keys**.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 88 (1).png" alt=""><figcaption></figcaption></figure>
 
