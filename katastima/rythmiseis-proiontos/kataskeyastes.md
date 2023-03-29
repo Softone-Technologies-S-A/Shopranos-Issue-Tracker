@@ -8,7 +8,7 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 33 (1).png" alt=""><figcaption></figcaption></figure>
 
-Για να διαγράψετε από τη λίστα κατασκευαστές, επιλέγετε το κουτάκι στα αριστερά του κάθε κατασκευαστή και έπειτα το κόκκινο κουμπί <mark style="color:red;"><Διαγραφή Επιλεγμένων></mark>. Για να προσθέσετε νέο κατασκευαστή, κλικάρετε <mark style="color:blue;"><Νέο></mark>.
+Για να διαγράψετε από τη λίστα κατασκευαστές, επιλέγετε το κουτάκι στα αριστερά του κάθε κατασκευαστή ή το πρώτο κουτάκι της στήλης για επιλογή όλων και έπειτα το κόκκινο κουμπί <mark style="color:red;"><Διαγραφή Επιλεγμένων></mark>. Για να προσθέσετε νέο κατασκευαστή, κλικάρετε <mark style="color:blue;"><Νέο></mark>.
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 34.png" alt=""><figcaption></figcaption></figure>
 
