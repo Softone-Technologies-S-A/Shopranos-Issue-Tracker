@@ -8,6 +8,10 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 311.png" alt=""><figcaption></figcaption></figure>
 
+Επιλέγοντας τον Connector \<Softone, θα μεταφερθείτε σε νέα οθόνη επεξεργασίας.&#x20;
+
+1. Στην καρτέλα **<Καταλογος>**:
+
 <div>
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 312.png" alt=""><figcaption></figcaption></figure>
@@ -18,9 +22,19 @@
 
 </div>
 
+Στην καρτέλα **<Πελάτες>**:
+
 <figure><img src="../../.gitbook/assets/ScreenHunter 314.png" alt=""><figcaption></figcaption></figure>
 
+
+
+Στην καρτέλα **<Αποθήκη>**:
+
 <figure><img src="../../.gitbook/assets/ScreenHunter 315.png" alt=""><figcaption></figcaption></figure>
+
+
+
+Στην καρτέλα **<Παραγγελίες>**:&#x20;
 
 <div>
 
@@ -32,6 +46,14 @@
 
 </div>
 
+
+
+Στην καρτέλα **<Εμπορική Πολιτική>**:
+
 <figure><img src="../../.gitbook/assets/ScreenHunter 318.png" alt=""><figcaption></figcaption></figure>
+
+
+
+Στην καρτέλα **<Συγχρονισμός>**:
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 319.png" alt=""><figcaption></figcaption></figure>
