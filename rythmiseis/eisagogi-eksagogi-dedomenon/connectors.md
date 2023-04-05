@@ -10,6 +10,12 @@
 
 Επιλέγοντας τον Connector \<Softone, θα μεταφερθείτε σε νέα οθόνη επεξεργασίας.&#x20;
 
+Αριστερά, κάτω από το λογότυπο του Connector, μπορείτε να αλλάξετε την Κατάστασή του:  Ενεργό, Σε Προσχέδιο, Αρχειοθετημένο.
+
+Δεξιά, θα δείτε τα στοιχεία σύνδεσης, τα οποία μπορείτε να αλλάξετε, πατώντας πάνω δεξιά το κουμπί <mark style="color:blue;"><Αλλαγή></mark>.&#x20;
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 321.png" alt=""><figcaption></figcaption></figure>
+
 1. Στην καρτέλα **<Καταλογος>**:
 
 <div>
@@ -57,7 +63,3 @@
 Στην καρτέλα **<Συγχρονισμός>**:
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 319.png" alt=""><figcaption></figcaption></figure>
-
-Για να τροποποιήσετε τα στοιχεία σύνδεσής σας, πατήστε το κουμπί <Αλλαγή> πάνω δεξιά στην οθόνη σας.
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 321.png" alt=""><figcaption></figcaption></figure>
