@@ -57,3 +57,7 @@
 Στην καρτέλα **<Συγχρονισμός>**:
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 319.png" alt=""><figcaption></figcaption></figure>
+
+Για να τροποποιήσετε τα στοιχεία σύνδεσής σας, πατήστε το κουμπί <Αλλαγή> πάνω δεξιά στην οθόνη σας.
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 321.png" alt=""><figcaption></figcaption></figure>
