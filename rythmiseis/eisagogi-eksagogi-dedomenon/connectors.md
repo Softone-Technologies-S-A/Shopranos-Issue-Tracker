@@ -63,3 +63,7 @@
 6. Στην καρτέλα **<Συγχρονισμός>**:
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 319.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Ακυρώστε ή Αποθηκεύστε την προσθήκη, πατώντας κάτω δεξιά στην οθόνη σας <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark>, αντίστοιχα.
+{% endhint %}
