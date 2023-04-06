@@ -8,7 +8,7 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 78.png" alt=""><figcaption></figcaption></figure>
 
-Για να διαγράψετε από τη λίστα κατηγορίες, κλικάρετε το κουτάκι στα αριστερά του κάθε ονόματος ή το πρώτο κουτάκι της στήλης για επιλογή όλων και έπειτα το κόκκινο κουμπί <mark style="color:blue;"><Διαγραφή Επιλεγμένων></mark>.
+Για να διαγράψετε από τη λίστα κατηγορίες, κλικάρετε το κουτάκι αριστερά από κάθε όνομα ή το πρώτο κουτάκι της στήλης για επιλογή όλων και έπειτα το κόκκινο κουμπί <mark style="color:blue;"><Διαγραφή Επιλεγμένων></mark>.
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 79.png" alt=""><figcaption></figcaption></figure>
 
