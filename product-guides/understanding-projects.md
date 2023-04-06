@@ -6,8 +6,8 @@
 
 Αναζητήστε πελάτη στη _λίστα_, στην οποία μπορείτε να εμφανίσετε αποτελέσματα: από Νεότερο σε παλαιότερο ή από Παλαιότερο σε νεότερο. Αριστερά, θα δείτε τα _προϊόντα_ (τεμάχια), το _Όνομα_ του _Πελάτη_, την _Κατάσταση_ (Επιλογή Προϊόντων ή Συμπλήρωση Διεύθυνσης), την _Ημερομηνία_ που έγινε η εγκατάλειψη καλαθιού (πριν από πόσο καιρό πραγματοποιήθηκε) και τις _Ενέργειες_ (Εμφάνιση ή Διαγραφή).&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 42 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 323.png" alt=""><figcaption></figcaption></figure>
 
 Για να διαγράψετε αντικείμενα, επιλέξτε το κουτάκι στα αριστερά κάθε αντικειμένου ή το πρώτο κουτάκι της στήλης για επιλογή όλων των αντικειμένων και έπειτα το κόκκινο κουμπί <mark style="color:red;"><Διαγραφή Επιλεγμένων></mark>.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 60 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 324.png" alt=""><figcaption></figcaption></figure>
