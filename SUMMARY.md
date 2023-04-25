@@ -19,6 +19,7 @@
 * [Πελάτες](pelates/README.md)
   * [Πελάτες](pelates/pelates.md)
   * [Κατηγορίες](pelates/katigories.md)
+  * [Γκάμα](pelates/gkama.md)
 * [Εμπορική πολιτική](emporiki-politiki.md)
   * [Κατάλογος](emporiki-politiki/katalogos.md)
   * [Καλάθι](emporiki-politiki/kalathi.md)
