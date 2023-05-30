@@ -28,13 +28,13 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 339.png" alt=""><figcaption></figcaption></figure>
 
-1. Στην καρτέλα **<Πελάτες>**:
+1. Στην καρτέλα **<Πελάτες>,** αναφορικά με τον τρόπο εισαγωγής πελατών, μπορείτε να επιλέξετε ανάμεσα στα: _Να μην γίνεται εισαγωγή, Να γίνεται εισαγωγή, Εισαγάγετε και ενημερώστε._
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 314.png" alt=""><figcaption></figcaption></figure>
 
 
 
-3. Στην καρτέλα **<Αποθήκη>**:
+3. Στην καρτέλα **<Αποθήκη>**, ρυθμίζετε το απόθεμα: Για τον τρόπο εισαγωγής, επιλέγετε ανάμεσα στα: _Να μην γίνεται εισαγωγή_ και _Να γίνεται εισαγωγή._
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 315.png" alt=""><figcaption></figcaption></figure>
 
