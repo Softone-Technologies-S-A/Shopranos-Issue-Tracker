@@ -22,7 +22,7 @@
 
     &#x20;
 
-<div>
+<div align="center">
 
 <figure><img src="../.gitbook/assets/ScreenHunter 104 (1).png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
