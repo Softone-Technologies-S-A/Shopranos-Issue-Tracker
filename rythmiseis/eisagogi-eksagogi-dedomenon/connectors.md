@@ -14,6 +14,8 @@
 
 Δεξιά, θα δείτε τα **Στοιχεία σύνδεσης** (Σειριακός αριθμός, Όνομα Χρήστη, Αναγνωριστικό εφαρμογής, Εταιρεία και Υποκατάστημα), τα οποία μπορείτε να τροποποιήσετε, πατώντας πάνω δεξιά το κουμπί <mark style="color:blue;"><Αλλαγή></mark>.&#x20;
 
+<figure><img src="../../.gitbook/assets/ScreenHunter 340.png" alt=""><figcaption></figcaption></figure>
+
 Σε νέο παράθυρο, ορίζετε _Σειριακό αριθμό_, _Όνομα χρήστη_, _Κωδικό_ και _Αναγνωριστικό εφαρμογής_. Πατήστε <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark>.
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 321.png" alt=""><figcaption></figcaption></figure>
