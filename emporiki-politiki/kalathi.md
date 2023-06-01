@@ -18,5 +18,5 @@
 <figure><img src="../.gitbook/assets/ScreenHunter 67 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Ακυρώστε ή Αποθηκεύστε τις αλλαγές, πατώντας <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark> αντίστοιχα.
+Ακυρώστε ή Αποθηκεύστε τις αλλαγές, πατώντας <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark>, αντίστοιχα.
 {% endhint %}
