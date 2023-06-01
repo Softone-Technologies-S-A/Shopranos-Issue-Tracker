@@ -12,6 +12,8 @@
 
 Αριστερά, κάτω από το λογότυπο του Connector, μπορείτε να αλλάξετε την Κατάστασή του σε:  Ενεργό, Σε Προσχέδιο, Αρχειοθετημένο.
 
+<figure><img src="../../.gitbook/assets/ScreenHunter 341.png" alt=""><figcaption></figcaption></figure>
+
 Δεξιά, θα δείτε τα **Στοιχεία σύνδεσης** (Σειριακός αριθμός, Όνομα Χρήστη, Αναγνωριστικό εφαρμογής, Εταιρεία και Υποκατάστημα), τα οποία μπορείτε να τροποποιήσετε, πατώντας πάνω δεξιά το κουμπί <mark style="color:blue;"><Αλλαγή></mark>.&#x20;
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 340.png" alt=""><figcaption></figcaption></figure>
