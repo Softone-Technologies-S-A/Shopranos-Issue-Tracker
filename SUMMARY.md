@@ -24,7 +24,6 @@
   * [Κατάλογος](emporiki-politiki/katalogos.md)
   * [Καλάθι](emporiki-politiki/kalathi.md)
   * [Ειδικές Συμφωνίες](emporiki-politiki/eidikes-symfonies.md)
-* [Προσωποποίηση](prosopopoiisi.md)
 * [Περιεχόμενο](periexomeno/README.md)
   * [Σελίδες](periexomeno/selides.md)
   * [Μενού](periexomeno/menoy/README.md)
