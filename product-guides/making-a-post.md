@@ -24,7 +24,7 @@
 * **Επιπλέον πληροφορία**
 * **Σύνοψη** (Σύνολο, ΦΠΑ, Αξία Έκπτωσης, Έκπτωση (%) και Τελικό Σύνολο
 
-<figure><img src="../.gitbook/assets/ScreenHunter 104.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 363.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Έχετε τη δυνατότητα να εκτυπώσετε τα στοιχεία παραγγελίας πατώντας κάτω δεξιά <mark style="color:blue;"><Εκτύπωση></mark> ή να ακυρώσετε την παραγγελία, κλικάροντας αριστερά <mark style="color:red;"><Ακύρωση></mark>.
