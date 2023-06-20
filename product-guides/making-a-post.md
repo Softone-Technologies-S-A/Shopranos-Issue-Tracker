@@ -8,7 +8,7 @@
 
 Στη _**Λίστα Παραγγελιών**_, εμφανίζονται (Παλαιότερο σε νεότερο, Νεότερο σε παλαιότερο, Αλφαβητικά Α-Ω ή Αλφαβητικά Ω-Α): ο αριθμός της παραγγελίας, ο κωδικός πελάτη, το όνομα πελάτη, η Κατάσταση, το σύνολο, η ημερομηνία εισαγωγής και οι ενέργειες (Εμφάνιση/Διαγραφή).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 364.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 364.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
 Μπορείτε να δείτε μια παραγγελία, πατώντας επάνω στον κωδικό της, είτε δεξιά στην επιλογή Ενέργειες > Εμφάνιση:
 
@@ -22,17 +22,15 @@
 * **Επιπλέον πληροφορία**
 * **Σύνοψη**: Αρχική Αξία, Έκπτωση, Αξία, ΦΠΑ, Έξοδα και Τελικό Σύνολο
 
-<figure><img src="../.gitbook/assets/ScreenHunter 363.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 363.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 {% hint style="info" %}
 Έχετε τη δυνατότητα να εκτυπώσετε τα στοιχεία παραγγελίας πατώντας κάτω δεξιά <mark style="color:blue;"><Εκτύπωση></mark> ή να ακυρώσετε την παραγγελία, κλικάροντας <mark style="color:red;"><Ακύρωση></mark>. Μπορείτε, επίσης, να κάνετε εξαγωγή δεδομένων, επιλέγοντας κάτω αριστερά <mark style="color:purple;">\<ExportToSource></mark>.
 {% endhint %}
 
+Μπορείτε να επιλέξετε το κουτάκι αριστερά από κάθε αντικείμενο ή εκείνο που βρίσκεται αριστερά από την μπάρα κατηγοριών για επιλογή όλων των αντικειμένων και στη συνέχεια <Διαγραφή επιλεγμένων> ή <Επεξεργασία Επιλεγμένων>.&#x20;
 
-
-Ακόμη, για να ακυρώσετε μεμονωμένα ή μαζικά παραγγελίες, επιλέξτε εκείνη/ες που θέλετε από το κουτάκι αριστερά και έπειτα πατήστε το κόκκινο κουμπί <mark style="color:red;"><Ακύρωση Παραγγελίας></mark> (βλ. Εικόνα 3).
-
-<figure><img src="../.gitbook/assets/ScreenHunter 37 (1).png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 366.png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
 
 
