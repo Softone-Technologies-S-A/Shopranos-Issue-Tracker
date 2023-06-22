@@ -45,22 +45,6 @@
 | **<Ετικέτες>**                | Αφορά είτε ήδη υπάρχουσα ετικέτα (που θα διαλέξετε από τη λίστα επιλογής), είτε νέα (την οποία θα πληκτρολογήσετε στην ίδια μπάρα). |
 | **<Χαρακτηριστικά>**          | Προσθέτετε επιπλέον χαρακτηριστικά.                                                                                                 |
 
-<div>
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 101.png" alt=""><figcaption><p>Εικόνα 5</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 102 (1).png" alt=""><figcaption><p>Εικόνα 6</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 103 (1).png" alt=""><figcaption><p>Εικόνα 7</p></figcaption></figure>
-
-</div>
-
-
-
 Για να εξαγάγετε σε αρχείο pdf τον κατάλογο προϊόντων σας, πατήστε πάνω δεξιά **\<Export>**.&#x20;
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 198.png" alt="" width="210"><figcaption><p>Εικόνα 8</p></figcaption></figure>
