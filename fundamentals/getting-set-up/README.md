@@ -20,9 +20,7 @@
 
 Κάτω δεξιά, έχετε τη δυνατότητα να επιλέξετε ανά πάσα στιγμή: <mark style="color:blue;"><Καθαρισμός Φίλτρων></mark> και να συμπληρώσετε εκ νέου τα πεδία.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 197.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/ScreenHunter 381.png" alt=""><figcaption></figcaption></figure>
 
 Στα _αποτελέσματα αναζήτησης_ (Εικόνα 2) θα δείτε το Όνομα κάθε προϊόντος, τον αριθμό SKU, την Κατάσταση, την Ημερομηνία Εισαγωγής και τις Ενέργειες (Εμφάνιση ή Διαγραφή).&#x20;
 
