@@ -48,7 +48,7 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 386.png" alt="" width="213"><figcaption><p>Εικόνα 5</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 387.png" alt="" width="365"><figcaption><p>Εικόνα 6</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 387 (1).png" alt="" width="365"><figcaption><p>Εικόνα 6</p></figcaption></figure>
 
 
 
@@ -99,7 +99,7 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 387 (1).png" alt=""><figcaption><p>Εικόνα 7α: Καρτέλα &#x3C;Γενικά></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 387.png" alt=""><figcaption><p>Εικόνα 7α: Καρτέλα &#x3C;Γενικά></p></figcaption></figure>
 
  
 
@@ -151,19 +151,23 @@
 
 
 
-4. Στην καρτέλα **<Διαστάσεις>** (βλ. Εικόνα 10α), πατώντας <mark style="color:blue;"><+Ελεύθερη διάσταση></mark> και/ή <mark style="color:blue;"><+Προσθήκη χαρακτηριστικού></mark>, επιλέγετε προϊόν (περιγραφή), προσθέτετε τιμές και πατάτε \<enter> στο πληκτρολόγιό σας. Ακριβώς από κάτω, θα εμφανιστούν τα αποτελέσματα (Συνδυασμοί Στοιχείων Παραλλαγής) με την Τιμή, την Ποσότητα και τις Ενέργειες (/<Αφαίρεση>) που αντιστοιχούν.
+4. Στην καρτέλα **<Διαστάσεις>** (βλ. Εικόνα 10α), πατώντας <mark style="color:blue;"><+Ελεύθερη διάσταση></mark> (βλ. Εικόνα 10β) και/ή <mark style="color:blue;"><+Προσθήκη χαρακτηριστικού></mark> (Εικόνα 10γ), επιλέγετε προϊόν, προσθέτετε τιμές και πατάτε \<enter> στο πληκτρολόγιό σας. Ακριβώς από κάτω, θα εμφανιστούν τα αποτελέσματα (Συνδυασμοί Στοιχείων Παραλλαγής) με την Τιμή, την Ποσότητα και τις Ενέργειες (/<Αφαίρεση>) που αντιστοιχούν.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 395.png" alt="" width="486"><figcaption><p>Εικόνα 10α: Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 395 (1).png" alt="" width="486"><figcaption><p>Εικόνα 10α: Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 393.png" alt="" width="481"><figcaption><p>Εικόνα 10β: Ελεύθερη διάσταση</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 393 (1).png" alt="" width="481"><figcaption><p>Εικόνα 10β: Ελεύθερη διάσταση</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 394.png" alt="" width="482"><figcaption><p>Εικόνα 10γ: Προσθήκη χαρακτηριστικού</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 394 (1).png" alt="" width="482"><figcaption><p>Εικόνα 10γ: Προσθήκη χαρακτηριστικού</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 396 (1).png" alt="" width="470"><figcaption><p>Εικόνα 10δ: Αποτελέσματα (παράδειγμα)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 396.png" alt="" width="470"><figcaption><p>Εικόνα 10δ: Αποτελέσματα (παράδειγμα)</p></figcaption></figure>
 
-5. Στην καρτέλα **<Χαρακτηριστικά>**, μπορείτε να επιλέξετε ένα πρότυπο χαρακτηριστικών αναφορικά με το προϊόν.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 18.png" alt=""><figcaption><p>Εικόνα 21: Καρτέλα &#x3C;Χαρακτηριστικά></p></figcaption></figure>
+
+5. Στην καρτέλα **<Χαρακτηριστικά>**, μπορείτε να επιλέξετε ένα πρότυπο χαρακτηριστικών αναφορικά με το προϊόν. Προσθέστε νέο attribute (χαρακτηριστικό), πατώντας <mark style="color:blue;"><+Προσθήκη νέου></mark> και επιλέγοντας σε νέο παράθυρο χαρακτηριστικό. Κλικάρετε <mark style="color:blue;"><ΟΚ></mark> για να ολοκληρώσετε την ενέργεια ή <Ακύρωση> για την ακυρώσετε.
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 397.png" alt="" width="479"><figcaption><p>Εικόνα 11α: Καρτέλα &#x3C;Χαρακτηριστικά></p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 398.png" alt="" width="292"><figcaption><p>Εικόνα 11β</p></figcaption></figure>
 
 
 
