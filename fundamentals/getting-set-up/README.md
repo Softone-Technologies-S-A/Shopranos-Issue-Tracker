@@ -48,7 +48,7 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 386.png" alt="" width="213"><figcaption><p>Εικόνα 5</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 387 (1).png" alt="" width="365"><figcaption><p>Εικόνα 6</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 387.png" alt="" width="365"><figcaption><p>Εικόνα 6</p></figcaption></figure>
 
 
 
@@ -99,7 +99,7 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 387.png" alt=""><figcaption><p>Εικόνα 7α: Καρτέλα &#x3C;Γενικά></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 387 (1).png" alt=""><figcaption><p>Εικόνα 7α: Καρτέλα &#x3C;Γενικά></p></figcaption></figure>
 
  
 
@@ -153,13 +153,13 @@
 
 4. Στην καρτέλα **<Διαστάσεις>** (βλ. Εικόνα 10α), πατώντας <mark style="color:blue;"><+Ελεύθερη διάσταση></mark> (βλ. Εικόνα 10β) και/ή <mark style="color:blue;"><+Προσθήκη χαρακτηριστικού></mark> (Εικόνα 10γ), επιλέγετε προϊόν, προσθέτετε τιμές και πατάτε \<enter> στο πληκτρολόγιό σας. Ακριβώς από κάτω, θα εμφανιστούν τα αποτελέσματα (Συνδυασμοί Στοιχείων Παραλλαγής) με την Τιμή, την Ποσότητα και τις Ενέργειες (/<Αφαίρεση>) που αντιστοιχούν.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 395 (1).png" alt="" width="486"><figcaption><p>Εικόνα 10α: Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 395.png" alt="" width="486"><figcaption><p>Εικόνα 10α: Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 393 (1).png" alt="" width="481"><figcaption><p>Εικόνα 10β: Ελεύθερη διάσταση</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 393.png" alt="" width="481"><figcaption><p>Εικόνα 10β: Ελεύθερη διάσταση</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 394 (1).png" alt="" width="482"><figcaption><p>Εικόνα 10γ: Προσθήκη χαρακτηριστικού</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 394.png" alt="" width="482"><figcaption><p>Εικόνα 10γ: Προσθήκη χαρακτηριστικού</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 396.png" alt="" width="470"><figcaption><p>Εικόνα 10δ: Αποτελέσματα (παράδειγμα)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 396 (1).png" alt="" width="470"><figcaption><p>Εικόνα 10δ: Αποτελέσματα (παράδειγμα)</p></figcaption></figure>
 
 
 
@@ -167,13 +167,13 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 397.png" alt="" width="479"><figcaption><p>Εικόνα 11α: Καρτέλα &#x3C;Χαρακτηριστικά></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 398.png" alt="" width="292"><figcaption><p>Εικόνα 11β</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 398 (1).png" alt="" width="292"><figcaption><p>Εικόνα 11β</p></figcaption></figure>
 
 
 
-6. Στην καρτέλα **<Απόθεμα>**, συμπληρώνετε τον αριθμό της Ποσότητας υπολοίπου και το Ελάχιστο όριο αποθέματος. Μπορείτε να επιλέξετε να πουλήσετε προϊόντα εκτός αποθέματος ή να διακόψετε τη λήψη παραγγελίας (<Πουλήστε προϊόντα εκτός αποθέματος> και <Διακοπή λήψης παραγγελίας>, αντίστοιχα).
+6. Στην καρτέλα **<Απόθεμα>**, συμπληρώνετε τον αριθμό της Ποσότητας υπολοίπου, το Ελάχιστο όριο αποθέματος, την Ελάχιστη ποσότητα παραγγελίας, το Βήμα ποσότητας παραγγελίας. Έχετε τη δυνατότητα να επιλέξετε τις ρυθμίσεις: <Πουλήστε προϊόντα εκτός αποθέματος> ή/και <Διακοπή λήψης παραγγελίας>.&#x20;
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 19.png" alt=""><figcaption><p>Εικόνα 22: Καρτέλα &#x3C;Απόθεμα></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 399.png" alt="" width="485"><figcaption><p>Εικόνα 12: Καρτέλα &#x3C;Απόθεμα></p></figcaption></figure>
 
 
 
@@ -188,7 +188,7 @@
 
 Για να επεξεργαστείτε τα παραπάνω δεδομένα σε ήδη υπάρχον προϊόν, πατήστε πάνω στο όνομά του ή στην επιλογή <Εμφάνιση> (Ενέργειες > Εμφάνιση) που αντιστοιχεί σε αυτό.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 240.png" alt=""><figcaption><p>Εικόνα 23: Καρτέλα &#x3C;SEO></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 400.png" alt="" width="490"><figcaption><p>Εικόνα 23: Καρτέλα &#x3C;SEO></p></figcaption></figure>
 
 {% hint style="info" %}
 Έχετε τη δυνατότητα να ορίσετε **τίτλο SEO, Περιγραφή SEO, Meta title, Περιγραφή Meta και Meta keywords** για κάθε προϊόν με τη βοήθεια του _Al Assistant_ (Τεχνητή Νοημοσύνη).&#x20;
