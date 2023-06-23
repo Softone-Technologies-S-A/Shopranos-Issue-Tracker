@@ -48,7 +48,7 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 386.png" alt="" width="213"><figcaption><p>Εικόνα 5</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 387.png" alt="" width="365"><figcaption><p>Εικόνα 6</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 387 (1).png" alt="" width="365"><figcaption><p>Εικόνα 6</p></figcaption></figure>
 
 
 
@@ -93,23 +93,23 @@
 
 
 
+Αναφορικά με τα **Sizes** (Μεγέθη), μπορούν να οριστούν: Μέγεθος 1, Μέγεθος 2 και Μέγεθος 3.
+
 Στην **Αποστολή**, συμπληρώστε την τιμή που αντιστοιχεί στα: Βάρος, Μήκος, Πλάτος και Ύψος του προϊόντος.
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 202.png" alt=""><figcaption><p>Εικόνα 9: Καρτέλα &#x3C;Γενικά></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 387.png" alt=""><figcaption><p>Εικόνα 7α: Καρτέλα &#x3C;Γενικά></p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 205.png" alt=""><figcaption><p>Εικόνα 10</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 388.png" alt=""><figcaption><p>7β</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 206.png" alt=""><figcaption><p>Εικόνα 11</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 389.png" alt=""><figcaption><p>7γ</p></figcaption></figure>
 
 </div>
-
-
 
 2. Στην καρτέλα **\<Media Gallery>** μπορείτε να ανεβάσετε αρχεία, πατώντας δεξιά <mark style="color:blue;"><Επιλέξτε Αρχεία></mark> ή εισαγάγοντας τον αντίστοιχο σύνδεσμο (<mark style="color:blue;"><Προσθέστε σύνδεσμο></mark>).&#x20;
 
