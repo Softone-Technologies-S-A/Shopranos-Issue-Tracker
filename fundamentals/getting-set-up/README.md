@@ -157,7 +157,7 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 393.png" alt="" width="481"><figcaption><p>Εικόνα 10β: Ελεύθερη διάσταση</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 394.png" alt="" width="482"><figcaption><p>Εικόνα 10γ: Προσθήκη χαρακτηριστικού</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 394 (1).png" alt="" width="482"><figcaption><p>Εικόνα 10γ: Προσθήκη χαρακτηριστικού</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 396 (1).png" alt="" width="470"><figcaption><p>Εικόνα 10δ: Αποτελέσματα (παράδειγμα)</p></figcaption></figure>
 
@@ -177,10 +177,10 @@
 
 
 
-7. Στην καρτέλα **\<SEO>**, συμπληρώνετε:
+7. Στην καρτέλα **\<SEO>**, συμπληρώνετε τα παρακάτω πεδία:
 
 * **Url alias**, δηλαδή την κατάληξη του συνδέσμου που παραπέμπει στη σελίδα του προϊόντος
-* **SEO Title**, στη γλώσσα που θέλετε (για αλλαγή γλώσσας, πατάτε το εικονίδιο της υδρογείου δεξιά).&#x20;
+* **Τίτλος SEO**, στη γλώσσα που επιθυμείτε.&#x20;
 * **Περιγραφή SEO**
 * **Meta Title**
 * **Περιγραφή Meta**
@@ -188,25 +188,20 @@
 
 Για να επεξεργαστείτε τα παραπάνω δεδομένα σε ήδη υπάρχον προϊόν, πατήστε πάνω στο όνομά του ή στην επιλογή <Εμφάνιση> (Ενέργειες > Εμφάνιση) που αντιστοιχεί σε αυτό.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 400.png" alt="" width="490"><figcaption><p>Εικόνα 23: Καρτέλα &#x3C;SEO></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 400.png" alt="" width="490"><figcaption><p>Εικόνα 13: Καρτέλα &#x3C;SEO></p></figcaption></figure>
 
 {% hint style="info" %}
-Έχετε τη δυνατότητα να ορίσετε **τίτλο SEO, Περιγραφή SEO, Meta title, Περιγραφή Meta και Meta keywords** για κάθε προϊόν με τη βοήθεια του _Al Assistant_ (Τεχνητή Νοημοσύνη).&#x20;
+Έχετε τη δυνατότητα να ορίσετε **Τίτλο SEO, Περιγραφή SEO, Meta Τitle, Περιγραφή Meta και Meta keywords** για κάθε προϊόν με τη βοήθεια του _Al Assistant_ (Τεχνητή Νοημοσύνη).&#x20;
 
-Πατήστε <Παραγωγή> αν επιθυμείτε να σας προταθεί περιεχόμενο βασισμένο στις λέξεις-κλειδιά που θα εισαγάγετε και <Βελτιστοποίηση> (θα εμφανιστεί δίπλα από την επιλογή <Παραγωγή>) για να βελτιστοποιήσετε -ήδη υπάρχον- περιεχόμενο.&#x20;
+Πατήστε <Παραγωγή> αν επιθυμείτε να σας προταθεί περιεχόμενο βασισμένο στις λέξεις-κλειδιά που θα εισαγάγετε και <Βελτιστοποίηση> για να βελτιστοποιήσετε ήδη υπάρχον περιεχόμενο.&#x20;
 
 * [x] Επιλεγετε το κουμπί <Παραγωγή όλων> πάνω δεξιά, στην περίπτωση που επιθυμείτε να κάνετε χρήση του εργαλείου AI, μαζικά.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 241.png" alt=""><figcaption><p>Εικόνα 24: Παράδειγμα χρήσης AI (SEO Title)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 241.png" alt=""><figcaption><p>Εικόνα 14: Παράδειγμα χρήσης AI Assistant (SEO Title)</p></figcaption></figure>
+
+
 
 {% hint style="info" %}
-Σε κάθε περίπτωση, για αυτόματη μετάφραση περιεχομένου, επιλέγετε επιθυμητή γλώσσα και αριστερά το αντίστοιχο εικονίδιο:
+Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα.
 {% endhint %}
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 247.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να τις διαγράψετε, πατώντας <mark style="color:red;"><Διαγραφή></mark> αριστερά.
-{% endhint %}
-
