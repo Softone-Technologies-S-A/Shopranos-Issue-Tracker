@@ -10,7 +10,7 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 02 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
