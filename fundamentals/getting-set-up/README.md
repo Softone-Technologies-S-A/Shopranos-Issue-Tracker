@@ -111,7 +111,7 @@
 
 </div>
 
-2. Στην καρτέλα **\<Media>** μπορείτε να ανεβάσετε αρχεία, πατώντας δεξιά <mark style="color:blue;"><Επιλέξτε Αρχεία></mark> ή εισαγάγοντας τον αντίστοιχο σύνδεσμο (<mark style="color:blue;"><Προσθέστε σύνδεσμο></mark>).&#x20;
+2. Στην καρτέλα **\<Media>** μπορείτε να ανεβάσετε αρχεία, πατώντας δεξιά <mark style="color:blue;"><Επιλέξτε Αρχεία></mark> (βλ. Εικόνα 8β) ή εισαγάγοντας τον αντίστοιχο σύνδεσμο - <mark style="color:blue;"><Προσθέστε σύνδεσμο> (</mark>(βλ. Εικόνα 8γ).&#x20;
 
 Στην πρώτη περίπτωση, καλείστε να αναζητήσετε από την μπάρα αναζήτησης πάνω αριστερά, αρχεία που έχετε ανεβάσει, να εισαγάγετε νέο φάκελο, πατώντας <mark style="color:blue;"><+ Νέος φάκελος></mark> ή να ανεβάσετε επιπλέον αρχεία, πατώντας <mark style="color:blue;"><Ανεβάστε αρχεία></mark>. Αν επιθυμείτε να μεταφορτώσετε μεγάλο όγκο αρχείων, μπορείτε αυτό να το κάνετε τμηματικά ή να ανεβάσετε Zip. Πατήστε <mark style="color:blue;"><Προσθήκη επιλεγμένων></mark> ή <Ακύρωση>.
 
@@ -127,35 +127,37 @@
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 213.png" alt=""><figcaption><p>Εικόνα 8γ:&#x3C;Προσθέστε σύνδεσμο></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 213.png" alt=""><figcaption><p>Εικόνα 8γ: &#x3C;Προσθέστε σύνδεσμο></p></figcaption></figure>
 
 </div>
 
-3. Στην καρτέλα **<Περιεχόμενο>** (1), μπορείτε να προσθέσετε:
+3. Στην καρτέλα **<Περιεχόμενο>** (Εικόνα 9), μπορείτε να προσθέσετε:
 
 * **Πρόσθετες Ετικέτες Αναζήτησης**
-* **Πρόσθετο περιεχόμενο**, πατώντας <mark style="color:blue;"><+Προσθήκη γραμμής></mark> (2). Στο νέο παράθυρο, εισαγάγετε Τίτλο και Περιγραφή (επιλέγοντας την επιθυμητή γλώσσα).
-* **Συσχετιζόμενα προϊόντα**. Στο νέο παράθυρο, διαλέγετε προϊόντα του καταστήματος που σχετίζονται με το προστεθέν προϊόν (3).&#x20;
+* **Πρόσθετο περιεχόμενο**, πατώντας <mark style="color:blue;"><+Προσθήκη γραμμής></mark>. Στο νέο παράθυρο, εισαγάγετε Τίτλο και Περιγραφή (επιλέγοντας την επιθυμητή γλώσσα).
+* **Συσχετιζόμενα προϊόντα**. Στο νέο παράθυρο, διαλέγετε προϊόντα του καταστήματος που σχετίζονται με το προστεθέν προϊόν.&#x20;
 
-<figure><img src="../../.gitbook/assets/ScreenHunter.png" alt=""><figcaption><p>Εικόνα 15: Καρτέλα &#x3C;Περιεχόμενο> - Παράδειγμα (1)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 391.png" alt="" width="563"><figcaption><p>Εικόνα 9: Καρτέλα &#x3C;Περιεχόμενο></p></figcaption></figure>
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 217 (1).png" alt=""><figcaption><p>Εικόνα 16: (2)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 392.png" alt=""><figcaption><p>Εικόνα 9β</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 218.png" alt=""><figcaption><p>Εικόνα 17: (3)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 218.png" alt=""><figcaption><p>Εικόνα 9γ</p></figcaption></figure>
 
 </div>
 
-4. Στην καρτέλα **<Διαστάσεις>** πατώντας <mark style="color:blue;"><+Ελεύθερη διάσταση></mark> και/ή <mark style="color:blue;"><+Χαρακτηριστικό></mark>, επιλέγετε προϊόν (περιγραφή), προσθέτετε τιμές και πατάτε \<enter> στο πληκτρολόγιό σας. Ακριβώς από κάτω, θα εμφανιστούν τα αποτελέσματα (Συνδυασμοί Στοιχείων Παραλλαγής) με την Τιμή, την Ποσότητα και τις Ενέργειες (/<Αφαίρεση>) που αντιστοιχούν.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 242.png" alt=""><figcaption><p>Εικόνα 18: Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 246.png" alt=""><figcaption><p>Εικόνα 19: Ελεύθερη διάσταση</p></figcaption></figure>
+4. Στην καρτέλα **<Διαστάσεις>** πατώντας <mark style="color:blue;"><+Ελεύθερη διάσταση></mark> και/ή <mark style="color:blue;"><+Προσθήκη χαρακτηριστικού></mark>, επιλέγετε προϊόν (περιγραφή), προσθέτετε τιμές και πατάτε \<enter> στο πληκτρολόγιό σας. Ακριβώς από κάτω, θα εμφανιστούν τα αποτελέσματα (Συνδυασμοί Στοιχείων Παραλλαγής) με την Τιμή, την Ποσότητα και τις Ενέργειες (/<Αφαίρεση>) που αντιστοιχούν.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 248.png" alt=""><figcaption><p>Εικόνα 20: Χαρακτηριστικά</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 395.png" alt="" width="486"><figcaption><p>Εικόνα 10α: Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 393.png" alt="" width="481"><figcaption><p>Εικόνα 10β: Ελεύθερη διάσταση</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 394.png" alt="" width="482"><figcaption><p>Εικόνα 10γ: Χαρακτηριστικά</p></figcaption></figure>
 
 5. Στην καρτέλα **<Χαρακτηριστικά>**, μπορείτε να επιλέξετε ένα πρότυπο χαρακτηριστικών αναφορικά με το προϊόν.
 
