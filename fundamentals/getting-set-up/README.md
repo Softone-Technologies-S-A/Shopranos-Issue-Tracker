@@ -48,7 +48,7 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 386.png" alt="" width="213"><figcaption><p>Εικόνα 5</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 387 (1).png" alt="" width="365"><figcaption><p>Εικόνα 6</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 387.png" alt="" width="365"><figcaption><p>Εικόνα 6</p></figcaption></figure>
 
 
 
@@ -99,7 +99,7 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 387.png" alt=""><figcaption><p>Εικόνα 7α: Καρτέλα &#x3C;Γενικά></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 387 (1).png" alt=""><figcaption><p>Εικόνα 7α: Καρτέλα &#x3C;Γενικά></p></figcaption></figure>
 
  
 
@@ -111,7 +111,7 @@
 
 </div>
 
-2. Στην καρτέλα **\<Media Gallery>** μπορείτε να ανεβάσετε αρχεία, πατώντας δεξιά <mark style="color:blue;"><Επιλέξτε Αρχεία></mark> ή εισαγάγοντας τον αντίστοιχο σύνδεσμο (<mark style="color:blue;"><Προσθέστε σύνδεσμο></mark>).&#x20;
+2. Στην καρτέλα **\<Media>** μπορείτε να ανεβάσετε αρχεία, πατώντας δεξιά <mark style="color:blue;"><Επιλέξτε Αρχεία></mark> ή εισαγάγοντας τον αντίστοιχο σύνδεσμο (<mark style="color:blue;"><Προσθέστε σύνδεσμο></mark>).&#x20;
 
 Στην πρώτη περίπτωση, καλείστε να αναζητήσετε από την μπάρα αναζήτησης πάνω αριστερά, αρχεία που έχετε ανεβάσει, να εισαγάγετε νέο φάκελο, πατώντας <mark style="color:blue;"><+ Νέος φάκελος></mark> ή να ανεβάσετε επιπλέον αρχεία, πατώντας <mark style="color:blue;"><Ανεβάστε αρχεία></mark>. Αν επιθυμείτε να μεταφορτώσετε μεγάλο όγκο αρχείων, μπορείτε αυτό να το κάνετε τμηματικά ή να ανεβάσετε Zip. Πατήστε <mark style="color:blue;"><Προσθήκη επιλεγμένων></mark> ή <Ακύρωση>.
 
@@ -119,15 +119,15 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 211.png" alt=""><figcaption><p>Εικόνα 12: Καρτέλα &#x3C;Media Gallery></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 390.png" alt=""><figcaption><p>Εικόνα 8α: Καρτέλα &#x3C;Media ></p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 212.png" alt=""><figcaption><p>Εικόνα 13: &#x3C;Επιλέξτε Αρχεία></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 212.png" alt=""><figcaption><p>Εικόνα 8β: &#x3C;Επιλέξτε Αρχεία></p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 213.png" alt=""><figcaption><p>Εικόνα 14:&#x3C;Προσθέστε σύνδεσμο></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 213.png" alt=""><figcaption><p>Εικόνα 8γ:&#x3C;Προσθέστε σύνδεσμο></p></figcaption></figure>
 
 </div>
 
