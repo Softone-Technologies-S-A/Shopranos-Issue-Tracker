@@ -51,7 +51,7 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 386.png" alt="" width="213"><figcaption><p>Εικόνα 5</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 387 (1).png" alt="" width="365"><figcaption><p>Εικόνα 6</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 387.png" alt="" width="365"><figcaption><p>Εικόνα 6</p></figcaption></figure>
 
 
 
@@ -102,7 +102,7 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 387.png" alt=""><figcaption><p>Εικόνα 7α</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 387 (1).png" alt=""><figcaption><p>Εικόνα 7α</p></figcaption></figure>
 
  
 
@@ -160,7 +160,7 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 395.png" alt="" width="486"><figcaption><p>Εικόνα 10α: Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 393 (1).png" alt="" width="481"><figcaption><p>Εικόνα 10β: &#x3C;Ελεύθερη διάσταση></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 393.png" alt="" width="481"><figcaption><p>Εικόνα 10β: &#x3C;Ελεύθερη διάσταση></p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 394.png" alt="" width="482"><figcaption><p>Εικόνα 10γ: &#x3C;Προσθήκη χαρακτηριστικού></p></figcaption></figure>
 
@@ -204,6 +204,8 @@
 {% endhint %}
 
 8. Στην τελευταία καρτέλα, έχετε τη δυνατότητα να δημιουργήσετε **<Πρόσθετα Πεδία>**.
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 435.png" alt="" width="563"><figcaption><p>Εικόνα 14: Καρτέλα &#x3C;Πρόσθετα Πεδία></p></figcaption></figure>
 
 {% hint style="info" %}
 Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση>, αντίστοιχα.
