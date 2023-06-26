@@ -10,7 +10,7 @@
 
 Έχετε τη δυνατότητα να διαγράψετε από τη λίστα Κατηγορίες, πατώντας μέσα στο κουτάκι αριστερά από κάθε αντικείμενο ή το πρώτο κουτάκι που βρίσκεται αριστερά από το την μπάρα κατηγοριών για επιλογή όλων των προϊόντων και έπειτα το κόκκινο κουμπί <mark style="color:red;"><Διαγραφή Επιλεγμένων></mark>.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 440.png" alt=""><figcaption></figcaption></figure>
 
 Για να προσθέσετε νέα κατηγορία προϊόντων, πατήστε το κουμπί <mark style="color:blue;"><Νέο></mark>.
 
