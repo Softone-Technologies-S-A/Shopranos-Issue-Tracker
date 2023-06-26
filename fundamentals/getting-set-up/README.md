@@ -51,7 +51,7 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 386.png" alt="" width="213"><figcaption><p>Εικόνα 5</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 387.png" alt="" width="365"><figcaption><p>Εικόνα 6</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 387 (1).png" alt="" width="365"><figcaption><p>Εικόνα 6</p></figcaption></figure>
 
 
 
@@ -102,7 +102,7 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 387 (1).png" alt=""><figcaption><p>Εικόνα 7α</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 387.png" alt=""><figcaption><p>Εικόνα 7α</p></figcaption></figure>
 
  
 
@@ -158,13 +158,13 @@
 
 4. Στην καρτέλα **<Διαστάσεις>** (βλ. Εικόνα 10α), πατώντας <mark style="color:blue;"><+Ελεύθερη διάσταση></mark> (βλ. Εικόνα 10β) και/ή <mark style="color:blue;"><+Προσθήκη χαρακτηριστικού></mark> (βλ. Εικόνα 10γ), επιλέγετε προϊόν, προσθέτετε τιμές και πατάτε \<enter> στο πληκτρολόγιό σας. Ακριβώς από κάτω, θα εμφανιστούν τα αποτελέσματα (Συνδυασμοί Στοιχείων Παραλλαγής) με την Τιμή, την Ποσότητα και τις Ενέργειες (/<Αφαίρεση>) που αντιστοιχούν (βλ. Εικόνα 10δ).
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 395 (1).png" alt="" width="486"><figcaption><p>Εικόνα 10α: Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 395.png" alt="" width="486"><figcaption><p>Εικόνα 10α: Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 393.png" alt="" width="481"><figcaption><p>Εικόνα 10β: &#x3C;Ελεύθερη διάσταση></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 393 (1).png" alt="" width="481"><figcaption><p>Εικόνα 10β: &#x3C;Ελεύθερη διάσταση></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 394 (1).png" alt="" width="482"><figcaption><p>Εικόνα 10γ: &#x3C;Προσθήκη χαρακτηριστικού></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 394.png" alt="" width="482"><figcaption><p>Εικόνα 10γ: &#x3C;Προσθήκη χαρακτηριστικού></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 396 (1).png" alt="" width="470"><figcaption><p>Εικόνα 10δ: Αποτελέσματα (παράδειγμα)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 396.png" alt="" width="470"><figcaption><p>Εικόνα 10δ: Αποτελέσματα (παράδειγμα)</p></figcaption></figure>
 
 
 
@@ -203,7 +203,7 @@
 * [x] Επιλεγετε το κουμπί <Παραγωγή όλων> πάνω δεξιά, στην περίπτωση που επιθυμείτε να κάνετε χρήση του εργαλείου AI, μαζικά.&#x20;
 {% endhint %}
 
-8. Στην τελευταία καρτέλα μπορείτε να δημιουργήσετε **<Πρόσθετα Πεδία>**.
+8. Στην τελευταία καρτέλα, έχετε τη δυνατότητα να δημιουργήσετε **<Πρόσθετα Πεδία>**.
 
 {% hint style="info" %}
 Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση>, αντίστοιχα.
