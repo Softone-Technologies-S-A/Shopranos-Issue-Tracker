@@ -51,7 +51,7 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 386.png" alt="" width="213"><figcaption><p>Εικόνα 5</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 387.png" alt="" width="365"><figcaption><p>Εικόνα 6</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 387 (1).png" alt="" width="365"><figcaption><p>Εικόνα 6</p></figcaption></figure>
 
 
 
@@ -102,7 +102,7 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 387 (1).png" alt=""><figcaption><p>Εικόνα 7α</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 387.png" alt=""><figcaption><p>Εικόνα 7α</p></figcaption></figure>
 
  
 
@@ -142,7 +142,7 @@
 * **Πρόσθετο περιεχόμενο** (βλ. Εικόνα 9β). Με το το κουμπί <mark style="color:blue;"><+Προσθήκη νέας γραμμής></mark>, εισαγάγετε στο νέο παράθυρο: εικόνα, Τίτλο και Περιγραφή (επιλέγοντας την επιθυμητή γλώσσα).
 * **Συσχετιζόμενα προϊόντα** (βλ. Εικόνα 9γ). Στο νέο παράθυρο, διαλέγετε προϊόντα του καταστήματος που σχετίζονται με το προστεθέν προϊόν (<mark style="color:blue;"><+ Πρόσθεσε προϊόν></mark>).&#x20;
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 422.png" alt="" width="563"><figcaption><p>Εικόνα 9α: Καρτέλα &#x3C;Περιεχόμενο></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 422 (1).png" alt="" width="563"><figcaption><p>Εικόνα 9α: Καρτέλα &#x3C;Περιεχόμενο></p></figcaption></figure>
 
 <div>
 
@@ -158,9 +158,9 @@
 
 4. Στην καρτέλα **<Διαστάσεις>** (βλ. Εικόνα 10α), πατώντας <mark style="color:blue;"><+Ελεύθερη διάσταση></mark> (βλ. Εικόνα 10β) και/ή <mark style="color:blue;"><+Προσθήκη χαρακτηριστικού></mark> (βλ. Εικόνα 10γ), επιλέγετε προϊόν, προσθέτετε τιμές και πατάτε \<enter> στο πληκτρολόγιό σας. Ακριβώς από κάτω, θα εμφανιστούν τα αποτελέσματα (Συνδυασμοί Στοιχείων Παραλλαγής) με την Τιμή, την Ποσότητα και τις Ενέργειες (/<Αφαίρεση>) που αντιστοιχούν (βλ. Εικόνα 10δ).
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 395 (1).png" alt="" width="486"><figcaption><p>Εικόνα 10α: Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 395.png" alt="" width="486"><figcaption><p>Εικόνα 10α: Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 393.png" alt="" width="481"><figcaption><p>Εικόνα 10β: &#x3C;Ελεύθερη διάσταση></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 393 (1).png" alt="" width="481"><figcaption><p>Εικόνα 10β: &#x3C;Ελεύθερη διάσταση></p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 394 (1).png" alt="" width="482"><figcaption><p>Εικόνα 10γ: &#x3C;Προσθήκη χαρακτηριστικού></p></figcaption></figure>
 
