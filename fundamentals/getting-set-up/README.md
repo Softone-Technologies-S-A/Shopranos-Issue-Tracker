@@ -158,11 +158,11 @@
 
 4. Στην καρτέλα **<Διαστάσεις>** (βλ. Εικόνα 10α), πατώντας <mark style="color:blue;"><+Ελεύθερη διάσταση></mark> (βλ. Εικόνα 10β) και/ή <mark style="color:blue;"><+Προσθήκη χαρακτηριστικού></mark> (βλ. Εικόνα 10γ), επιλέγετε προϊόν, προσθέτετε τιμές και πατάτε \<enter> στο πληκτρολόγιό σας. Ακριβώς από κάτω, θα εμφανιστούν τα αποτελέσματα (Συνδυασμοί Στοιχείων Παραλλαγής) με την Τιμή, την Ποσότητα και τις Ενέργειες (/<Αφαίρεση>) που αντιστοιχούν (βλ. Εικόνα 10δ).
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 395.png" alt="" width="486"><figcaption><p>Εικόνα 10α: Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 395 (1).png" alt="" width="486"><figcaption><p>Εικόνα 10α: Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 393.png" alt="" width="481"><figcaption><p>Εικόνα 10β: Ελεύθερη διάσταση</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 393.png" alt="" width="481"><figcaption><p>Εικόνα 10β: &#x3C;Ελεύθερη διάσταση></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 394.png" alt="" width="482"><figcaption><p>Εικόνα 10γ: Προσθήκη χαρακτηριστικού</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 394 (1).png" alt="" width="482"><figcaption><p>Εικόνα 10γ: &#x3C;Προσθήκη χαρακτηριστικού></p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 396 (1).png" alt="" width="470"><figcaption><p>Εικόνα 10δ: Αποτελέσματα (παράδειγμα)</p></figcaption></figure>
 
@@ -203,9 +203,7 @@
 * [x] Επιλεγετε το κουμπί <Παραγωγή όλων> πάνω δεξιά, στην περίπτωση που επιθυμείτε να κάνετε χρήση του εργαλείου AI, μαζικά.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 241.png" alt=""><figcaption><p>Εικόνα 14: Παράδειγμα χρήσης AI Assistant (SEO Title)</p></figcaption></figure>
-
-
+8. Στην τελευταία καρτέλα μπορείτε να δημιουργήσετε **<Πρόσθετα Πεδία>**.
 
 {% hint style="info" %}
 Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση>, αντίστοιχα.
