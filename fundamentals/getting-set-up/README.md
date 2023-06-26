@@ -39,7 +39,7 @@
 
 <table><thead><tr><th width="396.5">Επιλέγετε &#x3C;Αλλαγή> για να ενεργοποιήσετε:</th><th>Λεπτομέρειες</th></tr></thead><tbody><tr><td><strong>&#x3C;Κατάσταση></strong></td><td>Διαλέγετε ανάμεσα σε: Ενεργό, Σε Προσχέδιο, Αρχειοθετημένο.</td></tr><tr><td><strong>&#x3C;Κατηγορία></strong></td><td>Ορίζετε κατηγορία προϊόντων που επιθυμείτε από τη λίστα επιλογής.</td></tr><tr><td><strong>&#x3C;Πρόσθετες κατηγορίες></strong></td><td>Προσθέτετε επιπλέον κατηγορίες στις οποίες θα εμφανίζεται το προϊόν στο e-shop.</td></tr><tr><td><strong>&#x3C;Μοντέλο διάθεσης></strong></td><td>Θα φαίνονται εξατομικευμένα μηνύματα ανάλογα με τη διαθεσιμότητα του προϊόντος.</td></tr><tr><td><strong>&#x3C;Τιμολογιακή Κατηγορία></strong></td><td>Ορίζετε Τιμολογιακή Κατηγορία (Price Policy) που διατίθεται στη λίστα επιλογής.</td></tr><tr><td><strong>&#x3C;Πρότυπα χαρακτηριστικών></strong></td><td>Επιλέγετε ένα πρότυπο χαρακτηριστικών για να προσθέσετε χαρακτηριστικά στο προϊόν.</td></tr><tr><td><strong>&#x3C;Ετικέτες></strong></td><td>Αφορά είτε ήδη υπάρχουσα ετικέτα (που θα διαλέξετε από τη λίστα επιλογής), είτε νέα (την οποία θα πληκτρολογήσετε στην ίδια μπάρα).</td></tr><tr><td><strong>&#x3C;Χαρακτηριστικά></strong></td><td>Προσθέτετε επιπλέον χαρακτηριστικά. </td></tr></tbody></table>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 384.png" alt="" width="487"><figcaption><p>Εικόνα 4</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 384 (1).png" alt="" width="487"><figcaption><p>Εικόνα 4</p></figcaption></figure>
 
 {% hint style="info" %}
 Πατήστε <Ακύρωση> ή <mark style="color:blue;"><Ενημέρωση></mark> των αλλαγών που προσθέσατε.
@@ -160,11 +160,11 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 395.png" alt="" width="486"><figcaption><p>Εικόνα 10α: Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 393 (1).png" alt="" width="481"><figcaption><p>Εικόνα 10β: &#x3C;Ελεύθερη διάσταση></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 393.png" alt="" width="481"><figcaption><p>Εικόνα 10β: &#x3C;Ελεύθερη διάσταση></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 394.png" alt="" width="482"><figcaption><p>Εικόνα 10γ: &#x3C;Προσθήκη χαρακτηριστικού></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 394 (1).png" alt="" width="482"><figcaption><p>Εικόνα 10γ: &#x3C;Προσθήκη χαρακτηριστικού></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 396.png" alt="" width="470"><figcaption><p>Εικόνα 10δ: Αποτελέσματα (παράδειγμα)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 396 (1).png" alt="" width="470"><figcaption><p>Εικόνα 10δ: Αποτελέσματα (παράδειγμα)</p></figcaption></figure>
 
 
 

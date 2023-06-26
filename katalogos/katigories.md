@@ -6,11 +6,11 @@
 
 Στη _λίστα_ εμφανίζονται: η Κατηγορία (όνομα κατηγορίας), η Εμφάνιση στο Μενού, η Τελευταία Αλλαγή (ημερομηνία τροποποίησης) και οι Ενέργειες (Εμφάνιση ή Διαγραφή).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 438.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 438.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
 Έχετε τη δυνατότητα να διαγράψετε από τη λίστα Κατηγορίες, πατώντας μέσα στο κουτάκι αριστερά από κάθε αντικείμενο ή το πρώτο κουτάκι που βρίσκεται αριστερά από το την μπάρα κατηγοριών για επιλογή όλων των προϊόντων και έπειτα το κόκκινο κουμπί δεξιά.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 440.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 440.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 Για να προσθέσετε νέα κατηγορία προϊόντων, πατήστε το κουμπί <mark style="color:blue;"><Νέο></mark>.
 
@@ -27,15 +27,15 @@
 
 Για να εμφανίσετε στο e-shop σας την κατηγορία που δημιουργήσατε στη γραμμή μενού, κάντε κλικ στην επιλογή <mark style="color:blue;"><Ναι></mark>.&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 442.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 442.png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
-Στην καρτέλα **<Περιεχόμενο>**, μπορείτε να προσθέσετε επιπλέον οπτικό υλικό και πληροφορίες αναφορικά με την κατηγορία, επιλέγοντας και πάλι την επιθυμητή γλώσσα για τον Τίτλο και την Περιγραφή. Μόλις ολοκληρώσετε την εργασία σας, πατήστε <mark style="color:blue;"><ΟΚ></mark> και έπειτα <mark style="color:blue;"><Αποθήκευση></mark> για να εμφανιστούν οι αλλαγές στον ιστότοπό σας.
+2. Στην καρτέλα **<Περιεχόμενο>**, μπορείτε να προσθέσετε επιπλέον οπτικό υλικό και πληροφορίες αναφορικά με την κατηγορία, επιλέγοντας και πάλι την επιθυμητή γλώσσα για τον Τίτλο και την Περιγραφή. Μόλις ολοκληρώσετε την εργασία σας, πατήστε <mark style="color:blue;"><ΟΚ></mark> και έπειτα <mark style="color:blue;"><Αποθήκευση></mark> για να εμφανιστούν οι αλλαγές στον ιστότοπό σας.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 265 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 265 (1).png" alt="" width="396"><figcaption><p>Εικόνα 4</p></figcaption></figure>
 
-Στην καρτέλα **\<SEO>**, προσθέτετε όλες τις απαραίτητες πληροφορίες για τη βελτιστοποίηση κατάταξης στις μηχανές αναζήτησης: Τον **Meta Τίτλο** με απλές λέξεις-κλειδιά, την **Περιγραφή Meta** και μια λίστα με **keywords**.&#x20;
+3. Στην καρτέλα **\<SEO>**, προσθέτετε όλες τις απαραίτητες πληροφορίες για τη βελτιστοποίηση κατάταξης στις μηχανές αναζήτησης: Τον **Meta Τίτλο** με απλές λέξεις-κλειδιά, την **Περιγραφή Meta** και μια λίστα με **keywords**.&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 48 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 48 (1).png" alt=""><figcaption><p>Εικόνα 5</p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">1)</mark> Αν θέλετε το κατάστημά σας να είναι **δίγλωσσο** (π.χ. ελληνικά και αγγλικά) ή και πολύγλωσσο, τότε θα πρέπει να πληκτρολογήσετε τους _Τίτλους_ και τις _Περιγραφές_ σε όλες τις γλώσσες, επιλέγοντας πρώτα την επιθυμητή, από δεξιά (κλικ στο εικονίδιο της υδρογείου) και από κάτω, αντίστοιχα.
@@ -45,10 +45,10 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 07.png" alt=""><figcaption><p>Εικόνα 6</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 08.png" alt=""><figcaption><p>Εικόνα 7</p></figcaption></figure>
 
 </div>
