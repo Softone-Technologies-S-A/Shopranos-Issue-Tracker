@@ -126,11 +126,11 @@
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 212.png" alt=""><figcaption><p>Εικόνα 8β: &#x3C;Επιλέξτε Αρχεία></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 416.png" alt=""><figcaption><p>Εικόνα 8β: &#x3C;Επιλέξτε Αρχεία></p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 213.png" alt=""><figcaption><p>Εικόνα 8γ: &#x3C;Προσθέστε σύνδεσμο></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 415.png" alt=""><figcaption><p>Εικόνα 8γ: &#x3C;Προσθέστε σύνδεσμο></p></figcaption></figure>
 
 </div>
 
@@ -162,7 +162,7 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 393.png" alt="" width="481"><figcaption><p>Εικόνα 10β: Ελεύθερη διάσταση</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 394 (1).png" alt="" width="482"><figcaption><p>Εικόνα 10γ: Προσθήκη χαρακτηριστικού</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 394.png" alt="" width="482"><figcaption><p>Εικόνα 10γ: Προσθήκη χαρακτηριστικού</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 396 (1).png" alt="" width="470"><figcaption><p>Εικόνα 10δ: Αποτελέσματα (παράδειγμα)</p></figcaption></figure>
 
