@@ -37,7 +37,7 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 444 (1).png" alt=""><figcaption><p>Εικόνα 4α: Καρτέλα &#x3C;Περιεχόμενο></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 444.png" alt=""><figcaption><p>Εικόνα 4α: Καρτέλα &#x3C;Περιεχόμενο></p></figcaption></figure>
 
  
 
