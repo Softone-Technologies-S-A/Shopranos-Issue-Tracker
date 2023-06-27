@@ -72,23 +72,25 @@
 
 </div>
 
+**Χρήστες πελάτη** (βλ. Εικόνες 10α & 10β)
 
-
-\*Ειδικότερα, για να προσθέσετε _Υποκατάστημα_, πατήστε <mark style="color:blue;"><+ Νέο></mark> και συμπληρώστε τα εξής πεδία: _Όνομα, Επαφή (εισαγάγετε όνομα και επώνυμο του υπεύθυνου επαφής), Τηλέφωνο Επαφής και Τηλέφωνο Υποκαταστήματος, Διεύθυνση 1, Διεύθυνση 2, Πόλη, Περιφερειακή Ενότητα, Χώρα και Ταχυδρομικός Κώδικας._
+Οι χρήστες πελάτη εμφανίζονται σε μια λίστα στην οποία εμφανίζονται: Χρήστης, Ρόλος, Ημερομηνία Πρόσκλησης, Κατάσταση και Actions (Ενέργειες). Για να προσκαλέσετε χρήστη πελάτη, κλικάρετε πάνω δεξιά <Πρόσκληση χρήστη Β2Β>. Στο νέο παράθυρο που θα μεταφερθείτε, ορίζετε Email, ενεργοποιείτε τον χρήστη, ώστε να μπορεί να συνδεθεί στο B2B eshop, επιλέγετε Ρόλο (Διαχειριστής, Αγοραστής ή Διευθυντής), καθώς και υποκατάστημα.
 
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 273.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 475.png" alt=""><figcaption><p>Εικόνα 10α</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 274.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/ScreenHunter 275.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 476.png" alt=""><figcaption><p>Εικόνα 10β</p></figcaption></figure>
 
 </div>
+
+
+
+
+
+
 
 
 
