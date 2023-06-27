@@ -122,7 +122,7 @@
 
 7. Στην τελευταία καρτέλα, εμφανίζονται τυχόν **<Πρόσθετα πεδία>** που αντιστοιχούν στον πελάτη.&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 295.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 506.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ScreenHunter 294.png" alt=""><figcaption></figcaption></figure>
 
