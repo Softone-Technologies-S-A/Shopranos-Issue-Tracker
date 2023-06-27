@@ -41,7 +41,7 @@
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 445 (1).png" alt=""><figcaption><p>Εικόνα 4β</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 445.png" alt=""><figcaption><p>Εικόνα 4β</p></figcaption></figure>
 
 </div>
 
@@ -62,7 +62,7 @@
 {% hint style="info" %}
 <mark style="color:blue;">1)</mark> Αν θέλετε το κατάστημά σας να είναι **δίγλωσσο** (π.χ. ελληνικά και αγγλικά) ή και πολύγλωσσο, τότε θα πρέπει να πληκτρολογήσετε τους _Τίτλους_ και τις _Περιγραφές_ σε όλες τις γλώσσες, επιλέγοντας πρώτα την επιθυμητή, κάνοντας κλικ στο εικονίδιο της υδρογείου.
 
-&#x20;                                                                ![](<../.gitbook/assets/image (1).png>)
+&#x20;                                                                ![](../.gitbook/assets/image.png)
 
 
 
