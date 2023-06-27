@@ -120,12 +120,12 @@
 
 
 
-7. Στην τελευταία καρτέλα, εμφανίζονται τυχόν **<Πρόσθετα πεδία>** που αντιστοιχούν στον πελάτη.&#x20;
+7. Στην τελευταία καρτέλα, εμφανίζονται τυχόν **<Πρόσθετα πεδία>** (βλ. Εικόνα 15) που αντιστοιχούν στον πελάτη.&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 506.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/ScreenHunter 294.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 506.png" alt=""><figcaption><p>Εικόνα 15</p></figcaption></figure>
 
 {% hint style="info" %}
 Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να διαγράψετε τον πελάτη, πατώντας <mark style="color:red;"><Διαγραφή></mark> αριστερά.
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/ScreenHunter 294.png" alt=""><figcaption></figcaption></figure>
