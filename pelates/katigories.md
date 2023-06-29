@@ -8,17 +8,17 @@
 
 Στα _αποτελέσματα αναζήτησης_ θα εμφανιστούν: οι _Ομάδες Πελατών_, η _Κατάσταση_, η _Ημερομηνία εισαγωγής_, ενώ μπορείτε να επιλέξετε εμφάνιση ενεργειών ή διαγραφή της ομάδας πελατών (Ενέργειες > Εμφάνιση ή Ενέργειες > Διαγραφή, αντίστοιχα).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 28.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
 Για να διαγράψετε από τη λίστα ομάδες πελατών, επιλέξτε το κουτάκι στα αριστερά του κάθε αντικειμένου και έπειτα πατήστε <mark style="color:red;"><Διαγραφή Επιλεγμένων></mark>.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 29.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 Προσθέστε Ομάδα Πελατών, κάνοντας κλικ στο κουμπί <mark style="color:blue;"><Νέο></mark> που βρίσκεται πάνω δεξιά στην οθόνη σας.
 
 Επιλέξτε _Κατάσταση (_Ενεργό, Σε Προσχέδιο, Αρχειοθετημένο), συμπληρώστε υποχρεωτικά το Όνομα της ομάδας πελατών, ενώ για να προσθέσετε Συνθήκη, κλικάρετε το σύμβολο <mark style="color:blue;"><+></mark> και διαλέξτε ανάμεσα στα: _Συνδυασμός Συνθηκών, ΑΦΜ, Χαρακτηρισμός, Χαρακτηρισμός Πηγής._
 
-<figure><img src="../.gitbook/assets/ScreenHunter 30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 30.png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
 {% hint style="info" %}
 Ακυρώστε ή Αποθηκεύστε τις αλλαγές, πατώντας <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark> αντίστοιχα.
