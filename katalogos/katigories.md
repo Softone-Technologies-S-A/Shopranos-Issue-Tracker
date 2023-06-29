@@ -8,9 +8,9 @@
 
 <figure><img src="../.gitbook/assets/ScreenHunter 438.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
-Έχετε τη δυνατότητα να διαγράψετε από τη λίστα Κατηγορίες, πατώντας μέσα στο κουτάκι αριστερά από κάθε αντικείμενο ή το πρώτο κουτάκι που βρίσκεται αριστερά από το την μπάρα κατηγοριών για επιλογή όλων των προϊόντων και έπειτα το κόκκινο κουμπί δεξιά (βλ. Εικόνα 2).
+Έχετε τη δυνατότητα να διαγράψετε από τη λίστα Κατηγορίες, πατώντας μέσα στο κουτάκι αριστερά από κάθε αντικείμενο ή το πρώτο κουτάκι που βρίσκεται αριστερά από το την μπάρα κατηγοριών για επιλογή όλων των προϊόντων και έπειτα το κουμπί <mark style="color:red;"><Διαγραφή Επιλεγμένων></mark> δεξιά (βλ. Εικόνα 2).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 440.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 524.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 
 
@@ -41,7 +41,7 @@
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 445 (1).png" alt=""><figcaption><p>Εικόνα 4β</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 445.png" alt=""><figcaption><p>Εικόνα 4β</p></figcaption></figure>
 
 </div>
 
@@ -62,7 +62,7 @@
 {% hint style="info" %}
 <mark style="color:blue;">1)</mark> Αν θέλετε το κατάστημά σας να είναι **δίγλωσσο** (π.χ. ελληνικά και αγγλικά) ή και πολύγλωσσο, τότε θα πρέπει να πληκτρολογήσετε τους _Τίτλους_ και τις _Περιγραφές_ σε όλες τις γλώσσες, επιλέγοντας πρώτα την επιθυμητή, κάνοντας κλικ στο εικονίδιο της υδρογείου.
 
-&#x20;                                                                ![](<../.gitbook/assets/image (1).png>)
+&#x20;                                                                ![](../.gitbook/assets/image.png)
 
 
 
