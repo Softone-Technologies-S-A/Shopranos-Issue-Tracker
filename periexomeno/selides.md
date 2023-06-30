@@ -31,8 +31,6 @@
 <figure><img src="../.gitbook/assets/ScreenHunter 187.png" alt=""><figcaption><p>Εικόνα 5: Καρτέλα &#x3C;Ιστορικό></p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">1)</mark> Μετά τις αλλαγές, μπορείτε να πατήσετε πάνω δεξιά το κουμπί <mark style="color:blue;"><Δημοσίευση σελίδας></mark>.
-
-<mark style="color:blue;">2)</mark> Για αλλαγή γλώσσας, πατήστε το εικονίδιο της υδρογείου, στα πεδία που είναι διαθέσιμο.&#x20;
+Μετά τις αλλαγές, μπορείτε να πατήσετε πάνω δεξιά το κουμπί <mark style="color:blue;"><Δημοσίευση σελίδας></mark>.
 {% endhint %}
 
