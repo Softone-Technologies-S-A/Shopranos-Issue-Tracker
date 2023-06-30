@@ -41,7 +41,7 @@ _-Αυτόματα_, που σημαίνει ότι τα προϊόντα που
 
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 456.png" alt=""><figcaption><p>Εικόνα 4α: Καρτέλα &#x3C;Περιεχόμενο></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 456 (1).png" alt=""><figcaption><p>Εικόνα 4α: Καρτέλα &#x3C;Περιεχόμενο></p></figcaption></figure>
 
  
 
