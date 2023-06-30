@@ -26,7 +26,7 @@
 
 <figure><img src="../.gitbook/assets/ScreenHunter 556.png" alt=""><figcaption><p>Εικόνα 4: Καρτέλα &#x3C;Ρυθμίσεις></p></figcaption></figure>
 
-3. Στην τρίτη καρτέλα, μπορείτε να δείτε το **<Ιστορικό>** (βλ. Εικόνα 5) και την προεπισκόπηση στη δεξιά πλευρά της οθόνης σας.
+3. Κλικάρετε την τρίτη καρτέλα για να δείτε το **<Ιστορικό>** (βλ. Εικόνα 5).
 
 <figure><img src="../.gitbook/assets/ScreenHunter 187.png" alt=""><figcaption><p>Εικόνα 5: Καρτέλα &#x3C;Ιστορικό></p></figcaption></figure>
 
