@@ -172,7 +172,7 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 397.png" alt="" width="479"><figcaption><p>Εικόνα 11α: Καρτέλα &#x3C;Χαρακτηριστικά></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 398 (1).png" alt="" width="292"><figcaption><p>Εικόνα 11β</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 398.png" alt="" width="292"><figcaption><p>Εικόνα 11β</p></figcaption></figure>
 
 
 
