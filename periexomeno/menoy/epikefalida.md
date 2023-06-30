@@ -4,31 +4,29 @@
 Για να επεξεργαστείτε το Κυρίως Μενού του καταστήματός σας, μεταβείτε: **Περιεχόμενο > Μενού > Επικεφαλίδα.** Θα έχετε τη δυνατότητα να προσθέσετε κατηγορίες, συλλογές ή και προσαρμοσμένους συνδέσμους.&#x20;
 {% endhint %}
 
-Στην αριστερή πλευρά της οθόνης, εμφανίζονται όλες οι Σελίδες, οι Κατηγορίες, οι Κατασκευαστές, οι Συλλογές και το Custom Link.&#x20;
+Στην αριστερή πλευρά της οθόνης, εμφανίζονται όλες οι Σελίδες, οι Κατηγορίες, οι Κατασκευαστές, οι Συλλογές και το Custom Link (βλ. Εικόνα 1).&#x20;
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 59.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
 * Μπορείτε να αναζητήσετε και να προσθέσετε Σελίδες, Κατηγορίες, Κατασκευαστές και Συλλογές, τσεκάροντας τα επιθυμητά (βλ. εικόνα 1). Στις Κατηγορίες και τους Κατασκευαστές, έχετε τη δυνατότητα να επιλέξετε <Εμφάνιση στο μενού>.
 * Στη δεξιά πλευρά της οθόνης, βλέπετε τα στοιχεία του Κυρίως Μενού, τα οποία μπορείτε να επεξεργαστείτε, κλικάροντας πάνω δεξιά το κουμπί <mark style="color:blue;"><Επεξεργασία στοιχείου μενού></mark> (βλ. εικόνα 2). Στην περίπτωση αυτή, θα μεταφερθείτε στο παράθυρο <Ιδιότητες> (βλ. εικόνα 3), όπου τροποποιείτε τον Τίτλο πλοήγησης (αλλαγή γλώσσας: δεξιά του πεδίου) και το Url, ενώ μπορείτε να ενεργοποιήσετε το μενού Mega ή και να διαγράψετε το Στοιχείο Μενού (<mark style="color:red;">\<x Διαγραφή Στοιχείου Μενού></mark>).&#x20;
 * Εισαγάγετε Custom Link, συμπληρώνοντας τα πεδία: Τίτλος και Url (βλ. εικόνα 4).
 
-
-
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 61 (1).png" alt=""><figcaption><p>εικόνα 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 61 (1).png" alt=""><figcaption><p>Εικόνα 2α</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 62.png" alt=""><figcaption><p>εικόνα 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 62.png" alt=""><figcaption><p>Εικόνα 2β</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 63 (1).png" alt=""><figcaption><p>εικόνα 3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 63 (1).png" alt=""><figcaption><p>Εικόνα 3γ</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 64 (1).png" alt=""><figcaption><p>εικόνα 4</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 64 (1).png" alt=""><figcaption><p>Εικόνα 3δ</p></figcaption></figure>
 
 </div>
 
