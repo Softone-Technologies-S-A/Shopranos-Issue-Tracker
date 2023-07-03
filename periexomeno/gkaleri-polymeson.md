@@ -18,7 +18,7 @@
 
 Τέλος, αν θέλετε να διαγράψετε αντικείμενα, κλικάρετε στο κουτάκι αριστερά από κάθε αντικείμενο και στη συνέχεια το κόκκινο κουμπί <mark style="color:red;"><Διαγραφή Επιλεγμένων></mark>.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 112 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 588.png" alt=""><figcaption><p>Εικόνα 4</p></figcaption></figure>
 
 
 
