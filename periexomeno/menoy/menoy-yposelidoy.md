@@ -6,7 +6,7 @@
 
 Στην αριστερή πλευρά της οθόνης, εμφανίζονται όλες οι Σελίδες, οι Κατηγορίες, οι Κατασκευαστές, οι Συλλογές και το Custom Link.&#x20;
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 65.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 65.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
 * Μπορείτε να αναζητήσετε και να προσθέσετε Σελίδες, Κατηγορίες, Κατασκευαστές και Συλλογές, τσεκάροντας τα επιθυμητά. Στις Κατηγορίες και τους Κατασκευαστές, έχετε τη δυνατότητα να επιλέξετε <Εμφάνιση στο μενού>.
 * Στη δεξιά πλευρά της οθόνης, βλέπετε τα στοιχεία του Μενού Υποσέλιδου τα οποία μπορείτε να επεξεργαστείτε, κλικάροντας πάνω δεξιά το κουμπί <mark style="color:blue;"><Επεξεργασία στοιχείου μενού></mark> (βλ. εικόνα 1). Στην περίπτωση αυτή, θα μεταφερθείτε στο παράθυρο <Ιδιότητες> (βλ. εικόνα 2), όπου τροποποιείτε τον Τίτλο πλοήγησης (αλλαγή γλώσσας: δεξιά του πεδίου) και το Url, ενώ μπορείτε να ενεργοποιήσετε το μενού Mega ή και να διαγράψετε το Στοιχείο Μενού (<mark style="color:red;">\<x Διαγραφή Στοιχείου Μενού></mark>).&#x20;
@@ -14,19 +14,19 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 66 (1).png" alt=""><figcaption><p>εικόνα 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 66 (1).png" alt=""><figcaption><p>Εικόνα 2α</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 67.png" alt=""><figcaption><p>εικόνα 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 67.png" alt=""><figcaption><p>Εικόνα 2β</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 68.png" alt=""><figcaption><p>εικόνα 3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 68.png" alt=""><figcaption><p>Εικόνα 2γ</p></figcaption></figure>
 
 </div>
 
 {% hint style="info" %}
-Πατήστε <Επαναφορά> για να εισαγάγετε εκ νέου τα πεδία ή <mark style="color:blue;"><Αποθήκευση></mark> για να αποθηκεύσετε τις αλλαγές.
+Πατήστε <Επαναφορά> για να απορρίψετε τις αλλαγές ή <mark style="color:blue;"><Αποθήκευση></mark> για να τις αποθηκεύσετε.
 {% endhint %}
 
