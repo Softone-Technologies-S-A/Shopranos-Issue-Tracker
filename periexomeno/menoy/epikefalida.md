@@ -18,7 +18,7 @@
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 574.png" alt=""><figcaption><p>Εικόνα 2β</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 577.png" alt=""><figcaption><p>Εικόνα 2β</p></figcaption></figure>
 
  
 
