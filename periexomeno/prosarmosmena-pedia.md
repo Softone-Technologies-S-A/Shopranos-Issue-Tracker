@@ -6,17 +6,17 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 69 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 590.png" alt=""><figcaption><p>Εικόνα 1α</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 70.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 591.png" alt=""><figcaption><p>Εικόνα 1β</p></figcaption></figure>
 
 </div>
 
-Επιλέξτε: **<Προϊόντα>**, **<Πελάτης>** ή **<Παραγγελία>** και ύστερα <mark style="color:blue;"><+ Νέο></mark>, για να προσθέσετε προσαρμοσμένο πεδίο.&#x20;
+Επιλέξτε: **<Προϊόντα>**, **<Πελάτης>** ή **<Παραγγελία>** και ύστερα <mark style="color:blue;"><+ Νέο></mark>, για να προσθέσετε προσαρμοσμένο πεδίο (βλ. Εικόνα 1α).&#x20;
 
-Μεταφέρεστε σε νέο παράθυρο, όπου εισαγάγετε **Όνομα**, **Τύπο** (Κείμενο, Αριθμός, Ημερομηνία, Boolean) και **Label** (για αλλαγή γλώσσας, πατήστε το εικονίδιο της υδρογείου).
+Μεταφέρεστε σε νέο παράθυρο (βλ. Εικόνα 1β), όπου εισαγάγετε **όνομα**, **Τύπο** (Κείμενο, Αριθμός, Ημερομηνία, Boolean) και **Label** (για αλλαγή γλώσσας, πατήστε το εικονίδιο της υδρογείου). Αποθηκεύστε τις αλλαγές, επιλέγοντας <mark style="color:blue;"><Αποθήκευση αλλαγών></mark> ή ακυρώστε τις, πατώντας <Ακύρωση>.
 
 {% hint style="info" %}
 Αποθηκεύετε ή ακυρώνετε τις ενέργειές σας, πάντα πατώντας <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark>, αντίστοιχα.
