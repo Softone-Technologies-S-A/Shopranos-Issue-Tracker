@@ -38,7 +38,9 @@
 
 <figure><img src="../../../.gitbook/assets/ScreenHunter 620.png" alt=""><figcaption></figcaption></figure>
 
+Κλικάροντας **\<JCC>**, συμπληρώνετε Όνομα, Αναγνωριστικό Εμπόρου, Κοινόχρηστο κλειδί, Παραγωγικό url και επιλέγετε Περιβάλλον (Sandbox, Live).&#x20;
 
+<figure><img src="../../../.gitbook/assets/ScreenHunter 621.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">1)</mark> Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας σε κάθε περίπτωση, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να τις διαγράψετε, πατώντας <mark style="color:red;"><Διαγραφή></mark> αριστερά.
