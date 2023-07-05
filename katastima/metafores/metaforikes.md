@@ -20,7 +20,9 @@
 * **Κωδικός**
 * **Τύπος (Χειροκίνητα ή After Sales Pro)**
 
-\-Αν επιλέξετε <Χειροκίνητα> (Εικόνα 2β), καλείστε να ορίσετε Speed Grade, Track URL, Transit Time, Range Type (Τιμή ή Βάρος). Ακόμη, μπορείτε να ενεργοποιήσετε την επιλογή \<Handling Cost>.
+\-Αν επιλέξετε <Χειροκίνητα> (βλ. Εικόνα 2β), καλείστε να ορίσετε Speed Grade, Track URL, Transit Time, Range Type (Τιμή ή Βάρος). Ακόμη, μπορείτε να ενεργοποιήσετε την επιλογή \<Handling Cost>.
+
+\-Αν επιλέξετε \<After Sales Pro> (βλ. Εικόνα 2γ), καλείστε να ορίσετε APIKEY.
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 629.png" alt=""><figcaption><p>Εικόνα 2α</p></figcaption></figure>
 
