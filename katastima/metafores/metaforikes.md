@@ -20,7 +20,7 @@
 * **Κωδικός**
 * **Τύπος (Χειροκίνητα ή After Sales Pro)**
 
-\-Αν επιλέξετε <Χειροκίνητα> (βλ. Εικόνα 2β), καλείστε να ορίσετε Speed Grade, Track URL, Transit Time, Range Type (Τιμή ή Βάρος). Ακόμη, μπορείτε να ενεργοποιήσετε την επιλογή \<Handling Cost>.
+\-Αν επιλέξετε <Χειροκίνητα> (βλ. Εικόνα 2β), καλείστε να ορίσετε Speed Grade, Track URL, Transit Time, Range Type (Τιμή ή Βάρος). Ακόμη, μπορείτε να ενεργοποιήσετε την επιλογή \<Handling Cost>. Ακριβώς από κάτω, προσθέτετε εύρος, πατώντας <mark style="color:blue;"><+ Προσθήκη Εύρους></mark>. Στο νέο παράθυρο που θα εμφανιστεί, συμπληρώνετε τιμές (Αξία Από, Αξια Έως και Κόστος. Πατήστε <mark style="color:blue;"><ΟΚ></mark>.
 
 \-Αν επιλέξετε \<After Sales Pro> (βλ. Εικόνα 2γ), καλείστε να ορίσετε APIKEY.
 
@@ -28,15 +28,17 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 630.png" alt=""><figcaption><p>Εικόνα 2β</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 636.png" alt=""><figcaption><p>Εικόνα 2β</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 631.png" alt=""><figcaption><p>Εικόνα 2γ</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 637.png" alt=""><figcaption><p>Εικόνα 2γ</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 635.png" alt=""><figcaption><p>Εικόνα 2δ</p></figcaption></figure>
 
 </div>
-
-
 
 {% hint style="info" %}
 Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση>, αντίστοιχα.
