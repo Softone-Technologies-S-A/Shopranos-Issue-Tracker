@@ -17,5 +17,5 @@
 <figure><img src="../../.gitbook/assets/ScreenHunter 642.png" alt="" width="365"><figcaption><p>Εικόνα 2β</p></figcaption></figure>
 
 {% hint style="info" %}
-Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα.
+Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση>, αντίστοιχα.
 {% endhint %}
