@@ -38,11 +38,11 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 108.png" alt=""><figcaption><p>Εικόνα 4</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 714.png" alt=""><figcaption><p>Εικόνα 4</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 110.png" alt=""><figcaption><p>Εικόνα 4: &#x3C;Ιστορικό></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 110.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
