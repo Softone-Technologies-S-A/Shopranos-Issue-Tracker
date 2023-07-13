@@ -12,7 +12,7 @@
 Πατήστε <Επαναφορά> για να ορίσετε εκ νέου Components ή <mark style="color:blue;"><Αποθήκευση σειράς></mark> για να τα αποθηκεύσετε.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/ScreenHunter 105.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 745.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
 Μπορείτε να διαγράψετε οριστικά τη σελίδα, επιλέγοντας το κουτάκι <Επιβεβαιώστε τη διαγραφή> και στη συνέχεια πατώντας <mark style="color:red;"><Διαγραφή σελίδας></mark> (βλ. Εικόνα 2).&#x20;
 
