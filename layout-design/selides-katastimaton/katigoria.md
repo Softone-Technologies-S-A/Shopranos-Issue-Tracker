@@ -27,7 +27,7 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 111.png" alt=""><figcaption><p>Εικόνα 1: &#x3C;Πρότυπο></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 239.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 715.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 {% hint style="info" %}
 Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να τροποποιήσετε εκ νέου τη Λίστα φίλτρων, πατώντας <Επαναφορά>.&#x20;
