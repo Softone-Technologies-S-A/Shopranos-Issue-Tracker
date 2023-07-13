@@ -4,10 +4,10 @@
 Μεταβείτε: **Layout Design > Σελίδες Καταστημάτων > Κατηγορία**.
 {% endhint %}
 
-1. Στην καρτέλα **<Πρότυπο>** (βλ. Εικόνα 1α), μπορείτε να επιλέξετε στα αριστερά: &#x20;
+1. Στην καρτέλα **<Πρότυπο>** (βλ. Εικόνα 1), μπορείτε να επιλέξετε στα αριστερά: &#x20;
 
 * **Προσθήκη > Global** ή
-* **Προσθήκη > Λίστα φίλτρων** (βλ. Εικόνα 1β).  Στην περίπτωση αυτή, καλείστε να ορίσετε:
+* **Προσθήκη > Λίστα φίλτρων** (βλ. Εικόνα 2α).  Στην περίπτωση αυτή, καλείστε να ορίσετε:
 
 \- υποχρεωτικά Εμφάνιση (Προκαθορισμένο ή custom\_Compact
 
@@ -19,7 +19,7 @@
 
 \- Επιλογές ταξινόμησης (Ανά Ημερομηνία, Τίτλος, Τιμή)
 
-\- Πρόσθετα πεδία. Κλικάρετε <mark style="color:blue;"><+Προσθήκη πεδίου></mark> και δυο φορές το νέο πεδίο και στη συνέχεια συμπληρώνετε Label (στην επιθυμητή γλώσσα), όνομα πεδίου (Field Name), ενώ ενεργοποιείτε ακριβώς από κάτω την επιλογή \<Requires Authentication>. Για να επιστρέψετε στα πεδία, πατήστε <mark style="color:blue;"><Επιστροφή στα πεδία></mark> (βλ. Εικόνα 1γ).&#x20;
+\- Πρόσθετα πεδία. Κλικάρετε <mark style="color:blue;"><+Προσθήκη πεδίου></mark> και δυο φορές το νέο πεδίο και στη συνέχεια συμπληρώνετε Label (στην επιθυμητή γλώσσα), όνομα πεδίου (Field Name), ενώ ενεργοποιείτε ακριβώς από κάτω την επιλογή \<Requires Authentication>. Για να επιστρέψετε στα πεδία, πατήστε <mark style="color:blue;"><Επιστροφή στα πεδία></mark> (βλ. Εικόνα 2β).&#x20;
 
 Μπορείτε να επεξεργαστείτε τα Βασικά Components (να ορίσετε <Εμφάνιση> και <Όνομα δομικού στοιχείου>), πατώντας το εικονίδιο μολυβιού που αντιστοιχεί στο καθένα.&#x20;
 
@@ -29,15 +29,15 @@
 Πατήστε <Επαναφορά> για να ορίσετε εκ νέου Components ή <mark style="color:blue;"><Αποθήκευση σειράς></mark> για να τα αποθηκεύσετε.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 111.png" alt=""><figcaption><p>Εικόνα 1α</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 111.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 715.png" alt=""><figcaption><p>Εικόνα 1β</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 715.png" alt=""><figcaption><p>Εικόνα 2α</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 716.png" alt=""><figcaption><p>Εικόνα 1γ</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 716.png" alt=""><figcaption><p>Εικόνα 2β</p></figcaption></figure>
 
 </div>
 
@@ -45,9 +45,11 @@
 Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να τροποποιήσετε εκ νέου τη Λίστα φίλτρων, πατώντας <Επαναφορά>.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 107.png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
-Μπορείτε να διαγράψετε οριστικά τη σελίδα, επιλέγοντας το κουτάκι <Επιβεβαιώστε τη διαγραφή> και στη συνέχεια πατώντας <mark style="color:red;"><Διαγραφή σελίδας></mark>.
+
+Μπορείτε να διαγράψετε οριστικά τη σελίδα, επιλέγοντας το κουτάκι <Επιβεβαιώστε τη διαγραφή> και στη συνέχεια πατώντας <mark style="color:red;"><Διαγραφή σελίδας></mark> (βλ. Εικόνα 3).
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 107.png" alt="" width="474"><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
 
 
