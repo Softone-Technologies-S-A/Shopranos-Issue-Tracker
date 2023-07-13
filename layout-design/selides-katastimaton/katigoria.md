@@ -29,7 +29,11 @@
 Πατήστε <Επαναφορά> για να ορίσετε εκ νέου Components ή <mark style="color:blue;"><Αποθήκευση σειράς></mark> για να τα αποθηκεύσετε.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 111.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 717.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
+
+{% hint style="info" %}
+Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να τροποποιήσετε εκ νέου τη Λίστα φίλτρων, πατώντας <Επαναφορά>.&#x20;
+{% endhint %}
 
 <div>
 
@@ -40,10 +44,6 @@
 <figure><img src="../../.gitbook/assets/ScreenHunter 716.png" alt=""><figcaption><p>Εικόνα 2β</p></figcaption></figure>
 
 </div>
-
-{% hint style="info" %}
-Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να τροποποιήσετε εκ νέου τη Λίστα φίλτρων, πατώντας <Επαναφορά>.&#x20;
-{% endhint %}
 
 
 
