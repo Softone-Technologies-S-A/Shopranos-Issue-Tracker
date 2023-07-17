@@ -14,7 +14,7 @@
 
 Μπορείτε να διαγράψετε οριστικά τη σελίδα, επιλέγοντας το κουτάκι <Επιβεβαίωση διαγραφής σελίδας> και στη συνέχεια <mark style="color:red;"><Διαγραφή σελίδας></mark> (βλ. Εικόνα 2).&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 107 (1).png" alt="" width="474"><figcaption><p>Εικόνα 2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 785.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 2. Στην καρτέλα **<Ρυθμίσεις>** (βλ. Εικόνα 3), ορίζετε**:**
 
