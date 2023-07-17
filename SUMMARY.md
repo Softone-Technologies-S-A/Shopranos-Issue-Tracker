@@ -75,6 +75,7 @@
     * [Προφίλ](layout-design/selides-logariasmoy/profil.md)
   * [Άλλες Σελίδες](layout-design/alles-selides/README.md)
     * [Επικοινωνία](layout-design/alles-selides/epikoinonia.md)
+    * [Αναζήτηση](layout-design/alles-selides/anazitisi.md)
     * [Η σελίδα δεν βρέθηκε](layout-design/alles-selides/i-selida-den-vrethike.md)
     * [Συντήρηση](layout-design/alles-selides/syntirisi.md)
   * [Διαμορφωτής θεμάτων](layout-design/diamorfotis-thematon.md)
