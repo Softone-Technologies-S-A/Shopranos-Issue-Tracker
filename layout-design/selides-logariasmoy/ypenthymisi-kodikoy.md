@@ -10,11 +10,13 @@
 Μπορείτε να αποθηκεύσετε τις ενέργειές σας στη λίστα με τα Components, πατώντας <mark style="color:blue;"><Αποθήκευση></mark>, αλλά και να την τροποποιήσετε εκ νέου, πατώντας <Επαναφορά>.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 146.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 765.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
 Μπορείτε να διαγράψετε οριστικά τη σελίδα, επιλέγοντας το κουτάκι <Επιβεβαιώστε τη διαγραφή> και στη συνέχεια πατώντας <mark style="color:red;"><Διαγραφή σελίδας></mark> (βλ. Εικόνα 2).
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 116.png" alt="" width="472"><figcaption><p>Εικόνα 2</p></figcaption></figure>
+
+
 
 2. Στην καρτέλα **<Ρυθμίσεις>** (βλ. Εικόνα 3), ορίζετε:
 
