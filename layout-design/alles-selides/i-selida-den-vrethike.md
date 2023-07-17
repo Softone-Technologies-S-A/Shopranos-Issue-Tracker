@@ -12,9 +12,9 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 778.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
-Μπορείτε να διαγράψετε οριστικά τη σελίδα, επιλέγοντας το κουτάκι <Επιβεβαιώστε τη διαγραφή> και στη συνέχεια πατώντας <mark style="color:red;"><Διαγραφή σελίδας></mark> (βλ. Εικόνα 2).
+Μπορείτε να διαγράψετε οριστικά τη σελίδα, επιλέγοντας το κουτάκι <Επιβεβαίωση διαγραφής σελίδας> και στη συνέχεια <mark style="color:red;"><Διαγραφή σελίδας></mark> (βλ. Εικόνα 2).&#x20;
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 107.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 107.png" alt="" width="474"><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 
 
