@@ -4,7 +4,7 @@
 Μεταβείτε: **Layout Design > Διαμορφωτής θεμάτων**.
 {% endhint %}
 
-1. Στην καρτέλα **\<Skin>** (βλ. Εικόνα 1), μπορείτε να επιλέξετε **Παλέτες Χρωμάτων**. Συγκεκριμένα, έχετε τη δυνατότητα, κλικάροντας πάνω στο αντίστοιχο κουτάκι, να ορίσετε:&#x20;
+1. Στην καρτέλα **\<Skin>** (βλ. Εικόνα 1α), μπορείτε να επιλέξετε **Παλέτες Χρωμάτων**. Συγκεκριμένα, έχετε τη δυνατότητα, κλικάροντας πάνω στο αντίστοιχο κουτάκι, να ορίσετε:&#x20;
 
 * <mark style="color:orange;">**Χρώμα θέματος**</mark> (το χρώμα που θα έχουν οι σύνδεσμοι, οι επικεφαλίδες, τα ενεργά μενού και τα κουμπιά)
 * <mark style="color:orange;">**Χρώμα κειμένου θέματος**</mark> (το χρώμα που θα έχουν οι υποκεφαλίδες, τα δευτερεύοντα μενού και τα κείμενα των κουμπιών)
@@ -12,7 +12,7 @@
 * <mark style="color:orange;">**Προσοχή**</mark> (το χρώμα του Warning Skin)
 * <mark style="color:orange;">**Success**</mark> (το χρώμα του Success Skin).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 98 (1).png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 98 (1).png" alt=""><figcaption><p>Εικόνα 1α</p></figcaption></figure>
 
 * Ακόμη, για το **Topbar**, κλικάρετε: Skin > Topbar και επιλέγετε δεξιά το Χρώμα κειμένου, καθώς και το Χρώμα φόντου του (βλ. Εικόνα 2)
 * Για την **επικεφαλίδα**, κάνετε κλικ: Skin > Επικεφαλίδα, διαλέγοντας δεξιά το Χρώμα κειμένου και το Χρώμα φόντου της (βλ. Εικόνα 3).
@@ -24,27 +24,27 @@
 
 <div align="center">
 
-<figure><img src="../.gitbook/assets/ScreenHunter 104 (1).png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 104 (1).png" alt=""><figcaption><p>Εικόνα 1β</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 105 (1).png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 105 (1).png" alt=""><figcaption><p>Εικόνα 1γ</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 106.png" alt=""><figcaption><p>Εικόνα 4</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 106.png" alt=""><figcaption><p>Εικόνα 1δ</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 107 (1) (1).png" alt=""><figcaption><p>Εικόνα 5</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 107 (1) (1).png" alt=""><figcaption><p>Εικόνα 1ε</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 108 (1).png" alt=""><figcaption><p>Εικόνα 6</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 108 (1).png" alt=""><figcaption><p>Εικόνα 1στ</p></figcaption></figure>
 
 </div>
 
-2. Στην καρτέλα **<Ρυθμίσεις>** (βλ. Εικόνα 7), μπορείτε να ορίσετε:&#x20;
+2. Στην καρτέλα **<Ρυθμίσεις>** (βλ. Εικόνα 2), μπορείτε να ορίσετε:&#x20;
 
 * το **Λογότυπο** του e-shop σας
 * το **Favicon**, δηλαδή το εικονίδιο ιστοσελίδας
@@ -58,7 +58,7 @@
 * το **κλειδί API reCAPTCHA**
 * ενεργοποίηση της **web εφαρμογής** για κινητά.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 250.png" alt=""><figcaption><p>Εικόνα 7</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 250.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 {% hint style="info" %}
 Πατήστε <Επαναφορά> για να εισαγάγετε εκ νέου δεδομένα, ή <mark style="color:blue;"><Αποθήκευση></mark> για να αποθηκεύσετε τις αλλαγές σας.
@@ -66,20 +66,20 @@
 
 
 
-3. Στην καρτέλα **<Επικεφαλίδα>** (βλ. Εικόνα 8), μπορείτε να προσθέσετε αριστερά Στοιχεία, ενώ δεξιά βλέπετε την Προεπισκόπηση (δηλαδή το πώς θα εμφανίζονται τα στοιχεία της ιστοσελίδας σε κινητό, τάμπλετ και επιτραπέζιο υπολογιστή).
+3. Στην καρτέλα **<Επικεφαλίδα>** (βλ. Εικόνα 3α), μπορείτε να προσθέσετε αριστερά Στοιχεία, ενώ δεξιά βλέπετε την Προεπισκόπηση (δηλαδή το πώς θα εμφανίζονται τα στοιχεία της ιστοσελίδας σε κινητό, τάμπλετ και επιτραπέζιο υπολογιστή).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 101 (1).png" alt=""><figcaption><p>Εικόνα 8</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 101 (1).png" alt=""><figcaption><p>Εικόνα 3α</p></figcaption></figure>
 
 {% hint style="info" %}
 * Υπάρχει η δυνατότητα να προσθέσετε, να επεξεργαστείτε (κλικάροντας το εικονίδιο μολυβιού), αλλά και να σύρετε τα Στοιχεία σε όποια θέση επιθυμείτε.
 * Πατήστε <Επαναφορά> για να εισαγάγετε εκ νέου δεδομένα ή <mark style="color:blue;"><Αποθήκευση σειράς></mark> για να αποθηκεύσετε τα Στοιχεία στη σειρά που ορίσατε.
 {% endhint %}
 
-Για παράδειγμα, εάν θέλετε να προσθέσετε Επικεφαλίδα, επιλέγετε <mark style="color:blue;"><+Προσθήκη></mark> και TopBar (βλ. Εικόνα 9).
+Για παράδειγμα, εάν θέλετε να προσθέσετε Επικεφαλίδα, επιλέγετε <mark style="color:blue;"><+Προσθήκη></mark> και TopBar (βλ. Εικόνα 3β).
 
 Υποχρεωτικά, επιλέγετε _Προκαθορισμένη_ Εμφάνιση, ενώ συμπληρώνετε Όνομα δομικού στοιχείου και το Κείμενο που θα εμφανίζεται (επιλέγετε τη γλώσσα που επιθυμείτε δεξιά από το εικονίδιο της υδρογείου).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 109.png" alt=""><figcaption><p>Εικόνα 9</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 109.png" alt=""><figcaption><p>Εικόνα 3β</p></figcaption></figure>
 
 {% hint style="info" %}
 Πατήστε <mark style="color:red;"><Διαγραφή></mark> για να διαγράψετε το Στοιχείο, <Επαναφορά> για να εισαγάγετε εκ νέου δεδομένα και <mark style="color:blue;"><Αποθήκευση></mark> για να αποθηκεύσετε τις αλλαγές σας.
@@ -87,9 +87,9 @@
 
 
 
-4. Στην καρτέλα **<Υποσέλιδο>** (βλ. Εικόνα 10), αριστερά, μπορείτε να προσθέσετε Στοιχεία, ενώ δεξιά βλέπετε την Προεπισκόπηση.
+4. Στην καρτέλα **<Υποσέλιδο>** (βλ. Εικόνα 4), αριστερά, μπορείτε να προσθέσετε Στοιχεία, ενώ δεξιά βλέπετε την Προεπισκόπηση.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 102.png" alt=""><figcaption><p>Εικόνα 10</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 102.png" alt=""><figcaption><p>Εικόνα 4</p></figcaption></figure>
 
 {% hint style="info" %}
 * Υπάρχει η δυνατότητα να προσθέσετε, να επεξεργαστείτε (κλικάροντας το εικονίδιο μολυβιού), αλλά και να σύρετε τα Στοιχεία σε όποια θέση επιθυμείτε.&#x20;
@@ -98,9 +98,9 @@
 
 
 
-5. Στην καρτέλα **<Ιστορικό>** (βλ. Εικόνα 11), αριστερά μπορείτε να δείτε το ιστορικό των αλλαγών σας, αλλά και να επαναφέρετε τα στοιχεία που επιθυμείτε στην αρχική τους θέση, επιλέγοντας <Επαναφορά>. Επίσης, μπορείτε να δείτε μια προεπισκόπηση των αλλαγών σας σε κινητό, τάμπλετ και επιτραπέζιο υπολογιστή, στη δεξιά πλευρά της οθόνης.
+5. Στην καρτέλα **<Ιστορικό>** (βλ. Εικόνα 5), αριστερά μπορείτε να δείτε το ιστορικό των αλλαγών σας, αλλά και να επαναφέρετε τα στοιχεία που επιθυμείτε στην αρχική τους θέση, επιλέγοντας <Επαναφορά>. Επίσης, μπορείτε να δείτε μια προεπισκόπηση των αλλαγών σας σε κινητό, τάμπλετ και επιτραπέζιο υπολογιστή, στη δεξιά πλευρά της οθόνης.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 784.png" alt=""><figcaption><p>Εικόνα 11</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 784.png" alt=""><figcaption><p>Εικόνα 5</p></figcaption></figure>
 
 {% hint style="info" %}
 Για τη δημοσίευση όλων των αλλαγών που πραγματοποιήσατε, πατήστε πάνω δεξιά στην οθόνη σας το κουμπί <mark style="color:blue;"><Δημοσίευση></mark>.
