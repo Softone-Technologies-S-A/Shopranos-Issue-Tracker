@@ -10,4 +10,4 @@
 
 Ακόμη, μπορείτε να προσθέσετε στη λίστα νέο email template, πατώντας πάνω δεξιά <mark style="color:blue;"><Νέο></mark>. Στο νέο παράθυρο που θα εμφανιστεί, συμπληρώνετε <Όνομα> υποχρεωτικά. Πατήστε <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark> αν θέλετε να ακυρώσετε ή να αποθηκεύσετε την αλλαγή σας, αντίστοιχα (βλ. Εικόνα 2).
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 849 (1).png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 854.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
