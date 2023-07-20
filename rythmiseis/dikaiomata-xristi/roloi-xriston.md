@@ -22,6 +22,6 @@
 
 
 
-Ωστόσο, αν θέλετε να προσθέσετε νέο ρόλο, κλικάρετε <mark style="color:blue;">**<Προσθήκη νέου ρόλου>**</mark>. Ορίστε Όνομα, καθώς και Δικαιώματα ρόλου. Επιλέξτε <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark> (βλ. Εικόνα 3).
+Ωστόσο, αν θέλετε να προσθέσετε νέο ρόλο, κλικάρετε <mark style="color:blue;">**<Προσθήκη νέου ρόλου>**</mark>. Ορίστε Όνομα, καθώς και Δικαιώματα ρόλου. Επιλέξτε <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark> (βλ. Εικόνα 4).
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 862.png" alt="" width="412"><figcaption><p>Εικόνα 3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 862.png" alt="" width="412"><figcaption><p>Εικόνα 4</p></figcaption></figure>
