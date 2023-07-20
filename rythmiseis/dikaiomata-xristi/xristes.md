@@ -31,5 +31,5 @@ _Δεξιά_, θα δείτε βασικά στοιχεία του Προφίλ 
 <figure><img src="../../.gitbook/assets/ScreenHunter 299.png" alt="" width="382"><figcaption><p>Εικόνα 3β</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">1)</mark> Πατήστε **<Αποθήκευση>** για να αποθηκεύσετε την αλλαγή, <Ακύρωση> για να την ακυρώσετε, ή <mark style="color:red;"><Διαγραφή></mark> για να τη διαγράψετε.
+Πατήστε <mark style="color:blue;"><Αποθήκευση></mark> για να αποθηκεύσετε την αλλαγή, <Ακύρωση> για να την ακυρώσετε, ή <mark style="color:red;"><Διαγραφή></mark> για να διαγράψετε τον χρήστη.
 {% endhint %}
