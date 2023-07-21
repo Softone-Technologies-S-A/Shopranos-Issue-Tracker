@@ -18,7 +18,7 @@
 
 **Επεξεργαστείτε** Feeder, πατώντας πάνω στο όνομά του ή επιλέγοντας Ενέργειες > Εμφάνιση (Διαγράφετε Feeder, πατώντας Ενέργειες > Διαγραφή).&#x20;
 
-
+<figure><img src="../../../.gitbook/assets/ScreenHunter 886.png" alt=""><figcaption></figcaption></figure>
 
 
 
