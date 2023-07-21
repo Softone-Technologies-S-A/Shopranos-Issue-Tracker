@@ -19,6 +19,6 @@
 <figure><img src="../../.gitbook/assets/ScreenHunter 871.png" alt="" width="411"><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
 {% hint style="info" %}
-Σε κάθε περίπτωση, πατάτε <mark style="color:blue;"><Αποθήκευση></mark> για να αποθηκεύσετε την αλλαγή, <Ακύρωση> για να την ακυρώσετε, ή <mark style="color:red;"><Διαγραφή></mark> για τη διαγράψετε.
+Σε κάθε περίπτωση, πατάτε <mark style="color:blue;"><Αποθήκευση></mark> για να αποθηκεύσετε την αλλαγή, <Ακύρωση> για να την ακυρώσετε, ή <mark style="color:red;"><Διαγραφή></mark> για να διαγράψετε τον ρόλο.
 {% endhint %}
 
