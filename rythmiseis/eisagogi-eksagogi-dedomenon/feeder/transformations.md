@@ -4,11 +4,15 @@
 Μεταβείτε: **Ρυθμίσεις > Εισαγωγή – Εξαγωγή Δεδομένων > Transformations**.
 {% endhint %}
 
-Πατήστε το κουμπί <mark style="color:blue;"><Νέο></mark> για να προσθέσετε transformation.&#x20;
+Θα εμφανιστεί η _Λίστα_ με το _Όνομα_ μετατροπής, τον _Κωδικό_ και _τις Ενέργειες_ (Εμφάνιση ή Διαγραφή) - βλ. Εικόνα 1_._
 
-<figure><img src="../../../.gitbook/assets/ScreenHunter 223.png" alt=""><figcaption></figcaption></figure>
+Πατήστε το κουμπί <mark style="color:blue;"><Νέο></mark> για να προσθέσετε Όνομα μετατροπής και Κωδικό (βλ. Εικόνα 2)&#x20;
 
-<figure><img src="../../../.gitbook/assets/ScreenHunter 222.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ScreenHunter 892.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/ScreenHunter 893.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 {% hint style="info" %}
 Ακυρώστε ή Αποθηκεύστε την προσθήκη, πατώντας κάτω δεξιά στην οθόνη σας <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark>, αντίστοιχα.
