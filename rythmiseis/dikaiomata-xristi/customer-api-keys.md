@@ -17,8 +17,10 @@
 <figure><img src="../../.gitbook/assets/ScreenHunter 87.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να τις διαγράψετε, πατώντας <mark style="color:red;"><Διαγραφή></mark> αριστερά.
+Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να διαγράψετε το Customer Api Key, πατώντας <mark style="color:red;"><Διαγραφή></mark> αριστερά.
 {% endhint %}
+
+
 
 Για να προσθέσετε API Key Πελάτη, πατήστε πάνω δεξιά το κουμπί <mark style="color:blue;"><Νέο></mark>.
 
