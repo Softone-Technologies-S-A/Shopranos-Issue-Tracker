@@ -23,5 +23,5 @@
 <figure><img src="../../../.gitbook/assets/ScreenHunter 887.png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
 {% hint style="info" %}
-Πατήστε <mark style="color:blue;"><Αποθήκευση></mark> για να αποθηκεύσετε την αλλαγή, <Ακύρωση> για να την ακυρώσετε, ή <mark style="color:red;"><Διαγραφή></mark> για να πραγματοποιήσετε διαγραφή Feeder.
+Πατήστε <mark style="color:blue;"><Αποθήκευση></mark> για να αποθηκεύσετε την αλλαγή, <Ακύρωση> για να την ακυρώσετε, ή <mark style="color:red;"><Διαγραφή></mark> για να πραγματοποιήσετε διαγραφή feeder.
 {% endhint %}
