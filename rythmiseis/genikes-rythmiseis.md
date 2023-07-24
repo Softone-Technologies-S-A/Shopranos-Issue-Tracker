@@ -38,6 +38,20 @@ _-_Ορίστε _Ρυθμίσεις Email_ (για Αλλαγή και Επαν�
 
 <figure><img src="../.gitbook/assets/ScreenHunter 903.png" alt="" width="563"><figcaption><p>Εικόνα 4</p></figcaption></figure>
 
+4. **\<Domain>**, μπορείτε να ορίσετε Domain: επιλέγετε <mark style="color:blue;"><Αλλαγή></mark>, πληκτρολογείτε Domain και πατάτε <mark style="color:blue;"><Ενημέρωη Domain></mark> ή <Ακύρωση>. Ομοίως, μπορείτε να ορίσετε SubDomain: επιλέγετε <mark style="color:blue;"><Αλλαγή></mark>, πληκτρολογείτε SubDomain και πατάτε <mark style="color:blue;"><Ενημέρωη SubDomain></mark> ή <Ακύρωση>.
+
+
+
+<div>
+
+<figure><img src="../.gitbook/assets/ScreenHunter 904.png" alt=""><figcaption><p>Εικόνα 5α</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/ScreenHunter 905.png" alt=""><figcaption><p>Εικόνα 5β</p></figcaption></figure>
+
+</div>
+
 
 
 4. **<Αποθήκη>**, καλείστε να ορίσετε τις Ρυθμίσεις Αποθέματος. Ειδικότερα, η Λειτουργία Ρύθμισης Ποσότητας αφορά στον τρόπο με τον οποίο μπορείτε να ελέγχετε το απόθεμα των προϊόντων στο καλάθι. Επιλέγοντας ακριβώς από κάτω **Μονάδα Πωλήσεων** και **Κατάσταση Μονάδας**, ρυθμίζετε τον τρόπο μετασχηματισμού της μονάδας μέτρησης του προϊόντος.&#x20;
