@@ -22,21 +22,21 @@
 
 \-Προχωρήστε σε επεξεργασία Email Προφίλ, πατώντας το εικονίδιο του μολυβιού και σε διαγραφή, πατώντας το εικονίδιο του κάδου (βλ. Εικόνα 2β).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 238.png" alt="" width="550"><figcaption><p>Εικόνα 2β</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 238.png" alt="" width="550"><figcaption><p>Εικόνα 3β</p></figcaption></figure>
 
 Εισαγάγετε Email Προφίλ, πατώντας <mark style="color:blue;"><+Νέο></mark> (βλ. Εικόνα 2γ). Ορίστε Τύπο (System, Form, Reply, Παραγγελία), Πρότυπο Email, Τίτλο, Θέμα, Body (δεξιά είναι διαθέσιμη η Προεπισκόπηση), Κείμενο κουμπιού (στην επιθυμητή γλώσσα), καθώς και Διεύθυνση URL κουμπιού. Πατήστε <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark>.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 901.png" alt=""><figcaption><p>Εικόνα 2γ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 901.png" alt=""><figcaption><p>Εικόνα 3γ</p></figcaption></figure>
 
 _-_Ορίστε _Ρυθμίσεις Email_ (για Αλλαγή και Επαναφορά Κωδικού επιλέγετε ανάμεσα σε: Invitation, New Order, test invitation). Μπορείτε να ενεργοποιήσετε την επιλογή <Επισύναψη pdf στην παραγγελία>.                                   &#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 902.png" alt="" width="563"><figcaption><p>Εικόνα 2δ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 902.png" alt="" width="563"><figcaption><p>Εικόνα 3δ</p></figcaption></figure>
 
 
 
 3. **<Ρυθμίσεις Φίλτρων>**, ενεργοποιείτε φίλτρα και ορίζετε τη θέση που θα τοποθετηθούν στη σελίδα. Ακόμη, ορίζετε τον τρόπο υπολογισμού του διαθέσιμου προϊόντος (Με βάση το απόθεμα ή Με βάση το απόθεμα και την πώληση εκτός αποθέματος). Πατήστε την επιλογή <Καθαρισμός> για να διαγραφούν τα φίλτρα της cache.&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 903.png" alt="" width="563"><figcaption><p>Εικόνα 3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 903.png" alt="" width="563"><figcaption><p>Εικόνα 4</p></figcaption></figure>
 
 
 
