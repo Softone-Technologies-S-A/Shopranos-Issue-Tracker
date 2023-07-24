@@ -84,6 +84,18 @@
 
 <figure><img src="../.gitbook/assets/ScreenHunter 909.png" alt="" width="563"><figcaption><p>Εικόνα 10</p></figcaption></figure>
 
+
+
+10. **<Ρυθμίσεις Τιμολόγησης Καλαθιού>** (βλ. Εικόνα 11), καλείστε να ορίσετε τον τρόπο εισαγωγής των τιμών στο καλάθι.
+
+<figure><img src="../.gitbook/assets/ScreenHunter 910.png" alt="" width="563"><figcaption><p>Εικόνα 11</p></figcaption></figure>
+
+
+
+
+
+
+
 * **<Διαγραφή Δεδομένων>** και το κουμπί <mark style="color:red;"><Διαγραφή></mark> δίπλα από κάθε επιλογή, αν θέλετε να προχωρήσετε σε οριστική διαγραφή δεδομένων.
 
 <figure><img src="../.gitbook/assets/ScreenHunter 120.png" alt=""><figcaption><p>Εικόνα 5</p></figcaption></figure>
