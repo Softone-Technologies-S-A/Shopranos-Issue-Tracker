@@ -102,7 +102,7 @@
     * [Feeder](rythmiseis/eisagogi-eksagogi-dedomenon/feeder.md)
       * [Feeders](rythmiseis/eisagogi-eksagogi-dedomenon/feeder/feeders.md)
       * [Transformations](rythmiseis/eisagogi-eksagogi-dedomenon/feeder/transformations.md)
-    * [Newsletter](rythmiseis/eisagogi-eksagogi-dedomenon/newsletter.md)
+    * [NewsLetter](rythmiseis/eisagogi-eksagogi-dedomenon/newsletter.md)
   * [Web App](rythmiseis/web-app.md)
   * [Γενικές Ρυθμίσεις](rythmiseis/genikes-rythmiseis.md)
   * [Μεταφορές](rythmiseis/metafores.md)

@@ -4,47 +4,39 @@
 Μεταβείτε: **Ρυθμίσεις > Γενικές Ρυθμίσεις**.&#x20;
 {% endhint %}
 
-Από τη _λίστα_ ρυθμίσεων στα αριστερά, επιλέγοντας:
+<figure><img src="../.gitbook/assets/ScreenHunter 898.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
-* **<Πελάτης>**, έχετε τη δυνατότητα να ενεργοποιήσετε δεξιά την <Αυτόματη πρόσκληση πελατών κατά τη δημιουργία τους>. Για να προσκαλέσετε μη εγγεγραμμένους χρήστες, πατήστε το κουμπί <mark style="color:green;"><Προσκαλέστε χρήστες></mark>. &#x20;
+Από τη _λίστα_ ρυθμίσεων στα αριστερά (βλ. Εικόνα 1), επιλέγοντας:
 
-<figure><img src="../.gitbook/assets/ScreenHunter 235.png" alt=""><figcaption><p>Εικόνα 1: &#x3C;Πελάτης></p></figcaption></figure>
+1. **<Πελάτης>**, έχετε τη δυνατότητα να ενεργοποιήσετε δεξιά την <Αυτόματη πρόσκληση πελατών κατά τη δημιουργία τους>. Για να προσκαλέσετε μη εγγεγραμμένους χρήστες, πατήστε το κουμπί <mark style="color:green;"><Προσκαλέστε Χρήστες></mark>. &#x20;
 
-
-
-* **\<Email>**, μπορείτε να προχωρήσετε σε παραμετροποίηση:&#x20;
-
-\-επιλέξτε _Πάροχο_
-
-<figure><img src="../.gitbook/assets/ScreenHunter 239 (2).png" alt=""><figcaption><p>Εικόνα 2α: &#x3C;Παραμετροποίηση Email>: Πάροχοι</p></figcaption></figure>
-
-\-εισαγάγετε _Email Προφίλ_, πατώντας <mark style="color:blue;"><+Νέο></mark>. Προχωρήστε σε επεξεργασία, πατώντας το εικονίδιο του μολυβιού και σε διαγραφή, πατώντας το εικονίδιο του κάδου.
-
-<figure><img src="../.gitbook/assets/ScreenHunter 238.png" alt=""><figcaption><p>Εικόνα 2β: Email Προφίλ</p></figcaption></figure>
-
-<div>
-
-<figure><img src="../.gitbook/assets/ScreenHunter 231.png" alt=""><figcaption><p>Εικόνα 2γ </p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/ScreenHunter 232.png" alt=""><figcaption><p>Εικόνα 2δ</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/ScreenHunter 233.png" alt=""><figcaption><p>Εικόνα 2ε</p></figcaption></figure>
-
-</div>
-
-_-_ορίστε _Ρυθμίσεις Email_ (για κάθε μία επιλέγετε ανάμεσα σε: Invitation, New Order, test invitation). Μπορείτε να ενεργοποιήσετε την επιλογή <Επισύναψη pdf στην παραγγελία>.                                   &#x20;
-
-<figure><img src="../.gitbook/assets/ScreenHunter 237.png" alt=""><figcaption><p>Εικόνα 2στ: Ρυθμίσεις Email</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 899.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 
 
-* **<Ρυθμίσεις Φίλτρων>**, ενεργοποιείτε φίλτρα και ορίζετε τη θέση που θα τοποθετηθούν στη σελίδα.&#x20;
+2. **\<Email>**, μπορείτε να προχωρήσετε σε παραμετροποίηση:&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 234.png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
+\-Επιλέξτε Πάροχο (βλ. Εικόνα 3α)
+
+<figure><img src="../.gitbook/assets/ScreenHunter 239 (2).png" alt=""><figcaption><p>Εικόνα 3α</p></figcaption></figure>
+
+\-Προχωρήστε σε επεξεργασία Email Προφίλ, πατώντας το εικονίδιο του μολυβιού και σε διαγραφή, πατώντας το εικονίδιο του κάδου (βλ. Εικόνα 2β).
+
+<figure><img src="../.gitbook/assets/ScreenHunter 238.png" alt="" width="550"><figcaption><p>Εικόνα 2β</p></figcaption></figure>
+
+Εισαγάγετε Email Προφίλ, πατώντας <mark style="color:blue;"><+Νέο></mark> (βλ. Εικόνα 2γ). Ορίστε Τύπο (System, Form, Reply, Παραγγελία), Πρότυπο Email, Τίτλο, Θέμα, Body (δεξιά είναι διαθέσιμη η Προεπισκόπηση), Κείμενο κουμπιού (στην επιθυμητή γλώσσα), καθώς και Διεύθυνση URL κουμπιού. Πατήστε <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark>.
+
+<figure><img src="../.gitbook/assets/ScreenHunter 901.png" alt=""><figcaption><p>Εικόνα 2γ</p></figcaption></figure>
+
+_-_Ορίστε _Ρυθμίσεις Email_ (για Αλλαγή και Επαναφορά Κωδικού επιλέγετε ανάμεσα σε: Invitation, New Order, test invitation). Μπορείτε να ενεργοποιήσετε την επιλογή <Επισύναψη pdf στην παραγγελία>.                                   &#x20;
+
+<figure><img src="../.gitbook/assets/ScreenHunter 902.png" alt=""><figcaption><p>Εικόνα 2δ</p></figcaption></figure>
+
+
+
+3. **<Ρυθμίσεις Φίλτρων>**, ενεργοποιείτε φίλτρα και ορίζετε τη θέση που θα τοποθετηθούν στη σελίδα.&#x20;
+
+<figure><img src="../.gitbook/assets/ScreenHunter 903.png" alt="" width="563"><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
 * **<Αποθήκη>**, καλείστε να ορίσετε τις Ρυθμίσεις Αποθέματος. Ειδικότερα, η Λειτουργία Ρύθμισης Ποσότητας αφορά στον τρόπο με τον οποίο μπορείτε να ελέγχετε το απόθεμα των προϊόντων στο καλάθι. Επιλέγοντας ακριβώς από κάτω **Μονάδα Πωλήσεων** και **Κατάσταση Μονάδας**, ρυθμίζετε τον τρόπο μετασχηματισμού της μονάδας μέτρησης του προϊόντος.&#x20;
 
