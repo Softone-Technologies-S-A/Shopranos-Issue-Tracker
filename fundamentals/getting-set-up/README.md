@@ -21,17 +21,17 @@
 
 Κάτω δεξιά, έχετε τη δυνατότητα να επιλέξετε: <mark style="color:blue;"><Καθαρισμός Φίλτρων></mark> και να συμπληρώσετε εκ νέου τα πεδία.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 381.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 935.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
 Στα _αποτελέσματα αναζήτησης_ (βλ. Εικόνα 2) θα δείτε το όνομα κάθε προϊόντος, τον κωδικό αποθέματος (SKU), την Κατάσταση, την Ημερομηνία Εισαγωγής και τις Ενέργειες (Εμφάνιση ή Διαγραφή).&#x20;
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 382.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 936.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 Για να διαγράψετε προϊόντα, πατήστε πάνω στο κουτάκι που βρίσκεται αριστερά από κάθε αντικείμενο ή το πρώτο κουτάκι της στήλης για επιλογή όλων των προϊόντων και έπειτα το κόκκινο κουμπί <mark style="color:red;"><Διαγραφή Επιλεγμένων></mark>.
 
 Ακόμη, για να εφαρμόσετε **μαζικές μεταβολές** σε προϊόντα, πατήστε και πάλι πάνω στο κουτάκι που βρίσκεται αριστερά από κάθε αντικείμενο ή το πρώτο κουτάκι της στήλης για επιλογή όλων των αντικειμένων και ύστερα το κουμπί **<Επεξεργασία των επιλεγμένων>** (βλ. Εικόνα 3)**.**
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 385.png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 937.png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
 
 
