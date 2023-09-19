@@ -90,6 +90,7 @@
     * [Πρότυπα Email](prosarmogi/protypo/protypa-email.md)
     * [Πρότυπα Pdf](prosarmogi/protypo/protypa-pdf.md)
   * [Proxies](prosarmogi/proxies.md)
+  * [Webhooks](prosarmogi/webhooks.md)
 * [Ρυθμίσεις](rythmiseis/README.md)
   * [Δικαιώματα Χρήστη](rythmiseis/dikaiomata-xristi/README.md)
     * [Χρήστες](rythmiseis/dikaiomata-xristi/xristes.md)
