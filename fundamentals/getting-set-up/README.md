@@ -149,7 +149,7 @@
 
 
 
-2. Στην καρτέλα **\<Media>** (βλ. Εικόνα 12α) μπορείτε να εισαγάγετε τον αντίστοιχο σύνδεσμο <mark style="color:blue;">(<Προσθέστε σύνδεσμο></mark><mark style="color:blue;">)</mark> ή να επιλέξετε αρχεία <mark style="color:blue;">(<Επιλέξτε αρχεία>)</mark>.&#x20;
+2. Στην καρτέλα **\<Media>** (βλ. Εικόνα 12α) μπορείτε να εισαγάγετε τον αντίστοιχο σύνδεσμο <mark style="color:blue;">(<Προσθέστε σύνδεσμο>)</mark> ή να επιλέξετε αρχεία <mark style="color:blue;">(<Επιλέξτε αρχεία>)</mark>.&#x20;
 
 Στην πρώτη περίπτωση <mark style="color:blue;">(<Προσθέστε σύνδεσμο>)</mark>, καλείστε να ορίσετε Τίτλο, Τύπο αρχείου (Εικόνα, Βίντεο ή Αρχείο) και το File URL. Πατήστε <mark style="color:blue;"><ΟΚ></mark> ή <Ακύρωση>.
 
@@ -171,35 +171,35 @@
 
 
 
-3. Στην καρτέλα **<Περιεχόμενο>** (βλ. Εικόνα 9α), μπορείτε να προσθέσετε:
+3. Στην καρτέλα **<Περιεχόμενο>** (βλ. Εικόνα 13α), μπορείτε να προσθέσετε:
 
 * **Πρόσθετες Ετικέτες Αναζήτησης**
-* **Πρόσθετο περιεχόμενο** (βλ. Εικόνα 9β). Με το το κουμπί <mark style="color:blue;"><+Προσθήκη νέας γραμμής></mark>, εισαγάγετε στο νέο παράθυρο: εικόνα, Τίτλο και Περιγραφή (επιλέγοντας την επιθυμητή γλώσσα).
-* **Συσχετιζόμενα προϊόντα** (βλ. Εικόνα 9γ). Στο νέο παράθυρο, διαλέγετε προϊόντα του καταστήματος που σχετίζονται με το προστεθέν προϊόν (<mark style="color:blue;"><+ Πρόσθεσε προϊόν></mark>).&#x20;
+* **Πρόσθετο περιεχόμενο** (βλ. Εικόνα 13β). Με το το κουμπί <mark style="color:blue;"><+Προσθήκη νέας γραμμής></mark>, εισαγάγετε στο νέο παράθυρο: εικόνα, Τίτλο και Περιγραφή (επιλέγοντας την επιθυμητή γλώσσα).
+* **Συσχετιζόμενα προϊόντα** (βλ. Εικόνα 13γ). Στο νέο παράθυρο, διαλέγετε προϊόντα του καταστήματος που σχετίζονται με το προστεθέν προϊόν (<mark style="color:blue;"><+ Πρόσθεσε προϊόν></mark>).&#x20;
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 422 (1).png" alt="" width="563"><figcaption><p>Εικόνα 9α: Καρτέλα &#x3C;Περιεχόμενο></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 422 (1).png" alt="" width="563"><figcaption><p>Εικόνα 13α</p></figcaption></figure>
 
 <div>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 392.png" alt=""><figcaption><p>Εικόνα 9β</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 392.png" alt=""><figcaption><p>Εικόνα 13β</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 218.png" alt=""><figcaption><p>Εικόνα 9γ</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 953.png" alt=""><figcaption><p>Εικόνα 13γ</p></figcaption></figure>
 
 </div>
 
 
 
-4. Στην καρτέλα **<Διαστάσεις>** (βλ. Εικόνα 10α), πατώντας <mark style="color:blue;"><+Ελεύθερη διάσταση></mark> (βλ. Εικόνα 10β) και/ή <mark style="color:blue;"><+Προσθήκη χαρακτηριστικού></mark> (βλ. Εικόνα 10γ), επιλέγετε προϊόν, προσθέτετε τιμές και πατάτε \<enter> στο πληκτρολόγιό σας. Ακριβώς από κάτω, θα εμφανιστούν τα αποτελέσματα (Συνδυασμοί Στοιχείων Παραλλαγής) με την Τιμή, την Ποσότητα και τις Ενέργειες (/<Αφαίρεση>) που αντιστοιχούν (βλ. Εικόνα 10δ).
+4. Στην καρτέλα **<Διαστάσεις>** (βλ. Εικόνα 14α), πατώντας <mark style="color:blue;"><+Ελεύθερη διάσταση></mark> (βλ. Εικόνα 14β) και/ή <mark style="color:blue;"><+Προσθήκη χαρακτηριστικού></mark> (βλ. Εικόνα 14γ), επιλέγετε προϊόν, προσθέτετε τιμές και πατάτε \<enter> στο πληκτρολόγιό σας. Ακριβώς από κάτω, θα εμφανιστούν τα αποτελέσματα (Συνδυασμοί Στοιχείων Παραλλαγής) με την Τιμή, την Ποσότητα και τις Ενέργειες (/<Αφαίρεση>) που αντιστοιχούν (βλ. Εικόνα 14δ).
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 395 (1).png" alt="" width="486"><figcaption><p>Εικόνα 10α: Καρτέλα &#x3C;Διαστάσεις></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 395 (1).png" alt="" width="486"><figcaption><p>Εικόνα 14α</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 393.png" alt="" width="481"><figcaption><p>Εικόνα 10β: &#x3C;Ελεύθερη διάσταση></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 393.png" alt="" width="481"><figcaption><p>Εικόνα 14β</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 394 (1).png" alt="" width="482"><figcaption><p>Εικόνα 10γ: &#x3C;Προσθήκη χαρακτηριστικού></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 394 (1).png" alt="" width="482"><figcaption><p>Εικόνα 14γ</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 396.png" alt="" width="470"><figcaption><p>Εικόνα 10δ: Αποτελέσματα (παράδειγμα)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 396.png" alt="" width="470"><figcaption><p>Εικόνα 14δ</p></figcaption></figure>
 
 
 
