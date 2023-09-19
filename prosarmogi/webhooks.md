@@ -4,7 +4,7 @@
 Μεταβείτε: **Προσαρμογή > Webhooks** για να πραγματοποιήσετε ενημέρωση προϊόντος.
 {% endhint %}
 
-Εμφανίζεται ο πίνακας με τα Webhooks που έχουν προστεθεί με τον Τίτλο, το URL,&#x20;
+Εμφανίζεται ο πίνακας με τα Webhooks που έχουν προστεθεί με τον Τίτλο, το URL, την Κατάσταση, την Οντότητα, το Event και τα Actions (<mark style="color:blue;">Επεξεργασία</mark> ή <mark style="color:red;">Διαγραφή</mark>).
 
 <figure><img src="../.gitbook/assets/ScreenHunter 956.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
