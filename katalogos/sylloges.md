@@ -29,7 +29,7 @@ _-Αυτόματα_, που σημαίνει ότι τα προϊόντα που
 
 * Ακριβώς από κάτω, μπορείτε να προσθέσετε ένα προϊόν, πληκτρολογώντας την ονομασία του ή αναζητώντας το στη λίστα.&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 460.png" alt="" width="563"><figcaption><p>Εικόνα 3: Καρτέλα &#x3C;Γενικά></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 460.png" alt="" width="563"><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
 {% hint style="info" %}
 Έχετε τη δυνατότητα να ορίσετε **Περιγραφή συλλογής** με τη βοήθεια του _Al Assistant_ (Τεχνητή Νοημοσύνη).&#x20;
@@ -41,7 +41,7 @@ _-Αυτόματα_, που σημαίνει ότι τα προϊόντα που
 
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 456.png" alt=""><figcaption><p>Εικόνα 4α: Καρτέλα &#x3C;Περιεχόμενο></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 456.png" alt=""><figcaption><p>Εικόνα 4α</p></figcaption></figure>
 
  
 
