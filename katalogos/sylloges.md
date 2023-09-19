@@ -6,11 +6,11 @@
 
 Αναζητήστε τις _συλλογές_ σας στη σχετική μπάρα αναζήτησης, επιλέγοντας ανάμεσα στα: Σε Προσχέδιο, Αρχειοθετημένο και Ενεργό (βλ. Εικόνα 1).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 509.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 963.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
 Έχετε τη δυνατότητα να διαγράψετε από τη λίστα όσες συλλογές επιθυμείτε, πατώντας μέσα στο κουτάκι αριστερά από το όνομα της συλλογής ή το πρώτο κουτάκι της στήλης για επιλογή όλων των προϊόντων και έπειτα <mark style="color:red;"><Διαγραφή Επιλεγμένων></mark> (βλ. Εικόνα 2).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 527.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 964.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 
 
@@ -27,7 +27,7 @@ _-Χειροκίνητα_, που σημαίνει ότι μπορείτε να 
 
 _-Αυτόματα_, που σημαίνει ότι τα προϊόντα που ταιριάζουν με ορισμένες συνθήκες θα αντιστοιχιστούν αυτόματα στη συγκεκριμένη κατηγορία.&#x20;
 
-* Ακριβώς από κάτω, μπορείτε να προσθέσετε ένα προϊόν, πληκτρολογώντας την ονομασία του ή αναζητώντας το στη λίστα.&#x20;
+* Ακριβώς από κάτω, μπορείτε να προσθέσετε προϊόντα, πληκτρολογώντας την ονομασία τους ή αναζητώντας τα στη λίστα.&#x20;
 
 <figure><img src="../.gitbook/assets/ScreenHunter 460.png" alt="" width="563"><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
@@ -49,7 +49,7 @@ _-Αυτόματα_, που σημαίνει ότι τα προϊόντα που
 
 </div>
 
-3. Μεταβείτε στην καρτέλα \<SEO> (βλ. Εικόνα 5) και ορίστε τα εξής: **Url alias**, **Τίτλος SEO**, **Περιγραφή SEO**, **Meta Title**, **Περιγραφή Meta** και **Meta keywords**.
+3. Μεταβείτε στην καρτέλα **\<SEO>** (βλ. Εικόνα 5) και ορίστε τα εξής: **Url alias**, **Τίτλος SEO**, **Περιγραφή SEO**, **Meta Title**, **Περιγραφή Meta** και **Meta keywords**.
 
 <figure><img src="../.gitbook/assets/ScreenHunter 511.png" alt="" width="452"><figcaption><p>Εικόνα 5</p></figcaption></figure>
 
