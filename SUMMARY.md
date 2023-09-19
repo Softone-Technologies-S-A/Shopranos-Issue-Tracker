@@ -11,6 +11,7 @@
   * [Πελάτες](statistika/pelates.md)
 * [Πωλήσεις](poliseis/README.md)
   * [Παραγγελίες](product-guides/making-a-post.md)
+  * [Σειρές](poliseis/seires.md)
   * [Εγκαταλελειμμένες παραγγελίες](poliseis/egkataleleimmenes-paraggelies.md)
 * [Κατάλογος](katalogos/README.md)
   * [Προϊόντα](fundamentals/getting-set-up/README.md)
