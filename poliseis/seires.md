@@ -21,3 +21,9 @@
 Ορίστε **Φίλτρο προϊόντος**, προσθέτοντας συνθήκες με το κουμπί <mark style="color:blue;"><+></mark> (βλ. Εικόνα 2γ).&#x20;
 
 <figure><img src="../.gitbook/assets/ScreenHunter 962.png" alt="" width="563"><figcaption><p>Εικόνα 2γ</p></figcaption></figure>
+
+
+
+{% hint style="info" %}
+Πατήστε <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark>.
+{% endhint %}
