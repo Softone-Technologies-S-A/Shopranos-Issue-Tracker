@@ -29,7 +29,7 @@
 
 Για να εμφανίσετε στο e-shop σας την κατηγορία που δημιουργήσατε στη γραμμή μενού, κάντε κλικ στην επιλογή <mark style="color:blue;"><Ναι></mark>.&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 442.png" alt=""><figcaption><p>Εικόνα 3: Καρτέλα &#x3C;Γενικά></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 442.png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
 
 
@@ -37,7 +37,7 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 444 (1).png" alt=""><figcaption><p>Εικόνα 4α: Καρτέλα &#x3C;Περιεχόμενο></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 444 (1).png" alt=""><figcaption><p>Εικόνα 4α</p></figcaption></figure>
 
  
 
@@ -51,7 +51,7 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 448.png" alt=""><figcaption><p>Εικόνα 5α: Καρτέλα &#x3C;SEO></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 448.png" alt=""><figcaption><p>Εικόνα 5α</p></figcaption></figure>
 
  
 
