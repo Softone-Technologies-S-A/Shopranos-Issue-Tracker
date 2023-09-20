@@ -26,7 +26,7 @@
 
 Στην πάνω δεξιά πλευρά της οθόνης σας, εμφανίζονται τρεις επιλογές (βλ. Εικόνα 3):&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 464.png" alt="" width="265"><figcaption><p>Εικόνα 3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 973.png" alt="" width="260"><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
 * Για εξαγωγή δεδομένων, πατήστε **\<Export>**. Στο νέο παράθυρο επιλέγετε <Εξαγωγή χρηστών πελατών σε excel>, καθώς και τον τύπο αρχείου (Excel). Στη συνέχεια, κάνετε κλικ επάνω στο κουμπί <mark style="color:blue;">\<Export></mark> (βλ. Εικόνα 4).
 
