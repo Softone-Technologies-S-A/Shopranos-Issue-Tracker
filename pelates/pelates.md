@@ -76,11 +76,25 @@
 
 </div>
 
-**Διεύθυνση έδρας** (βλ. Εικόνα 8)
 
-Ορίζετε τα εξής: Διεύθυνση 1, Διεύθυνση 2, Πόλη, Περιφερειακή Ενότητα, Χώρα και Ταχυδρομικός Κώδικας.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 472.png" alt="" width="452"><figcaption><p>Εικόνα 8</p></figcaption></figure>
+**Διεύθυνση έδρας** (βλ. Εικόνα 8α & 8β)
+
+Πατάτε <mark style="color:blue;"><+ Νέα διεύθυνση></mark> και ορίζετε τα εξής: Διεύθυνση 1, Διεύθυνση 2, Πόλη, Περιφερειακή Ενότητα, Χώρα και Ταχυδρομικός Κώδικας.
+
+
+
+<div>
+
+<figure><img src="../.gitbook/assets/ScreenHunter 974.png" alt=""><figcaption><p>Εικόνα 8α</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/ScreenHunter 975.png" alt=""><figcaption><p>Εικόνα 8β</p></figcaption></figure>
+
+</div>
+
+
 
 **Υποκαταστήματα** (βλ. Εικόνες 9α & 9β)
 
@@ -95,6 +109,8 @@
 <figure><img src="../.gitbook/assets/ScreenHunter 474.png" alt=""><figcaption><p>Εικόνα 9β</p></figcaption></figure>
 
 </div>
+
+
 
 **Χρήστες πελάτη** (βλ. Εικόνες 10α & 10β)
 
