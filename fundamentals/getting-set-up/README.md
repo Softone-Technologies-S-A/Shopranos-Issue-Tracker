@@ -65,7 +65,7 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 387 (1).png" alt="" width="365"><figcaption><p>Εικόνα 8</p></figcaption></figure>
 
-Στη δεύτερη περίπτωση **(Actions > Αποδοχή Περιεχομένου)**, εμφανίζεται το περιεχόμενο του κάθε προϊόντος, το οποίο μπορείτε να αποδεχτείτε ή να απορρίψετε, πατώντας <mark style="color:blue;"><Αποδοχή></mark> ή <mark style="color:red;"><Απόρριψη></mark>, αντίστοιχα (βλ. Εικόνα 9).
+Στη δεύτερη περίπτωση **(Actions > Αποδοχή Περιεχομένου)**, εμφανίζεται το περιεχόμενο του κάθε προϊόντος, το οποίο μπορείτε να αποδεχτείτε ή να απορρίψετε ως διαχειριστής, πατώντας <mark style="color:blue;"><Αποδοχή></mark> ή <mark style="color:red;"><Απόρριψη></mark>, αντίστοιχα (βλ. Εικόνα 9).
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 941.png" alt=""><figcaption><p>Εικόνα 9</p></figcaption></figure>
 
