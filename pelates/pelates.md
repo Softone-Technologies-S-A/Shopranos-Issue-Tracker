@@ -56,7 +56,7 @@
 
 1. Στην καρτέλα **\<Dashboard>** (βλ. Εικόνα 6): Εμφανίζονται τα στατιστικά του πελάτη.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 467.png" alt="" width="563"><figcaption><p>Εικόνα 6: Καρτέλα &#x3C;Dashboard></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 467.png" alt="" width="563"><figcaption><p>Εικόνα 6</p></figcaption></figure>
 
 
 
@@ -68,7 +68,7 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 468.png" alt=""><figcaption><p>Εικόνα 7α: Καρτέλα &#x3C;Στοιχεία></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 468.png" alt=""><figcaption><p>Εικόνα 7α</p></figcaption></figure>
 
  
 
@@ -116,7 +116,7 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 478.png" alt=""><figcaption><p>Εικόνα 11α: Καρτέλα &#x3C;Διευθύνσεις></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 478.png" alt=""><figcaption><p>Εικόνα 11α</p></figcaption></figure>
 
  
 
@@ -128,25 +128,25 @@
 
 4. Στην καρτέλα **<Παραγγελίες>** (βλ. Εικόνα 12): Μόλις δημιουργήσετε πελάτη, θα δείτε ανά ημερομηνία εισαγωγής, τις παραγγελίες του πελάτη (αριθμός παραγγελίας, κατάσταση, σύνολο). Μπορείτε να αναζητήσετε τις παραγγελίες από την αντίστοιχη μπάρα αναζήτησης.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 480.png" alt="" width="563"><figcaption><p>Εικόνα 12: Καρτέλα &#x3C;Παραγγελίες></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 480.png" alt="" width="563"><figcaption><p>Εικόνα 12</p></figcaption></figure>
 
 
 
 5. Στην καρτέλα **<Καρτέλα>** (βλ. Εικόνα 13): Μόλις δημιουργήσετε πελάτη, εμφανίζονται οι συναλλαγές σε εύρος ημερομηνιών (ημερομηνία συναλλαγής, κωδικός συναλλαγής, σημειώσεις, χρέωση, πίστωση και προοδευτικό υπόλοιπο).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 481.png" alt=""><figcaption><p>Εικόνα 13: Καρτέλα &#x3C;Καρτέλα></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 481.png" alt=""><figcaption><p>Εικόνα 13</p></figcaption></figure>
 
 
 
 6. Στην καρτέλα **<Μηνιαία Κίνηση>** (βλ. Εικόνα 14): Μόλις δημιουργήσετε πελάτη, επιλέγοντας οικονομικό έτος, μπορείτε να δείτε σε μορφή πίνακα τη χρέωση, την πίστωση και τον τζίρο ανά μήνα (περίοδο).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 483.png" alt="" width="452"><figcaption><p>Εικόνα 14: Καρτέλα &#x3C;Μηνιαία Κίνηση></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 483.png" alt="" width="452"><figcaption><p>Εικόνα 14</p></figcaption></figure>
 
 
 
 7. Στην τελευταία καρτέλα, εμφανίζονται τυχόν **<Πρόσθετα πεδία>** (βλ. Εικόνα 15) που αντιστοιχούν στον πελάτη.&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 506.png" alt=""><figcaption><p>Εικόνα 15: Καρτέλα &#x3C;Πρόσθετα πεδία></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 506.png" alt=""><figcaption><p>Εικόνα 15</p></figcaption></figure>
 
 {% hint style="info" %}
 Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση> αντίστοιχα, αλλά και να διαγράψετε τον πελάτη, πατώντας <mark style="color:red;"><Διαγραφή></mark> αριστερά.
