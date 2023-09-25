@@ -57,7 +57,7 @@
 
 
 
-Επιλέξτε **Actions > Δημιουργία Περιεχομένου** ή Αποδοχή Περιεχομένου (βλ. Εικόνα 7).&#x20;
+Επιλέξτε Actions > Δημιουργία Περιεχομένου ή Αποδοχή Περιεχομένου (βλ. Εικόνα 7).&#x20;
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 938.png" alt=""><figcaption><p>Εικόνα 7</p></figcaption></figure>
 
