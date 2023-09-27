@@ -228,17 +228,9 @@
 
 
 
-8. Στην τελευταία καρτέλα, έχετε τη δυνατότητα να δημιουργήσετε **<Πρόσθετα Πεδία>** (βλ. Εικόνα 18α & 18β). Συμπληρώνετε Μεγέθη, Ημερομηνίες και πρόσθετα πεδία.
+8. Στην τελευταία καρτέλα, έχετε τη δυνατότητα να δημιουργήσετε **<Πρόσθετα Πεδία>** (βλ. Εικόνα 18). Συμπληρώνετε Μεγέθη, Ημερομηνίες και πρόσθετα πεδία.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 954 (1).png" alt=""><figcaption><p>Εικόνα 18α</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 955 (1).png" alt=""><figcaption><p>Εικόνα 18β</p></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/ScreenHunter 994.png" alt="" width="485"><figcaption><p>Εικόνα 18</p></figcaption></figure>
 
 {% hint style="info" %}
 Μπορείτε να αποθηκεύσετε ή να ακυρώσετε τις ενέργειές σας, πατώντας <mark style="color:blue;"><Αποθήκευση></mark> ή <Ακύρωση>, αντίστοιχα.
