@@ -69,19 +69,9 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 941.png" alt=""><figcaption><p>Εικόνα 9</p></figcaption></figure>
 
-Πάνω δεξιά, πατώντας <Επεξεργασία> (βλ. Εικόνα 10α & 10β) μεταβαίνετε σε ένα νέο παράθυρο, όπου μπορείτε να τροποποιήσετε τα πεδία του προϊόντος. Πατήστε <Ακύρωση> ή <mark style="color:blue;"><Ενημέρωση></mark>.
+Πάνω δεξιά, πατώντας <Επεξεργασία> (βλ. Εικόνα 10) μεταβαίνετε σε ένα νέο παράθυρο, όπου μπορείτε να τροποποιήσετε τα πεδία του προϊόντος. Πατήστε <Ακύρωση> ή <mark style="color:blue;"><Ενημέρωση></mark>.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 943.png" alt=""><figcaption><p>Εικόνα 10α</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 944.png" alt=""><figcaption><p>Εικόνα 10β</p></figcaption></figure>
-
-</div>
-
-
+<figure><img src="../../.gitbook/assets/ScreenHunter 986.png" alt="" width="494"><figcaption><p>Εικίνα 10</p></figcaption></figure>
 
 
 
