@@ -55,8 +55,6 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 945.png" alt="" width="367"><figcaption><p>Εικόνα 6</p></figcaption></figure>
 
-
-
 Επιλέξτε Actions > Δημιουργία Περιεχομένου ή Αποδοχή Περιεχομένου (βλ. Εικόνα 7).&#x20;
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 938.png" alt=""><figcaption><p>Εικόνα 7</p></figcaption></figure>
@@ -139,11 +137,11 @@
 
 
 
-2. Στην καρτέλα **\<Media>** (βλ. Εικόνα 12α) μπορείτε να εισαγάγετε τον αντίστοιχο σύνδεσμο <mark style="color:blue;">(<Προσθέστε σύνδεσμο>)</mark> ή να επιλέξετε αρχεία <mark style="color:blue;">(<Επιλέξτε αρχεία>)</mark>.&#x20;
+2. Στην καρτέλα **\<Media>** (βλ. Εικόνα 12α) μπορείτε να εισαγάγετε τον αντίστοιχο σύνδεσμο, πατώντας <mark style="color:blue;"><Προσθέστε σύνδεσμο></mark> (βλ. Εικόνα 12β) ή να επιλέξετε αρχεία πατώντας <mark style="color:blue;"><Επιλέξτε αρχεία></mark> (βλ. Εικόνα 12γ).&#x20;
 
-Στην πρώτη περίπτωση <mark style="color:blue;">(<Προσθέστε σύνδεσμο>)</mark>, καλείστε να ορίσετε Τίτλο, Τύπο αρχείου (Εικόνα, Βίντεο ή Αρχείο) και το File URL. Πατήστε <mark style="color:blue;"><ΟΚ></mark> ή <Ακύρωση>.
+Στην πρώτη περίπτωση <mark style="color:blue;">(<Επιλέξτε αρχεία>)</mark>, αναζητήσετε από την μπάρα αναζήτησης πάνω αριστερά, αρχεία που έχετε ανεβάσει, να εισαγάγετε νέο φάκελο, πατώντας <mark style="color:blue;"><+ Νέος φάκελος></mark> ή να ανεβάσετε επιπλέον αρχεία, πατώντας <mark style="color:blue;"><Ανεβάστε αρχεία></mark>. Αν επιθυμείτε να μεταφορτώσετε μεγάλο όγκο αρχείων, μπορείτε αυτό να το κάνετε τμηματικά ή να ανεβάσετε Zip. Πατήστε <mark style="color:blue;"><Προσθήκη επιλεγμένων></mark> ή <Ακύρωση>.
 
-Στη δεύτερη περίπτωση <mark style="color:blue;">(<Επιλέξτε αρχεία>)</mark>, αναζητήσετε από την μπάρα αναζήτησης πάνω αριστερά, αρχεία που έχετε ανεβάσει, να εισαγάγετε νέο φάκελο, πατώντας <mark style="color:blue;"><+ Νέος φάκελος></mark> ή να ανεβάσετε επιπλέον αρχεία, πατώντας <mark style="color:blue;"><Ανεβάστε αρχεία></mark>. Αν επιθυμείτε να μεταφορτώσετε μεγάλο όγκο αρχείων, μπορείτε αυτό να το κάνετε τμηματικά ή να ανεβάσετε Zip. Πατήστε <mark style="color:blue;"><Προσθήκη επιλεγμένων></mark> ή <Ακύρωση>.
+Στη δεύτερη περίπτωση <mark style="color:blue;">(<Προσθέστε σύνδεσμο>)</mark>, καλείστε να ορίσετε Τίτλο, Τύπο αρχείου (Εικόνα, Βίντεο ή Αρχείο) και το File URL. Πατήστε <mark style="color:blue;"><ΟΚ></mark> ή <Ακύρωση>.
 
 <div>
 
@@ -151,11 +149,11 @@
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 951.png" alt=""><figcaption><p>Εικόνα 12β</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 992.png" alt=""><figcaption><p>Εικόνα 12β</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 952.png" alt=""><figcaption><p>Εικόνα 12γ</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 993.png" alt=""><figcaption><p>Εικόνα 12γ</p></figcaption></figure>
 
 </div>
 
