@@ -59,7 +59,7 @@
 * τον **κώδικα Google Analytics**
 * το **κλειδί API reCAPTCHA**
 * ενεργοποίηση της **web εφαρμογής** για κινητά
-* επιλογή **διάταξης μενού** (Layout A/Layout B)
+* **διάταξη μενού** (Layout A/Layout B)
 
 <figure><img src="../.gitbook/assets/ScreenHunter 969.png" alt="" width="563"><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
