@@ -10,11 +10,11 @@
 Μπορείτε να αποθηκεύσετε τις ενέργειές σας στη λίστα με τα Components, πατώντας <mark style="color:blue;"><Αποθήκευση></mark>, αλλά και να την τροποποιήσετε εκ νέου, πατώντας <Επαναφορά>.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/ScreenHunter 745.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 745.png" alt="" width="563"><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
 Μπορείτε να διαγράψετε οριστικά τη σελίδα, επιλέγοντας το κουτάκι <Επιβεβαίωση διαγραφής σελίδας> και στη συνέχεια <mark style="color:red;"><Διαγραφή σελίδας></mark> (βλ. Εικόνα 2).&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 785.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 785.png" alt="" width="418"><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 2. Στην καρτέλα **<Ρυθμίσεις>** (βλ. Εικόνα 3), ορίζετε**:**
 
@@ -28,7 +28,7 @@
 Πατήστε <Επαναφορά> για να συμπληρώσετε εκ νέου τα πεδία και **<Αποθήκευση>** για να αποθηκεύσετε τις αλλαγές.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/ScreenHunter 711.png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 711.png" alt="" width="563"><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
 
 
