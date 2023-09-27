@@ -12,7 +12,7 @@
 * <mark style="color:orange;">**Προσοχή**</mark> (το χρώμα του Warning Skin)
 * <mark style="color:orange;">**Success**</mark> (το χρώμα του Success Skin).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 98 (1).png" alt=""><figcaption><p>Εικόνα 1α</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 98 (1).png" alt="" width="563"><figcaption><p>Εικόνα 1α</p></figcaption></figure>
 
 * Ακόμη, για το **Topbar**, κλικάρετε: Skin > Topbar και επιλέγετε δεξιά το Χρώμα κειμένου, καθώς και το Χρώμα φόντου του (βλ. Εικόνα 2)
 * Για την **επικεφαλίδα**, κάνετε κλικ: Skin > Επικεφαλίδα, διαλέγοντας δεξιά το Χρώμα κειμένου και το Χρώμα φόντου της (βλ. Εικόνα 3).
@@ -61,7 +61,7 @@
 * ενεργοποίηση της **web εφαρμογής** για κινητά
 * επιλογή **διάταξης μενού** (Layout A/Layout B)
 
-<figure><img src="../.gitbook/assets/ScreenHunter 969.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 969.png" alt="" width="563"><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 {% hint style="info" %}
 Πατήστε <Επαναφορά> για να εισαγάγετε εκ νέου δεδομένα, ή <mark style="color:blue;"><Αποθήκευση></mark> για να αποθηκεύσετε τις αλλαγές σας.
@@ -71,7 +71,7 @@
 
 3. Στην καρτέλα **<Επικεφαλίδα>** (βλ. Εικόνα 3), μπορείτε να προσθέσετε αριστερά Στοιχεία, ενώ δεξιά βλέπετε την Προεπισκόπηση (δηλαδή το πώς θα εμφανίζονται τα στοιχεία της ιστοσελίδας σε κινητό, τάμπλετ και επιτραπέζιο υπολογιστή).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 838.png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 838.png" alt="" width="563"><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
 {% hint style="info" %}
 * Υπάρχει η δυνατότητα να προσθέσετε, να επεξεργαστείτε (κλικάροντας το εικονίδιο μολυβιού), αλλά και να σύρετε τα Στοιχεία σε όποια θέση επιθυμείτε.
@@ -82,13 +82,13 @@
 
 4. Στην καρτέλα **<Υποσέλιδο>** (βλ. Εικόνα 4), αριστερά, μπορείτε να προσθέσετε Στοιχεία, ενώ δεξιά βλέπετε την Προεπισκόπηση.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 102.png" alt=""><figcaption><p>Εικόνα 4</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 102.png" alt="" width="563"><figcaption><p>Εικόνα 4</p></figcaption></figure>
 
 
 
 5. Στην καρτέλα **<Ιστορικό>** (βλ. Εικόνα 5), αριστερά μπορείτε να δείτε το ιστορικό των αλλαγών σας. Επίσης, μπορείτε να δείτε μια προεπισκόπηση των αλλαγών σας σε κινητό, τάμπλετ και επιτραπέζιο υπολογιστή, στη δεξιά πλευρά της οθόνης.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 784.png" alt=""><figcaption><p>Εικόνα 5</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 784.png" alt="" width="563"><figcaption><p>Εικόνα 5</p></figcaption></figure>
 
 {% hint style="info" %}
 Για τη δημοσίευση όλων των αλλαγών που πραγματοποιήσατε, πατήστε πάνω δεξιά στην οθόνη σας το κουμπί <mark style="color:blue;"><Δημοσίευση></mark>.
