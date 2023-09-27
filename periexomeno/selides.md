@@ -16,15 +16,15 @@
 
 Στη δεξιά πλευρά της οθόνης είναι διαθέσιμη η **Προεπισκόπηση** της σελίδας.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 555.png" alt=""><figcaption><p>Εικόνα 3: Καρτέλα &#x3C;Πρότυπο></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 555.png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
 2. Στην καρτέλα **<Ρυθμίσεις> (βλ. Εικόνα 4)**, μπορείτε να τροποποιήσετε τον **Τίτλο**, την **Κατάσταση** (Σε Προσχέδιο, Ενεργό, Αρχειοθετημένο), το URL **Alias**, το **SEO Title** (στη σελίδα προϊόντος, κατηγορίας, συλλογης και κατασκευαστή γράψτε \{{Title\}} για να απεικονίσετε τον τίτλο τους) και τα **Meta keywords**.&#x20;
 
-<figure><img src="../.gitbook/assets/ScreenHunter 556.png" alt=""><figcaption><p>Εικόνα 4: Καρτέλα &#x3C;Ρυθμίσεις></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 556.png" alt=""><figcaption><p>Εικόνα 4</p></figcaption></figure>
 
 3. Κλικάρετε την τρίτη καρτέλα για να δείτε το **<Ιστορικό>** (βλ. Εικόνα 5).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 187.png" alt=""><figcaption><p>Εικόνα 5: Καρτέλα &#x3C;Ιστορικό></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 187.png" alt=""><figcaption><p>Εικόνα 5</p></figcaption></figure>
 
 {% hint style="info" %}
 Μετά τις αλλαγές, μπορείτε να πατήσετε πάνω δεξιά το κουμπί <mark style="color:blue;"><Δημοσίευση σελίδας></mark>.
