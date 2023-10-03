@@ -30,14 +30,14 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 1007.png" alt=""><figcaption><p>Εικόνα 4</p></figcaption></figure>
 
-Δηλώνετε το όνομα πχ. Softone, επιλέγετε την πηγή και στο επόμενο βήμα δηλώνετε τα στοιχεία (βλ. Εικόνα 5):
+Δηλώνετε το όνομα (πχ. Softone), επιλέγετε την πηγή και στο επόμενο βήμα δηλώνετε τα στοιχεία (βλ. Εικόνα 5):
 
 * Σειριακός αριθμός (SN του ERP)
 * App Id (το 955)
-* Όνομα χρήστη και Κωδικός (το όνομα και ο κωδικός του web account που δημιουργήσατε στο ERP).
+* Όνομα χρήστη και Κωδικός (το όνομα και τον κωδικό του web account που δημιουργήσατε στο ERP).
+
+<figure><img src="../../.gitbook/assets/ScreenHunter 1009.png" alt=""><figcaption><p>Εικόνα 5</p></figcaption></figure>
 
 {% hint style="info" %}
 Στη συνέχεια, επιλέγετε <Υποβολή> και <Αποθήκευση>.
 {% endhint %}
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 1009.png" alt=""><figcaption><p>Εικόνα 5</p></figcaption></figure>
