@@ -6,7 +6,7 @@
 
 <figure><img src="../.gitbook/assets/ScreenHunter 53 (1).png" alt=""><figcaption></figcaption></figure>
 
-**Αριστερά:** Θα δείτε:
+**Αριστερά**, θα δείτε:
 
 * το Customer Value για τον Τρέχοντα Μήνα,&#x20;
 * τη Μέση Συχνότητα Παραγγελιών,&#x20;
