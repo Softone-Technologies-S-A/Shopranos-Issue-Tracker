@@ -2,7 +2,7 @@
 
 <mark style="color:yellow;">**ΔΙΑΣΥΝΔΕΣΗ ERP-SHOPRANOS**</mark>
 
-1. **Εμφάνιση  του Web service Shopranos στο ERP.**
+1. **Εμφάνιση  του Web service Shopranos στο ERP**
 
 Για τη διασύνδεση του Shopranos χρειάζεται να υπάρχει στο ERP το web service με id 955 **(Μενού στις Παραμετροποιήσεις > WEB and Mobile > Υπηρεσίες Web) και** βεβαιώνεστε πως υπάρχει στη λίστα (βλ. Εικόνα 1).
 
@@ -16,7 +16,7 @@
 
 2. **Δημιουργία Web account**
 
-Από το Μενού **Παραμετροποιήσεις > WEB and Mobile > Λογαριασμοί Web** προβαίνετε σε δημιουργία νέου λογαριασμού, δηλώνοντας Υπηρεσία χρήστη, το service 955 του Shopranos, Username, Password και Email (βλ. Εικόνα 3)
+Από το Μενού **Παραμετροποιήσεις > WEB and Mobile > Λογαριασμοί Web** προβαίνετε σε δημιουργία νέου λογαριασμού, δηλώνοντας Υπηρεσία χρήστη, το service 955 του Shopranos, Username, Password και Email (βλ. Εικόνα 3).
 
 <figure><img src="../../.gitbook/assets/web_acount (1).png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
