@@ -21,11 +21,11 @@
 
 4. Ακόμη, στην καρτέλα **<Διεύθυνση>** (βλ. Εικόνα 4), αφού επιλέξετε επιθυμητή γλώσσα δεξιά, συμπληρώστε δεξιά: _Διεύθυνση 1, Διεύθυνση 2, Πόλη, Περιφερειακή Ενότητα, Ταχυδρομικό Κώδικα και Χώρα_.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 598.png" alt="" width="434"><figcaption><p>Εικόνα 4</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 598.png" alt=""><figcaption><p>Εικόνα 4</p></figcaption></figure>
 
 5. Στην καρτέλα **<Υποκαταστήματα>**, για να προσθέσετε νέο υποκατάστημα, πατήστε <mark style="color:blue;"><+ Προσθήκη νέου υποκαταστήματος></mark> (βλ. Εικόνα 5α). Στο νέο παράθυρο, ορίστε: **όνομα υποκαταστήματος** (υποχρεωτικά)_,_ **Τηλέφωνο**_,_ **Email Εταιρίας**_,_ **Τύπο ΦΠΑ** (επιλέγετε ανάμεσα σε: Regular, Discounted και Zero)_,_ **Διεύθυνση 1**, **Διεύθυνση 2**, **Πόλη**, **Περιφερειακή Ενότητα**, **Χώρα** και **Ταχυδρομικό Κώδικα**. Κλικάρετε <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark> (βλ. Εικόνα 5β). &#x20;
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 599.png" alt="" width="429"><figcaption><p>Εικόνα 5α</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScreenHunter 599.png" alt=""><figcaption><p>Εικόνα 5α</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 602.png" alt="" width="563"><figcaption><p>Εικόνα 5β</p></figcaption></figure>
 
