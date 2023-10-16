@@ -10,7 +10,7 @@
 
 Πατήστε <mark style="color:blue;">\<Nέο></mark> για να προσθέσετε νέα σελίδα στον ιστότοπό σας. Συμπληρώστε τον Τίτλο, την Κατάσταση της σελίδας και το URL Alias. Πατήστε <Ακύρωση> ή <mark style="color:blue;"><Αποθήκευση></mark> (βλ. Εικόνα 2).
 
-<figure><img src="../.gitbook/assets/ScreenHunter 548.png" alt="" width="365"><figcaption><p>Εικόνα 2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 548.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 1. Επιλέγοντας μια ήδη υπάρχουσα σελίδα, θα μεταφερθείτε στην καρτέλα **<Πρότυπο> (βλ. Εικόνα 3)**, όπου μπορείτε να προσθέσετε (<mark style="color:blue;"><+Προσθήκη></mark>) Βασικά Components (π.χ. Κείμενο με εικόνα, Products Block, Εγγραφή σε Newsletter κ.ά.).&#x20;
 
