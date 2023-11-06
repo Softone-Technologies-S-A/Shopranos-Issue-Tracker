@@ -54,9 +54,13 @@
 
 1. Στην καρτέλα **\<Dashboard>** (βλ. Εικόνα 6): Εμφανίζονται τα στατιστικά του πελάτη.
 
-<figure><img src="../.gitbook/assets/ScreenHunter 467.png" alt="" width="563"><figcaption><p>Εικόνα 6</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 1026.png" alt=""><figcaption><p>Εικόνα 6</p></figcaption></figure>
+
+2. Στην καρτέλα **<Χρήστες>**: Εμφανίζεται σε λίστα το σύνολο των λογαριασμών του πελάτη.
 
 
+
+<figure><img src="../.gitbook/assets/ScreenHunter 1027.png" alt=""><figcaption><p>Εικόνα 7</p></figcaption></figure>
 
 2. Στην καρτέλα **<Στοιχεία>**: Εμφανίζονται όλα τα στοιχεία του πελάτη που μπορούν να εισαχθούν ή να τροποποιηθούν: **Γενικά, Διεύθυνση έδρας, Υποκαταστήματα και Χρήστες πελάτη**.
 
@@ -66,7 +70,7 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 468.png" alt=""><figcaption><p>Εικόνα 7α</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 468.png" alt=""><figcaption><p>Εικόνα 8α</p></figcaption></figure>
 
  
 
