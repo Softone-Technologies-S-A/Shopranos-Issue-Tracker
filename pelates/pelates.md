@@ -56,25 +56,27 @@
 
 <figure><img src="../.gitbook/assets/ScreenHunter 1026.png" alt=""><figcaption><p>Εικόνα 6</p></figcaption></figure>
 
+
+
 2. Στην καρτέλα **<Χρήστες>**: Εμφανίζεται σε λίστα το σύνολο των λογαριασμών του πελάτη.
 
-
-
 <figure><img src="../.gitbook/assets/ScreenHunter 1027.png" alt=""><figcaption><p>Εικόνα 7</p></figcaption></figure>
+
+
 
 2. Στην καρτέλα **<Στοιχεία>**: Εμφανίζονται όλα τα στοιχεία του πελάτη που μπορούν να εισαχθούν ή να τροποποιηθούν: **Γενικά, Διεύθυνση έδρας, Υποκαταστήματα και Χρήστες πελάτη**.
 
 **Γενικά** (βλ. Εικόνες 7α & 7β)
 
-Ορίζετε τα εξής: Όνομα, Κωδικός, Χαρακτηρισμοί, ΑΦΜ, Τύπος ΦΠΑ, Δ.Ο.Υ., Email, Τηλέφωνο, Επαφή (Όνομα & Επώνυμο υπεύθυνου επαφής), Τιμολογιακή κατηγορία, Γλώσσα επικοινωνίας (στην οποία θα λαμβάνει ο πελάτης τα emails), Πωλητής (του πελάτη) και Παρατηρήσεις. &#x20;
+Ορίζετε τα εξής: Όνομα, Κωδικός, Χαρακτηρισμοί, ΑΦΜ, Τύπος ΦΠΑ, Δ.Ο.Υ., Email, Τηλέφωνο, Επαφή (Όνομα & Επώνυμο υπεύθυνου επαφής), Τηλέφωνο επαφής, Τιμολογιακή κατηγορία, Γλώσσα επικοινωνίας (στην οποία θα λαμβάνει ο πελάτης τα emails), Πωλητής (του πελάτη) και Παρατηρήσεις. &#x20;
 
 <div>
 
-<figure><img src="../.gitbook/assets/ScreenHunter 468.png" alt=""><figcaption><p>Εικόνα 8α</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 1028.png" alt=""><figcaption><p>Εικόνα 8α</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/ScreenHunter 471.png" alt=""><figcaption><p>Εικόνα 7β</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 1029.png" alt=""><figcaption><p>Εικόνα 8β</p></figcaption></figure>
 
 </div>
 
