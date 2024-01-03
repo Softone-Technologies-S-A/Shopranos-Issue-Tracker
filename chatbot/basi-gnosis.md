@@ -5,3 +5,9 @@
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/ScreenHunter 1064.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
+
+
+
+Μπορείτε να επιλέξετε το κουτάκι αριστερά από κάθε αντικείμενο ή εκείνο που βρίσκεται αριστερά από την μπάρα για επιλογή όλων των αντικειμένων και στη συνέχεια <mark style="color:red;"><Διαγραφή Επιλεγμένων></mark> (βλ. Εικόνα 2).&#x20;
+
+<figure><img src="../.gitbook/assets/ScreenHunter 1065.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
