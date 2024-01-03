@@ -6,3 +6,4 @@
 
 <figure><img src="../.gitbook/assets/ScreenHunter 1067.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
+Επιλέγοντας από την dropdown λίστα όνομα πελάτη, ακριβώς από κάτω θα εμφανιστεί η αντίστοιχη συνομιλία.&#x20;
