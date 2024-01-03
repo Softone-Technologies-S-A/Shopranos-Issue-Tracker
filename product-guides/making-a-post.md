@@ -25,7 +25,7 @@
 <figure><img src="../.gitbook/assets/ScreenHunter 363.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 {% hint style="info" %}
-Έχετε τη δυνατότητα να εκτυπώσετε τα στοιχεία παραγγελίας πατώντας κάτω δεξιά <mark style="color:blue;"><Εκτύπωση></mark> ή να ακυρώσετε την παραγγελία, κλικάροντας <mark style="color:red;"><Ακύρωση></mark>. Μπορείτε, επίσης, να κάνετε εξαγωγή δεδομένων, επιλέγοντας κάτω αριστερά <mark style="color:purple;">\<ExportToSource></mark>.
+Έχετε τη δυνατότητα να εκτυπώσετε τα στοιχεία παραγγελίας πατώντας κάτω δεξιά <mark style="color:blue;"><Εκτύπωση></mark> ή να ακυρώσετε την παραγγελία, κλικάροντας <mark style="color:red;"><Ακύρωση></mark>. Μπορείτε, επίσης, να κάνετε εξαγωγή δεδομένων, επιλέγοντας κάτω αριστερά <mark style="color:purple;"><Αποστολή στην πηγή σύνδεσης></mark>.
 {% endhint %}
 
 
