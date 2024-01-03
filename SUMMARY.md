@@ -33,6 +33,7 @@
     * [Μενού Υποσέλιδου](periexomeno/menoy/menoy-yposelidoy.md)
   * [Γκαλερί Πολυμέσων](periexomeno/gkaleri-polymeson.md)
   * [Προσαρμοσμένα Πεδία](periexomeno/prosarmosmena-pedia.md)
+* [Chatbot](chatbot.md)
 * [Κατάστημα](katastima/README.md)
   * [Πληροφορίες καταστήματος](katastima/plirofories-katastimatos/README.md)
     * [Στοιχεία Εταιρείας](katastima/plirofories-katastimatos/stoixeia-etaireias.md)
