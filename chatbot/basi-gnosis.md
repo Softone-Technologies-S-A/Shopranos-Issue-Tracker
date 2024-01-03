@@ -13,3 +13,8 @@
 Για να προσθέσετε νέο περιεχόμενο, πατήστε πάνω δεξιά <mark style="color:blue;"><Νέο></mark>. Συμπληρώστε στην ίδια γλώσσα τα πεδία: Τίτλος, Ερωτήσεις και Περιεχόμενο. Προσθέστε ερώτηση, πατώντας <mark style="color:blue;"><+ Προσθήκη ερώτησης></mark>, βοηθώντας το περιεχόμενο να χρησιμοποιηθεί από το chatbot για την απάντηση σχετικών ερωτήσεων. Διαλέξτε Τύπο: product, order, category, brand ή content.&#x20;
 
 <figure><img src="../.gitbook/assets/ScreenHunter 1066.png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
+
+{% hint style="info" %}
+Πατήστε <mark style="color:blue;"><Αποθήκευση></mark> για να αποθηκεύσετε τις αλλαγές ή <Ακύρωση> για να τις ακυρώσετε.
+{% endhint %}
+
