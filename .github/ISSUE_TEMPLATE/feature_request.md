@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an idea for this project
 title: ''
 labels: enhancement, open
-assignees: atsta, konstantinossf, dikoutas
+assignees: atsta, raniavch, dikoutas
 
 ---
 
