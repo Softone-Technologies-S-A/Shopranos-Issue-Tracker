@@ -8,15 +8,7 @@
 
 Στην περίπτωση που ξεχάσατε το Password σας, πατήστε <mark style="color:blue;"><Ξεχάσατε τον κωδικό πρόσβασης;></mark>, εισαγάγετε το Email σας και έπειτα κάντε κλικ στην επιλογή <mark style="color:blue;"><Υποβολή></mark> για να στείλετε έναν σύνδεσμο επαναφοράς κωδικού πρόσβασης στα εισερχόμενά σας.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 02.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 03.png" alt="" width="477"><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 
 
