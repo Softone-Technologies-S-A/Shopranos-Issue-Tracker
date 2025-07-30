@@ -16,7 +16,7 @@
 
 <figure><img src="../.gitbook/assets/ScreenHunter 785.png" alt="" width="418"><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
-2. Στην καρτέλα **<Ρυθμίσεις>** (βλ. Εικόνα 3), ορίζετε**:**
+2. Στην καρτέλα **<Ρυθμίσεις>** (βλ. Εικόνα 3), ορίζετ&#x3B5;**:**
 
 * τον **Τίτλο** της σελίδας (για αλλαγή γλώσσας, πατήστε το εικονίδιο της υδρογείου)
 * την **Κατάσταση** της σελίδας
@@ -34,15 +34,7 @@
 
 3. Στην καρτέλα **<Ιστορικό>** (βλ. Εικόνα 4), μπορείτε αριστερά να δείτε όλες τις αλλαγές που αποθηκεύτηκαν (ξεκινώντας από την πιο πρόσφατη). Στη δεξιά πλευρά της οθόνης, διατίθεται Προεπισκόπηση της σελίδας.
 
-<div>
-
-<figure><img src="../.gitbook/assets/ScreenHunter 714.png" alt=""><figcaption><p>Εικόνα 4</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/ScreenHunter 110.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/ScreenHunter 714.png" alt=""><figcaption><p>Εικόνα 4</p></figcaption></figure> <figure><img src="../.gitbook/assets/ScreenHunter 110.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Μόλις ολοκληρώσετε τις αλλαγές σας, πατήστε <mark style="color:blue;"><Δημοσίευση σελίδας></mark> πάνω δεξιά στην οθόνη σας.&#x20;
