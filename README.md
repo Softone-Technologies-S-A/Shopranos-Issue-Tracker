@@ -1,14 +1,11 @@
 ---
 description: B2B E-Commerce Platform
+icon: hand-wave
 ---
 
-# Shopranos
+# Εισαγωγή
 
-<div align="center">
-
-<figure><img src=".gitbook/assets/Group.png" alt="" width="396"><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src=".gitbook/assets/Group.png" alt="" width="396"><figcaption></figcaption></figure></div>
 
 Μέσα σε μια πληθώρα λύσεων ηλεκτρονικού εμπορίου B2B που προσφέρεται στην αγορά, η **SoftOne**, ως ηγέτης στην αγορά επιχειρηματικού λογισμικού και cloud εφαρμογών, παρουσιάζει μια **νέα λύση για τη δημιουργία καταστήματος Β2Β Ε-Commerce**.&#x20;
 
