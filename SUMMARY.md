@@ -27,7 +27,7 @@
   * [Συλλογές](kyries-leitoyrgies/katalogos/sylloges.md)
 * [Πελάτες](kyries-leitoyrgies/pelates/README.md)
   * [Πελάτες](kyries-leitoyrgies/pelates/pelates.md)
-  * [Κατηγορίες](kyries-leitoyrgies/pelates/katigories.md)
+  * [Ομάδες Πελατών](kyries-leitoyrgies/pelates/katigories.md)
 * [Media Gallery](kyries-leitoyrgies/gkaleri-polymeson.md)
 * [Marketing](kyries-leitoyrgies/marketing.md)
 
