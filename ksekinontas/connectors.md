@@ -1,4 +1,4 @@
-# Connectors
+# Διασύνδεση (Connectors)
 
 <mark style="color:yellow;">**ΔΙΑΣΥΝΔΕΣΗ ERP-SHOPRANOS**</mark>
 
@@ -6,11 +6,11 @@
 
 Για τη διασύνδεση του Shopranos χρειάζεται να υπάρχει στο ERP το web service με id 955 **(Μενού στις Παραμετροποιήσεις > WEB and Mobile > Υπηρεσίες Web) και** βεβαιώνεστε πως υπάρχει στη λίστα (βλ. Εικόνα 1).
 
-<figure><img src="../../.gitbook/assets/web service.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/web service.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
 
 Εάν δεν εμφανίζεται, θα πρέπει από το εικονίδιο του χρήστη στο top bar του ERP να ανοίξετε την επιλογή: **Άδειες Web and Mobile** και να προχωρήσετε σε **Ανανέωση,** ούτως ώστε να εμφανιστεί το web service 955. Σε περίπτωση που πάλι δεν είναι ορατό, θα χρειαστεί update η έκδοση του ERP (βλ. Εικόνα 2).
 
-<figure><img src="../../.gitbook/assets/web_acount.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/web_acount.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
 
 
 
@@ -18,7 +18,7 @@
 
 Από το Μενού **Παραμετροποιήσεις > WEB and Mobile > Λογαριασμοί Web** προβαίνετε σε δημιουργία νέου λογαριασμού, δηλώνοντας Υπηρεσία χρήστη, το service 955 του Shopranos, Username, Password και Email (βλ. Εικόνα 3).
 
-<figure><img src="../../.gitbook/assets/web_acount (1).png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/web_acount (1).png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
 
 
 
@@ -28,7 +28,7 @@
 Μεταβείτε: **Ρυθμίσεις > Εισαγωγή – Εξαγωγή Δεδομένων > Connectors**, για να δημιουργήσετε έναν Connector με βάση τα παραπάνω στοιχεία από το ERP (βλ. Εικόνα 4).
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 1007.png" alt=""><figcaption><p>Εικόνα 4</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 1007.png" alt=""><figcaption><p>Εικόνα 4</p></figcaption></figure>
 
 Δηλώνετε το όνομα (πχ. Softone), επιλέγετε την πηγή και στο επόμενο βήμα δηλώνετε τα στοιχεία (βλ. Εικόνα 5):
 
@@ -36,7 +36,7 @@
 * App Id (το 955)
 * Όνομα χρήστη και Κωδικός (το όνομα και τον κωδικό του web account που δημιουργήσατε στο ERP).
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 1009.png" alt=""><figcaption><p>Εικόνα 5</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ScreenHunter 1009.png" alt=""><figcaption><p>Εικόνα 5</p></figcaption></figure>
 
 {% hint style="info" %}
 Στη συνέχεια, επιλέγετε <Υποβολή> και <Αποθήκευση>.
@@ -55,11 +55,11 @@
 
 Μετά την ολοκλήρωση αυτών των βημάτων, μπορείτε να προχωρήσετε με τη σύνδεση και την ενσωμάτωση των συστημάτων σας χρησιμοποιώντας το παραγόμενο token.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 **Βήμα 2: Προσθήκη χρηστών (backoffice user)**
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 #### Βήμα 3: Προσθήκη Σύνδεσης
 
@@ -74,13 +74,13 @@
 * **Subscription ID**: Το μοναδικό ID της συνδρομής.
 * **Subscription Password (cloud infra)**: Ο κωδικός της συνδρομής που δημιουργήθηκε από τον υπεύθυνο για τη δημιουργία της.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 η γέφυρα είναι έτοιμη.
 
 **Βήμα 4: integrations / add endpoint**
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Ρύθμιση της Γέφυρας (Bridge) για τον Sales Suite Connector
 
@@ -89,11 +89,11 @@
 3. **Επιλογή Υποκαταστήματος**: Επιλέξτε το κατάλληλο υποκατάστημα που θα χρησιμοποιηθεί για την ενσωμάτωση.
 4. **Δικαιώματα Πρόσβασης**: Πατήστε **«Επίτρεψε» (Allow)** για να παραχωρηθούν τα απαραίτητα δικαιώματα πρόσβασης.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 #### Βήμα 5: Απόκτηση Token
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 **Βήμα 6: Shopranos Connector**
 
@@ -102,3 +102,18 @@
 3. Κατεβάστε το αρχείο Datapump.
 4. Στο certificate -> επικολλήστε το certificate από τον server.
 5. Εγκαταστήστε το αρχείο Datapump στον ERP server.
+
+**Βήμα 7: Connector Configuration**
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Στις ρυθμίσεις του connector Entersoft ERP μπορείτε να ορίσετε τις βασικές ρυθμίσεις της διασύνδεσης με το Shopranos.&#x20;
+
+1. Ρυθμίσεις καταλόγου
+2. Ρυθμίσεις πελατών
+3. Ρυθμίσεις Αποθήκης
+4. Ρυθμίσεις Παραγγελιών
+5. Ρυθμίσεις τιμών
+6. Ρυθμίσεις Datapump
