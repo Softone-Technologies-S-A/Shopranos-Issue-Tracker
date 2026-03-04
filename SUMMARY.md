@@ -28,13 +28,13 @@
 * [Πελάτες](kyries-leitoyrgies/pelates/README.md)
   * [Πελάτες](kyries-leitoyrgies/pelates/pelates.md)
   * [Ομάδες Πελατών](kyries-leitoyrgies/pelates/katigories.md)
-* [Media Gallery](kyries-leitoyrgies/gkaleri-polymeson.md)
 * [Loyalty](kyries-leitoyrgies/loyalty/README.md)
   * [Κουπόνια](kyries-leitoyrgies/loyalty/koyponia.md)
 * [Marketing](kyries-leitoyrgies/marketing.md)
 
 ## ΔΙΑΜΟΡΦΩΣΗ ΠΕΡΙΕΧΟΜΕΝΟΥ
 
+* [Media Gallery](diamorfosi-periexomenoy/gkaleri-polymeson.md)
 * [Layout Design](diamorfosi-periexomenoy/layout-design/README.md)
   * [Αρχική Σελίδα](diamorfosi-periexomenoy/layout-design/arxiki-selida.md)
   * [Σελίδες Καταστημάτων](diamorfosi-periexomenoy/layout-design/selides-katastimaton/README.md)
