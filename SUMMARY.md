@@ -29,6 +29,8 @@
   * [Πελάτες](kyries-leitoyrgies/pelates/pelates.md)
   * [Ομάδες Πελατών](kyries-leitoyrgies/pelates/katigories.md)
 * [Media Gallery](kyries-leitoyrgies/gkaleri-polymeson.md)
+* [Loyalty](kyries-leitoyrgies/loyalty/README.md)
+  * [Κουπόνια](kyries-leitoyrgies/loyalty/koyponia.md)
 * [Marketing](kyries-leitoyrgies/marketing.md)
 
 ## ΔΙΑΜΟΡΦΩΣΗ ΠΕΡΙΕΧΟΜΕΝΟΥ
