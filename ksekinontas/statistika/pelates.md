@@ -4,7 +4,7 @@
 Μεταβείτε: **Στατιστικά > Πελάτες**.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 53 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **Αριστερά**, θα δείτε:
 

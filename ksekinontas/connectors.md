@@ -105,9 +105,9 @@
 
 **Βήμα 7: Connector Configuration**
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Στις ρυθμίσεις του connector Entersoft ERP μπορείτε να ορίσετε τις βασικές ρυθμίσεις της διασύνδεσης με το Shopranos.&#x20;
 

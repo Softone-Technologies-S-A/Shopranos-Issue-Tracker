@@ -4,7 +4,7 @@
 Πάνω δεξιά στην οθόνη σας, θα δείτε το **Μενού Χρήστη**.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Πάνω δεξιά, κλικάρετε το _εικονίδιο_ στο οποίο αναγράφονται τα αρχικά του ονόματος χρήστη που δηλώσατε:
 
