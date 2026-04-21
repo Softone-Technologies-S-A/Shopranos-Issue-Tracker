@@ -25,12 +25,19 @@
   * [Προϊόντα](kyries-leitoyrgies/katalogos/getting-set-up.md)
   * [Κατηγορίες](kyries-leitoyrgies/katalogos/katigories.md)
   * [Συλλογές](kyries-leitoyrgies/katalogos/sylloges.md)
+  * [Ρυθμίσεις](kyries-leitoyrgies/katalogos/rythmiseis/README.md)
+    * [Κατηγορίες](kyries-leitoyrgies/katalogos/rythmiseis/katigories.md)
+    * [Μάρκες](kyries-leitoyrgies/katalogos/rythmiseis/markes.md)
+    * [Χαρακτηριστικά](kyries-leitoyrgies/katalogos/rythmiseis/xaraktiristika.md)
+    * [Μοντέλα διαθεσιμότητας αποθέματος](kyries-leitoyrgies/katalogos/rythmiseis/montela-diathesimotitas-apothematos.md)
+    * [Μονάδες μέτρησης](kyries-leitoyrgies/katalogos/rythmiseis/monades-metrisis.md)
+    * [Ορατότητα προϊόντων](kyries-leitoyrgies/katalogos/rythmiseis/oratotita-proionton.md)
+    * [Ετικέτες προϊόντων](kyries-leitoyrgies/katalogos/rythmiseis/etiketes-proionton.md)
 * [Πελάτες](kyries-leitoyrgies/pelates/README.md)
   * [Πελάτες](kyries-leitoyrgies/pelates/pelates.md)
   * [Ομάδες Πελατών](kyries-leitoyrgies/pelates/katigories.md)
 * [Loyalty](kyries-leitoyrgies/loyalty/README.md)
   * [Κουπόνια](kyries-leitoyrgies/loyalty/koyponia.md)
-* [Marketing](kyries-leitoyrgies/marketing.md)
 
 ## ΔΙΑΜΟΡΦΩΣΗ ΠΕΡΙΕΧΟΜΕΝΟΥ
 
