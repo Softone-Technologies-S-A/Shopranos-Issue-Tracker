@@ -20,13 +20,13 @@ icon: tickets-perforated
 **menu > loyalty > coupons**
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Στον πίνακα με την λίστα των κουπονιών βλέπετε όλα τα κουπόνια που έχετε δημιουργήσει , την ημερομηνία ισχύς και την κατάσταση του καθενός (προσχέδιο, ενεργό).
 
 Για την δημιουργία κουπονιού επιλέγετε "δημιουργία κουπονιού" πάνω δεξιά στην δελίδα.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Συμπληρώνετε τα απαραίτητα πεδία για την δημιουργία του κουπονιού και το θέτετε "ενεργο" στην κατάσταση για να μπορεί να χρησιμοποιηθεί από τους πελάτες.
 
@@ -47,7 +47,7 @@ icon: tickets-perforated
 * ημερήσια χρήση κουπονιού
 * σύγκριση αξίας καλαθιού με ή χωρίς κουπόνι
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ## Κουπόνια στο καλάθι του e-shop
 

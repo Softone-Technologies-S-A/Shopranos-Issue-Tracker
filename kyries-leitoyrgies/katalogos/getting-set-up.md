@@ -21,25 +21,23 @@
 
 Κάτω δεξιά, έχετε τη δυνατότητα να επιλέξετε: <mark style="color:blue;"><Καθαρισμός Φίλτρων></mark> και να συμπληρώσετε εκ νέου τα πεδία.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 935.png" alt=""><figcaption><p>Εικόνα 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Στα αποτελέσματα αναζήτησης (βλ. Εικόνα 2) θα δείτε το όνομα κάθε προϊόντος, τον κωδικό αποθέματος (SKU), την Κατάσταση, την Ημερομηνία Εισαγωγής και τις Ενέργειες (Εμφάνιση ή Διαγραφή).&#x20;
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 936.png" alt=""><figcaption><p>Εικόνα 2</p></figcaption></figure>
+Για να διαγράψετε προϊόντα, πατήστε πάνω στο κουτάκι που βρίσκεται αριστερά από κάθε αντικείμενο ή το πρώτο κουτάκι της στήλης για επιλογή όλων των προϊόντων και έπειτα το κόκκκινο κουμπί <mark style="color:red;"><Διαγραφή Επιλεγμένων></mark>.
 
-Για να διαγράψετε προϊόντα, πατήστε πάνω στο κουτάκι που βρίσκεται αριστερά από κάθε αντικείμενο ή το πρώτο κουτάκι της στήλης για επιλογή όλων των προϊόντων και έπειτα το κόκκινο κουμπί <mark style="color:red;"><Διαγραφή Επιλεγμένων></mark>.
+Ακόμη, για να εφαρμόσετε **μαζικές μεταβολές** σε προϊόντα, πατήστε και πάλι πάνω στο κουτάκι που βρίσκεται αριστερά από κάθε αντικείμενο ή το πρώτο κουτάκι της στήλης για επιλογή όλων των αντικειμένων και ύστερα το κουμπί **<Μαζικές ενέργειες>** (βλ. Εικόνα 3)**.**
 
-Ακόμη, για να εφαρμόσετε **μαζικές μεταβολές** σε προϊόντα, πατήστε και πάλι πάνω στο κουτάκι που βρίσκεται αριστερά από κάθε αντικείμενο ή το πρώτο κουτάκι της στήλης για επιλογή όλων των αντικειμένων και ύστερα το κουμπί **<Επεξεργασία των επιλεγμένων>** (βλ. Εικόνα 3)**.**
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 937.png" alt=""><figcaption><p>Εικόνα 3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Στη συνέχεια, θα μεταφερθείτε στη _φόρμα μαζικής ενημέρωσης_ (βλ. Εικόνα 4), όπου:
 
-<table><thead><tr><th width="396.5">Επιλέγετε &#x3C;Αλλαγή> για να ενεργοποιήσετε:</th><th>Λεπτομέρειες</th></tr></thead><tbody><tr><td><strong>&#x3C;Κατάσταση></strong></td><td>Διαλέγετε ανάμεσα σε: Ενεργό, Σε Προσχέδιο, Αρχειοθετημένο.</td></tr><tr><td><strong>&#x3C;Κατηγορία></strong></td><td>Ορίζετε κατηγορία προϊόντων που επιθυμείτε από τη λίστα επιλογής.</td></tr><tr><td><strong>&#x3C;Πρόσθετες κατηγορίες></strong></td><td>Προσθέτετε επιπλέον κατηγορίες στις οποίες θα εμφανίζεται το προϊόν στο e-shop.</td></tr><tr><td><strong>&#x3C;Μοντέλο διάθεσης></strong></td><td>Θα φαίνονται εξατομικευμένα μηνύματα ανάλογα με τη διαθεσιμότητα του προϊόντος.</td></tr><tr><td><strong>&#x3C;Τιμολογιακή Κατηγορία></strong></td><td>Ορίζετε Τιμολογιακή Κατηγορία (Price Policy) που διατίθεται στη λίστα επιλογής.</td></tr><tr><td><strong>&#x3C;Πρότυπα χαρακτηριστικών></strong></td><td>Επιλέγετε ένα πρότυπο χαρακτηριστικών για να προσθέσετε χαρακτηριστικά στο προϊόν.</td></tr><tr><td><strong>&#x3C;Ετικέτες></strong></td><td>Αφορά είτε ήδη υπάρχουσα ετικέτα (που θα διαλέξετε από τη λίστα επιλογής), είτε νέα (την οποία θα πληκτρολογήσετε στην ίδια μπάρα).</td></tr><tr><td><strong>&#x3C;Χαρακτηριστικά></strong></td><td>Προσθέτετε επιπλέον χαρακτηριστικά. </td></tr></tbody></table>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 384.png" alt="" width="487"><figcaption><p>Εικόνα 4</p></figcaption></figure>
+<table><thead><tr><th width="396.5">Επιλέγετε &#x3C;Αλλαγή> για να ενεργοποιήσετε:</th><th>Λεπτομέρειες</th></tr></thead><tbody><tr><td><strong>&#x3C;Κατάσταση></strong></td><td>Διαλέγετε ανάμεσα σε: Ενεργό, Σε Προσχέδιο, Αρχειοθετημένο.</td></tr><tr><td><strong>&#x3C;Κατηγορία></strong></td><td>Ορίζετε κατηγορία προϊόντων που επιθυμείτε από τη λίστα επιλογής.</td></tr><tr><td><strong>&#x3C;Πρόσθετες κατηγορίες></strong></td><td>Προσθέτετε επιπλέον κατηγορίες στις οποίες θα εμφανίζεται το προϊόν στο e-shop.</td></tr><tr><td><strong>&#x3C;Μοντέλο διάθεσης></strong></td><td>Θα φαίνονται εξατομικευμένα μηνύματα ανάλογα με τη διαθεσιμότητα του προϊόντος.</td></tr><tr><td><strong>&#x3C;Τιμολογιακή Κατηγορία></strong></td><td>Ορίζετε Τιμολογιακή Κατηγορία (Price Policy) που διατίθεται στη λίστα επιλογής.</td></tr><tr><td><strong>&#x3C;Πρότυπα χαρακτηριστικών></strong></td><td>Επιλέγετε ένα πρότυπο χαρακτηριστικών για να προσθέσετε χαρακτηριστικά στο προϊόν.</td></tr><tr><td><strong>&#x3C;Ετικέτες></strong></td><td>Αφορά είτε ήδη υπάρχουσα ετικέτα (που θα διαλέξετε από τη λίστα επιλογής), είτε νέα (την οποία θα πληκτρολογήσετε στην ίδια μπάρα).</td></tr><tr><td><strong>&#x3C;Χαρακτηριστικά></strong></td><td>Προσθέτετε επιπλέον χαρακτηριστικά. </td></tr><tr><td></td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
 Πατήστε <Ακύρωση> ή <mark style="color:blue;"><Ενημέρωση></mark> των αλλαγών που προσθέσατε (προσοχή: οι αλλαγές επηρεάζουν τα προϊόντα που έχετε επιλέξει).
@@ -55,25 +53,11 @@
 
 <figure><img src="../../.gitbook/assets/ScreenHunter 945.png" alt="" width="367"><figcaption><p>Εικόνα 6</p></figcaption></figure>
 
-Επιλέξτε Actions > Δημιουργία Περιεχομένου ή Αποδοχή Περιεχομένου (βλ. Εικόνα 7).&#x20;
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 938.png" alt=""><figcaption><p>Εικόνα 7</p></figcaption></figure>
-
-Στην πρώτη περίπτωση **(Actions > Δημιουργία Περιεχομένου)**, εμφανίζεται ένα νέο παράθυρο, όπου καλείστε να επιλέξετε υποχρεωτικά αν θέλετε να δημιουργήσετε περιεχόμενο για πεδία που δεν έχουν αρχικοποιηθεί ή για όλα (κλικάροντας Skip και OverWrite στον Τρόπο αντίστοιχα) και να ορίσετε τη Γλώσσα στην οποία θα δημιουργηθούν τα πεδία. Πατώντας το κουμπί <mark style="color:blue;"><Αποστολή></mark> θα παραχθεί περιεχόμενο για τα προϊόντα με βάση τα φίλτρα που έχετε εφαρμόσει (βλ. Εικόνα 8).&#x20;
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 387 (1).png" alt="" width="365"><figcaption><p>Εικόνα 8</p></figcaption></figure>
-
-Στη δεύτερη περίπτωση **(Actions > Αποδοχή Περιεχομένου)**, εμφανίζεται το περιεχόμενο του κάθε προϊόντος, το οποίο μπορείτε να αποδεχτείτε ή να απορρίψετε ως διαχειριστής, πατώντας <mark style="color:blue;"><Αποδοχή></mark> ή <mark style="color:red;"><Απόρριψη></mark>, αντίστοιχα (βλ. Εικόνα 9).
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 941.png" alt=""><figcaption><p>Εικόνα 9</p></figcaption></figure>
-
-Πάνω δεξιά, πατώντας <Επεξεργασία> (βλ. Εικόνα 10) μεταβαίνετε σε ένα νέο παράθυρο, όπου μπορείτε να τροποποιήσετε τα πεδία του προϊόντος. Πατήστε <Ακύρωση> ή <mark style="color:blue;"><Ενημέρωση></mark>.
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 986.png" alt="" width="494"><figcaption><p>Εικίνα 10</p></figcaption></figure>
+### Προσθήκη προϊόντος
 
 
 
-Για να προσθέσετε ένα προϊόν στην πλατφόρμα, πατήστε πάνω δεξιά το κουμπί <mark style="color:blue;"><Νέο></mark>.
+Για να προσθέσετε ένα προϊόν στην πλατφόρμα, πατήστε πάνω δεξιά το κουμπί <mark style="color:blue;"><Δημιουργία προϊόντος></mark>.
 
 1. Έχοντας μεταφερθεί στην καρτέλα **<Γενικά>**, μπορείτε να ορίσετε την κατάσταση του προϊόντος (Ενεργό, Σε προσχέδιο ή Αρχειοθετημένο). &#x20;
 
@@ -111,51 +95,39 @@
 
 
 
-Αναφορικά με τον **Φόρο** (βλ. Εικόνα 11γ), συμπληρώνετε ΦΠΑ και Καθεστώς Μειωμένου Φ.Π.Α.
+Αναφορικά με τον **Φόρο** , συμπληρώνετε ΦΠΑ και Καθεστώς Μειωμένου Φ.Π.Α.
 
-Στην **Αποστολή** (βλ. Εικόνα 11δ), πληκτρολογείτε τιμή για Βάρος, Μήκος, Πλάτος και Ύψος.&#x20;
+Στην **Αποστολή** , πληκτρολογείτε τιμή για Βάρος, Μήκος, Πλάτος και Ύψος.&#x20;
 
-<div>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 946.png" alt=""><figcaption><p>Εικόνα 11α</p></figcaption></figure>
+**Τύπος προΪόντος**
 
- 
+Επιλέξτε τον τύπο προϊόντος.
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 947.png" alt=""><figcaption><p>Εικόνα 11β</p></figcaption></figure>
+ΠροΪόν με παραλλαγές είναι τα προϊόντα με "χρώμα-μέγεθος". Επιλέξτε τα variants που χρειάζεται για το προϊόν και θα προστεθούν συγκεντρωτικά στον παρακάτω πίνακα.
 
- 
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 948.png" alt=""><figcaption><p>Εικόνα 11γ</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
- 
+**Mαζικές ενέργειες variants**
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 949.png" alt=""><figcaption><p>Εικόνα 11δ</p></figcaption></figure>
+Μαζική επεξεργασία των variants, επιλέξτε όποια variants θέλετε και πατήστε "μαζικές ενέργειες" πάνω δεξιά του πίνακα.
 
-</div>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
-2. Στην καρτέλα **\<Media>** (βλ. Εικόνα 12α) μπορείτε να εισαγάγετε τον αντίστοιχο σύνδεσμο, πατώντας <mark style="color:blue;"><Προσθέστε σύνδεσμο></mark> (βλ. Εικόνα 12β) ή να επιλέξετε αρχεία πατώντας <mark style="color:blue;"><Επιλέξτε αρχεία></mark> (βλ. Εικόνα 12γ).&#x20;
+2. Στην καρτέλα **\<Media>&#x20;**&#x20;μπορείτε να εισαγάγετε τον αντίστοιχο σύνδεσμο, πατώντας <mark style="color:blue;"><Προσθέστε σύνδεσμο></mark>  ή να επιλέξετε αρχεία πατώντας <mark style="color:blue;"><Επιλέξτε αρχεία></mark>&#x20;
 
 Στην πρώτη περίπτωση <mark style="color:blue;">(<Επιλέξτε αρχεία>)</mark>, αναζητήσετε από την μπάρα αναζήτησης πάνω αριστερά, αρχεία που έχετε ανεβάσει, να εισαγάγετε νέο φάκελο, πατώντας <mark style="color:blue;"><+ Νέος φάκελος></mark> ή να ανεβάσετε επιπλέον αρχεία, πατώντας <mark style="color:blue;"><Ανεβάστε αρχεία></mark>. Αν επιθυμείτε να μεταφορτώσετε μεγάλο όγκο αρχείων, μπορείτε αυτό να το κάνετε τμηματικά ή να ανεβάσετε Zip. Πατήστε <mark style="color:blue;"><Προσθήκη επιλεγμένων></mark> ή <Ακύρωση>.
 
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
 Στη δεύτερη περίπτωση <mark style="color:blue;">(<Προσθέστε σύνδεσμο>)</mark>, καλείστε να ορίσετε Τίτλο, Τύπο αρχείου (Εικόνα, Βίντεο ή Αρχείο) και το File URL. Πατήστε <mark style="color:blue;"><ΟΚ></mark> ή <Ακύρωση>.
-
-<div>
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 950.png" alt=""><figcaption><p>Εικόνα 12α</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 992.png" alt=""><figcaption><p>Εικόνα 12β</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 993.png" alt=""><figcaption><p>Εικόνα 12γ</p></figcaption></figure>
-
-</div>
 
 
 
@@ -163,39 +135,14 @@
 
 * **Πρόσθετες Ετικέτες Αναζήτησης**
 * **Πρόσθετο περιεχόμενο** (βλ. Εικόνα 13β). Με το το κουμπί <mark style="color:blue;"><+Προσθήκη νέας γραμμής></mark>, εισαγάγετε στο νέο παράθυρο: εικόνα, Τίτλο και Περιγραφή (επιλέγοντας την επιθυμητή γλώσσα).
-* **Συσχετιζόμενα προϊόντα** (βλ. Εικόνα 13γ). Στο νέο παράθυρο, διαλέγετε προϊόντα του καταστήματος που σχετίζονται με το προστεθέν προϊόν (<mark style="color:blue;"><+ Πρόσθεσε προϊόν></mark>).&#x20;
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 422 (1).png" alt="" width="563"><figcaption><p>Εικόνα 13α</p></figcaption></figure>
-
-<div>
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 392.png" alt=""><figcaption><p>Εικόνα 13β</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 953.png" alt=""><figcaption><p>Εικόνα 13γ</p></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 
 
-4. Στην καρτέλα **<Διαστάσεις>** (βλ. Εικόνα 14α), πατώντας <mark style="color:blue;"><+Ελεύθερη διάσταση></mark> (βλ. Εικόνα 14β) και/ή <mark style="color:blue;"><+Προσθήκη χαρακτηριστικού></mark> (βλ. Εικόνα 14γ), επιλέγετε προϊόν, προσθέτετε τιμές και πατάτε \<enter> στο πληκτρολόγιό σας. Ακριβώς από κάτω, θα εμφανιστούν τα αποτελέσματα (Συνδυασμοί Στοιχείων Παραλλαγής) με την Τιμή, την Ποσότητα και τις Ενέργειες (/<Αφαίρεση>) που αντιστοιχούν (βλ. Εικόνα 14δ).
+4. χαρακτηριστικά
 
-<figure><img src="../../.gitbook/assets/ScreenHunter 395 (1).png" alt="" width="486"><figcaption><p>Εικόνα 14α</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 393.png" alt="" width="481"><figcaption><p>Εικόνα 14β</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 394 (1).png" alt="" width="482"><figcaption><p>Εικόνα 14γ</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 396.png" alt="" width="470"><figcaption><p>Εικόνα 14δ</p></figcaption></figure>
-
-
-
-5. Στην καρτέλα **<Χαρακτηριστικά>** (βλ. Εικόνα 15α), μπορείτε να επιλέξετε ένα πρότυπο χαρακτηριστικών αναφορικά με το προϊόν. Προσθέστε νέο attribute (χαρακτηριστικό), πατώντας <mark style="color:blue;"><+Προσθήκη νέου></mark> και επιλέγοντας σε νέο παράθυρο, χαρακτηριστικό. Κλικάρετε <mark style="color:blue;"><ΟΚ></mark> για να ολοκληρώσετε την ενέργεια ή <Ακύρωση> για την ακυρώσετε (βλ. Εικόνα 15β).
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 397.png" alt="" width="479"><figcaption><p>Εικόνα 15α</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/ScreenHunter 398 (1).png" alt="" width="292"><figcaption><p>Εικόνα 15β</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 
 

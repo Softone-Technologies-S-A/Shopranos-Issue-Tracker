@@ -55,11 +55,11 @@
 
 Μετά την ολοκλήρωση αυτών των βημάτων, μπορείτε να προχωρήσετε με τη σύνδεση και την ενσωμάτωση των συστημάτων σας χρησιμοποιώντας το παραγόμενο token.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Βήμα 2: Προσθήκη χρηστών (backoffice user)**
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Βήμα 3: Προσθήκη Σύνδεσης
 
@@ -74,13 +74,13 @@
 * **Subscription ID**: Το μοναδικό ID της συνδρομής.
 * **Subscription Password (cloud infra)**: Ο κωδικός της συνδρομής που δημιουργήθηκε από τον υπεύθυνο για τη δημιουργία της.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 η γέφυρα είναι έτοιμη.
 
 **Βήμα 4: integrations / add endpoint**
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ρύθμιση της Γέφυρας (Bridge) για τον Sales Suite Connector
 
@@ -89,11 +89,11 @@
 3. **Επιλογή Υποκαταστήματος**: Επιλέξτε το κατάλληλο υποκατάστημα που θα χρησιμοποιηθεί για την ενσωμάτωση.
 4. **Δικαιώματα Πρόσβασης**: Πατήστε **«Επίτρεψε» (Allow)** για να παραχωρηθούν τα απαραίτητα δικαιώματα πρόσβασης.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Βήμα 5: Απόκτηση Token
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Βήμα 6: Shopranos Connector**
 
@@ -105,9 +105,9 @@
 
 **Βήμα 7: Connector Configuration**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Στις ρυθμίσεις του connector Entersoft ERP μπορείτε να ορίσετε τις βασικές ρυθμίσεις της διασύνδεσης με το Shopranos.&#x20;
 

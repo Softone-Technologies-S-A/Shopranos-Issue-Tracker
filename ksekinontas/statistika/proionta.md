@@ -4,7 +4,7 @@
 Για να δείτε την Επισκόπηση των προϊόντων, μεταβείτε: **Στατιστικά > Προϊόντα**. &#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Αριστερά:** Θα δείτε:
 

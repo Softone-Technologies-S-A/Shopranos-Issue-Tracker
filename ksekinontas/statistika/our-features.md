@@ -4,7 +4,7 @@
 Μεταβείτε: **Στατιστικά > Πωλήσεις**. Η Επισκόπηση περιλαμβάνει στοιχεία αναφορικά με τις πωλήσεις την τρέχουσα ημέρα και εβδομάδα, καθώς και τον τρέχοντα μήνα.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Συγκεκριμένα, εμφανίζονται:&#x20;
 
