@@ -55,7 +55,7 @@
 
 Μετά την ολοκλήρωση αυτών των βημάτων, μπορείτε να προχωρήσετε με τη σύνδεση και την ενσωμάτωση των συστημάτων σας χρησιμοποιώντας το παραγόμενο token.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Βήμα 2: Προσθήκη χρηστών (backoffice user)**
 
@@ -105,9 +105,9 @@
 
 **Βήμα 7: Connector Configuration**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Στις ρυθμίσεις του connector Entersoft ERP μπορείτε να ορίσετε τις βασικές ρυθμίσεις της διασύνδεσης με το Shopranos.&#x20;
 
