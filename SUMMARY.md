@@ -20,7 +20,7 @@
 * [Πωλήσεις](kyries-leitoyrgies/poliseis/README.md)
   * [Παραγγελίες](kyries-leitoyrgies/poliseis/making-a-post.md)
   * [Quotes](kyries-leitoyrgies/poliseis/quotes.md)
-  * [Εγκαταλελειμμένες παραγγελίες](kyries-leitoyrgies/poliseis/egkataleleimmenes-paraggelies.md)
+  * [Εγκαταλελειμμένα καλάθια](kyries-leitoyrgies/poliseis/egkataleleimmenes-paraggelies.md)
 * [Κατάλογος](kyries-leitoyrgies/katalogos/README.md)
   * [Προϊόντα](kyries-leitoyrgies/katalogos/getting-set-up.md)
   * [Κατηγορίες](kyries-leitoyrgies/katalogos/katigories.md)
