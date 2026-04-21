@@ -5,7 +5,7 @@
 ## ΞΕΚΙΝΩΝΤΑΣ
 
 * [Login διαδικασία](ksekinontas/login-diadikasia.md)
-* [Προσωπικό Μενού Χρήστη](ksekinontas/prosopiko-menoy-xristi.md)
+* [Επισκόπηση / Dashboard](ksekinontas/prosopiko-menoy-xristi.md)
 * [Διασύνδεση (Connectors)](ksekinontas/connectors.md)
 * [Πληροφορίες καταστήματος](ksekinontas/plirofories-katastimatos/README.md)
   * [Στοιχεία Εταιρείας](ksekinontas/plirofories-katastimatos/stoixeia-etaireias.md)

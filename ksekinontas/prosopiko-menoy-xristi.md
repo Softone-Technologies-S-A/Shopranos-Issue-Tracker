@@ -1,12 +1,10 @@
-# Προσωπικό Μενού Χρήστη
+# Επισκόπηση / Dashboard
 
 {% hint style="success" %}
 Πάνω δεξιά στην οθόνη σας, θα δείτε το **Μενού Χρήστη**.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/ScreenHunter 252.png" alt=""><figcaption></figcaption></figure>
-
-<table><thead><tr><th width="122">Εικονίδια</th><th>Λειτουργία</th><th data-hidden></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/ScreenHunter 258.png" alt="" data-size="original"></td><td>Δίνεται η δυνατότητα αναζήτησης εντός της πλατφόρμας.</td><td></td></tr><tr><td><img src="../.gitbook/assets/ScreenHunter 253.png" alt="" data-size="original"></td><td>Αναγράφονται όλες τις δραστηριότητες που έχουν καταγραφεί στην πλατφόρμα. </td><td></td></tr><tr><td><img src="../.gitbook/assets/ScreenHunter 254.png" alt="" data-size="original"></td><td>Διατίθενται σύνδεσμοι που επιτρέπουν τη γρήγορη πρόσβαση σε συγκεκριμένα σημεία της πλατφόρμας.</td><td></td></tr><tr><td><img src="../.gitbook/assets/ScreenHunter 255 (1).png" alt="" data-size="original"></td><td>Εμφανίζονται τα μηνύματα που σας έχουν σταλεί.</td><td></td></tr><tr><td><img src="../.gitbook/assets/ScreenHunter 256.png" alt="" data-size="original"></td><td>Προβάλλονται οι ειδοποιήσεις σας. Επιλέξτε &#x3C;View all> αν θέλετε να δείτε το σύνολο των ειδοποιήσεων και &#x3C;Διάβασμα όλων> για να πραγματοποιήσετε ανάγνωση ειδοποιήσεων, μαζικά.  </td><td></td></tr></tbody></table>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Πάνω δεξιά, κλικάρετε το _εικονίδιο_ στο οποίο αναγράφονται τα αρχικά του ονόματος χρήστη που δηλώσατε:
 
@@ -28,18 +26,8 @@
 * Πατήστε **<Συνδρομή>**. Στην καρτέλα _<Το Πλάνο μου>_ θα δείτε τις Λεπτομέρειες που αφορούν τη συνδρομή σας (Ημερομηνία λήξης συνδρομής και τον αριθμό χρηστών που απομένουν μέχρι η συνδρομή σας να χρειαστεί ενημέρωση).&#x20;
 * Πατήστε **<Αλλαγή εταιρείας>** για να αλλάξετε το e-shop που θέλετε να διαχειριστείτε.
 * Επιλέξτε **<Αναφορά προβλήματος>** και θα μεταφερθείτε σε νέο παράθυρο, όπου μπορείτε να εισαγάγετε τυχόν δυσλειτουργίες της πλατφόρμας.
-* Επιλέξτε **<Αίτημα για νέα λειτουργία>** και θα μεταφερθείτε σε νέο παράθυρο, όπου μπορείτε να ζητήσετε κάποια νέα λειτουργία.
 
 {% hint style="info" %}
 Για να αποσυνδεθείτε από τον λογαριασμό σας, πατήστε **<Αποσύνδεση>**.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/ScreenHunter 261.png" alt=""><figcaption></figcaption></figure>
-
-
-
-{% hint style="info" %}
-Πάνω αριστερά, στην μπάρα αναζήτησης, μπορείτε να πληκτρολογήσετε την αναζήτησή σας (λέξεις-κλειδιά).&#x20;
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/ScreenHunter 225.png" alt=""><figcaption></figcaption></figure>

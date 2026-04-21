@@ -2,7 +2,7 @@
 
 Η πρόσβαση στην πλατφόρμα Shopranos πραγματοποιείται από οποιοδήποτε πρόγραμμα περιήγησης, μέσω του URL: [SHOPRANOS | B2B e-commerce platform](https://shopranos.gr/) πατώντας στο μενού το κουμπί <mark style="color:green;"><Σύνδεση Χρήστη></mark>.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Στη συνέχεια, εμφανίζεται η **οθόνη εισόδου**, στην οποία καλείστε να συμπληρώσετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου (Email) και τον κωδικό πρόσβασής σας (Password). Επιλέγετε το κουμπί <mark style="color:blue;"><Σύνδεση></mark>, αφού πρώτα βεβαιωθείτε ότι οι κωδικοί που δώσατε είναι οι σωστοί:
 
